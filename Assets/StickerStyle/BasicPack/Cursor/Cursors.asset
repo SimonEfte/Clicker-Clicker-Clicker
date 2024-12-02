@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a00e636acaac5f4c989e8fa40927fed, type: 3}
+  m_Name: Cursors
+  m_EditorClassIdentifier: 
+  cursorMode: 1
+  cursors:
+  - texture: {fileID: 2800000, guid: 08404d3744f51e7479c80be4f4c881b6, type: 3}
+    hotspot: {x: 0.5, y: 0.15625}
+  - texture: {fileID: 2800000, guid: 07ee2c9db47bcd64c8d3e4f39851e513, type: 3}
+    hotspot: {x: 0.265625, y: 0.15625}
+  - texture: {fileID: 2800000, guid: 664e0fabb185215468de4d5e961f62c8, type: 3}
+    hotspot: {x: 0.5, y: 0.15625}
+  - texture: {fileID: 2800000, guid: 3b7b35cef05307a48935be9940cf1b1f, type: 3}
+    hotspot: {x: 0.265625, y: 0.15625}
+  - texture: {fileID: 2800000, guid: e6d59c840a4ed9c41ba5328ea14f1296, type: 3}
+    hotspot: {x: 0.40625, y: 0.09375}
+  - texture: {fileID: 2800000, guid: 678ca9a3ea917d144ab38ac5a9c115eb, type: 3}
+    hotspot: {x: 0.21875, y: 0.125}
+  - texture: {fileID: 2800000, guid: 4a40ac813c5c9644cab4bb631b261f82, type: 3}
+    hotspot: {x: 0.40625, y: 0.09375}
+  - texture: {fileID: 2800000, guid: 14cbb99221ea82f43a988b572352080f, type: 3}
+    hotspot: {x: 0.21875, y: 0.125}
+  - texture: {fileID: 2800000, guid: 3687445b96cbc1640a47a3749200a883, type: 3}
+    hotspot: {x: 0.890625, y: 0.40625}
+  - texture: {fileID: 2800000, guid: 097f3f94ad59d2d4a8e8cb28d6eb657a, type: 3}
+    hotspot: {x: 0.890625, y: 0.40625}
+  - texture: {fileID: 2800000, guid: 480870f3d2135f84183294e7dee33708, type: 3}
+    hotspot: {x: 0.890625, y: 0.40625}
+  - texture: {fileID: 2800000, guid: ac81ab1b34088de4abdccf8b5e6e25e0, type: 3}
+    hotspot: {x: 0.890625, y: 0.40625}
+  - texture: {fileID: 2800000, guid: fa5ddf4b18809f04bb2343ea9538de84, type: 3}
+    hotspot: {x: 0.53125, y: 0.53125}
+  - texture: {fileID: 2800000, guid: 084da1bba1593ba4ba56b027f9c7f108, type: 3}
+    hotspot: {x: 0.53125, y: 0.53125}
+  - texture: {fileID: 2800000, guid: 35e37dc100327ae4383726d0cc7c929c, type: 3}
+    hotspot: {x: 0.53125, y: 0.53125}
+  - texture: {fileID: 2800000, guid: c468a55fc28ce7c4eb5968b23eaa8c2a, type: 3}
+    hotspot: {x: 0.53125, y: 0.53125}
+  - texture: {fileID: 2800000, guid: 3d7481aa5355d78409f6dee932641596, type: 3}
+    hotspot: {x: 0.53125, y: 0.53125}
+  - texture: {fileID: 2800000, guid: fafeca3957a95994684dfae5d09706ad, type: 3}
+    hotspot: {x: 0.40625, y: 0.09375}
+  - texture: {fileID: 2800000, guid: 0bf20ae4ef029a2488c77abef4ba1cf1, type: 3}
+    hotspot: {x: 0.46875, y: 0.125}
+  - texture: {fileID: 2800000, guid: e9b692bd62fa8c849822e9f781ab0728, type: 3}
+    hotspot: {x: 0.40625, y: 0.09375}
+  - texture: {fileID: 2800000, guid: b0330aa02bc042842867af85b8609d97, type: 3}
+    hotspot: {x: 0.46875, y: 0.125}
+  - texture: {fileID: 2800000, guid: 0302e01cd7ec4a543817efe402bc11a3, type: 3}
+    hotspot: {x: 0.53125, y: 0.09375}
+  - texture: {fileID: 2800000, guid: 7021fd6dfb3d2ca409753e3a3e4daca5, type: 3}
+    hotspot: {x: 0.53125, y: 0.09375}
+  - texture: {fileID: 2800000, guid: 6bf73267bd902b14ebccc1405bfbae81, type: 3}
+    hotspot: {x: 0.53125, y: 0.09375}
+  - texture: {fileID: 2800000, guid: 869f656ebc4b1e345a1f3062bd460f17, type: 3}
+    hotspot: {x: 0.53125, y: 0.09375}
+  - texture: {fileID: 2800000, guid: 6bef6e90c6954dd40829285b86b96d2e, type: 3}
+    hotspot: {x: 0.5, y: 0.5}
+  - texture: {fileID: 2800000, guid: 166ce06dbf0dacf4585086bb13c79b3d, type: 3}
+    hotspot: {x: 0.53125, y: 0.5}
+  - texture: {fileID: 2800000, guid: 3d0d08226f34a7c4090617f975e345ef, type: 3}
+    hotspot: {x: 0.5, y: 0.5}
+  - texture: {fileID: 2800000, guid: a554934d96fa48a4c887eaa7bd8e49ae, type: 3}
+    hotspot: {x: 0.5, y: 0.5}
+  - texture: {fileID: 2800000, guid: 0bb91c2964bbd1e41918275ee64b2db0, type: 3}
+    hotspot: {x: 0.5, y: 0.5}
+  - texture: {fileID: 2800000, guid: 19ca3d8e8762a28439a1a63c9c7b0ed6, type: 3}
+    hotspot: {x: 0.5, y: 0.5}
+  - texture: {fileID: 2800000, guid: 84a52e4c084b0e34e91547eeb73d3fc9, type: 3}
+    hotspot: {x: 0.5, y: 0.5}
+  - texture: {fileID: 2800000, guid: 8d6336c70a37b1d449f26a60010652d2, type: 3}
+    hotspot: {x: 0.5, y: 0.5}

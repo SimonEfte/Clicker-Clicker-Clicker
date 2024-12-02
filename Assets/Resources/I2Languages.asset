@@ -1,0 +1,4018 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: ACTIVE
+      TermType: 0
+      Description: 
+      Languages:
+      - ACTIVE
+      - Actif
+      - ATTIVO
+      - AKTIV
+      - Activo
+      - "\u30A2\u30AF\u30C6\u30A3\u30D6"
+      - "\uC9C1\uC811"
+      - AKTYWNY
+      - ATIVO
+      - "\u0410\u041A\u0422\u0418\u0412\u041D\u042B\u0419"
+      - "\u4E3B\u52A8"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: APP STORE
+      TermType: 0
+      Description: 
+      Languages:
+      - APP STORE
+      - APP STORE
+      - APP STORE
+      - APP STORE
+      - APP STORE
+      - APP STORE
+      - APP STORE
+      - APP STORE
+      - APP STORE
+      - APP STORE
+      - APP STORE
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: ASCEND FOR
+      TermType: 0
+      Description: 
+      Languages:
+      - ASCEND FOR
+      - Ascension
+      - ASCENDI PER
+      - "STEIGE AUF F\xDCR "
+      - Ascender por
+      - "\u80FD\u529B\u30A2\u30C3\u30D7\u307E\u3067"
+      - "\uC0C1\uC2B9: "
+      - "WZNIE\u015A SI\u0118 NA"
+      - Ascender Para
+      - "\u041F\u041E\u0414\u041D\u042F\u0422\u042C\u0421\u042F \u0417\u0410"
+      - "\u98DE\u5347\u81F3"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: AUTO PURCHASE
+      TermType: 0
+      Description: 
+      Languages:
+      - "AUTO \nPURCHASE"
+      - "Auto \nAchat"
+      - "Auto \nAcquistare"
+      - "Auto \nKaufen"
+      - "Auto \nCompra"
+      - "\u81EA\u52D5 \n\u8CFC\u5165"
+      - "\uC790\uB3D9 \n\uAD6C\uC785"
+      - "Automatyczny \nZakup"
+      - "Auto \nComprar"
+      - "\u0410\u0432\u0442\u043E \n\u041F\u043E\u043A\u0443\u043F\u043A\u0430"
+      - "\u81EA\u52A8\u8D2D\u4E70"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Achieve 100 critical clicks
+      TermType: 0
+      Description: 
+      Languages:
+      - Achieve 1000 critical clicks
+      - "R\xE9alisez 1000\_clics critiques"
+      - Ottieni 1000 clic critici
+      - Erziele 1000 kritische Klicks
+      - "Logra 1000 clics cr\xEDticos"
+      - "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30AF\u30EA\u30C3\u30AF\u65701000\u56DE\u3092\u9054\u6210\u3059\u308B"
+      - "\uCE58\uBA85\uC801 \uD074\uB9AD\uC218 1000\uD68C \uB2EC\uC131\uD558\uAE30"
+      - "Zdob\u0105d\u017A 1000 krytycznych klikni\u0119\u0107"
+      - "Obtenha 1000 cliques cr\xEDticos"
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 1000 \u043A\u0440\u0438\u0442\u0438\u0447\u043D\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u8FBE\u6210 1000 \u6B21\u66B4\u51FB\u70B9\u51FB"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Achieve 10000 critical clicks
+      TermType: 0
+      Description: 
+      Languages:
+      - Achieve 50000 critical clicks
+      - "R\xE9alisez 50000 clics critiques"
+      - Ottieni 50000 clic critici
+      - Erziele 50000 kritische Klicks
+      - "Logra 50000 clics cr\xEDticos"
+      - "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30AF\u30EA\u30C3\u30AF\u657050000\u56DE\u3092\u9054\u6210\u3059\u308B"
+      - "\uCE58\uBA85\uC801 \uD074\uB9AD\uC218 50000\uD68C \uB2EC\uC131\uD558\uAE30"
+      - "Zdob\u0105d\u017A 50000 krytycznych klikni\u0119\u0107"
+      - "Obtenha 50000 cliques cr\xEDticos"
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 50000 \u043A\u0440\u0438\u0442\u0438\u0447\u043D\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u8FBE\u6210 50000 \u6B21\u66B4\u51FB\u70B9\u51FB"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Achieve a particle bonanza 2 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Achieve a particle bonanza 5 times
+      - "D\xE9clenche une pluie de particules 5 fois"
+      - Ottieni una bonanza di particelle per 5 volte
+      - Erreiche 5x eine Partikel-Belohnung
+      - "Consigue una bonanza de part\xEDculas 5 veces"
+      - "\u30D1\u30FC\u30C6\u30A3\u30AF\u30EB\u5927\u5F53\u305F\u308A\u30925\u56DE\u9054\u6210\u3059\u308B"
+      - "\uC785\uC790 \uB178\uB2E4\uC9C0 5\uD68C \uB2EC\uC131\uD558\uAE30 "
+      - "Zdob\u0105d\u017A cz\u0119\u015Bciow\u0105 bonanz\u0119 5 razy"
+      - "Alcance uma bonan\xE7a de part\xEDculas 5 vezes"
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u0447\u0430\u0441\u0442\u0438\u0446\u0443
+        \u0431\u043E\u043D\u0430\u043D\u0437\u044B 5 \u0440\u0430\u0437\u0430"
+      - "\u83B7\u5F97\u7C92\u5B50\u66B4\u5BCC 5 \u6B21"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Achievements
+      TermType: 0
+      Description: 
+      Languages:
+      - Achievements
+      - "R\xE9alisations"
+      - Risultati
+      - Errungenschaften
+      - Logros
+      - "\u5B9F\u7E3E"
+      - "\uC5C5\uC801"
+      - "Osi\u0105gni\u0119cia"
+      - Conquistas
+      - "\u0414\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u044F"
+      - "\u6210\u5C31"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Acquire a total of 100 clickscension coins
+      TermType: 0
+      Description: 
+      Languages:
+      - Acquire a total of 25 clickscension coins
+      - "Acqu\xE9rir un total de 25 pi\xE8ces clics-ascension"
+      - Acquisisci un totale di 25 monete clickascesa
+      - "Erwerbe insgesamt 25 Klickaufstieg-M\xFCnzen"
+      - Adquiere un total de 25 monedas de clickscension
+      - "\u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30FB\u30B3\u30A4\u30F3\u3092\u5408\u8A0825\u679A\u7372\u5F97\u3059\u308B"
+      - "\uCD1D 25\uAC1C\uC758 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778 \uD68D\uB4DD\uD558\uAE30 "
+      - "Zdob\u0105d\u017A w sumie 25 monet wzniesienia"
+      - Adquira um total de 25 moedas clickscension
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u0432\u0441\u0435\u0433\u043E
+        25 \u043C\u043E\u043D\u0435\u0442 \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u603B\u5171\u83B7\u5F97 25 \u4E2A \u70B9\u51FB\u98DE\u5347\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Acquire a total of 1000 clickscension coins
+      TermType: 0
+      Description: 
+      Languages:
+      - Acquire a total of 500 clickscension coins
+      - "Acqu\xE9rir un total de 500 pi\xE8ces clics-ascension"
+      - Acquisisci un totale di 500 monete clickascesa
+      - "Erwerbe insgesamt 500 Klickaufstieg-M\xFCnzen"
+      - Adquiere un total de 500 monedas de clickscension
+      - "\u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30FB\u30B3\u30A4\u30F3\u3092\u5408\u8A08500\u679A\u7372\u5F97\u3059\u308B"
+      - "\uCD1D 500\uAC1C\uC758 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778 \uD68D\uB4DD\uD558\uAE30 "
+      - "Zdob\u0105d\u017A w sumie 500 monet wzniesienia"
+      - Adquira um total de 500 moedas clickscension
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u0432\u0441\u0435\u0433\u043E
+        500 \u043C\u043E\u043D\u0435\u0442 \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u603B\u5171\u83B7\u5F97500\u4E2A\u70B9\u51FB\u98DE\u5347\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Acquire a total of 10000 clickscension coins
+      TermType: 0
+      Description: 
+      Languages:
+      - Acquire a total of 5000 clickscension coins
+      - "Acqu\xE9rir un total de 5000 pi\xE8ces clics-ascension"
+      - Acquisisci un totale di 5000 monete clickascesa
+      - "Erwerbe insgesamt 5000 Klickaufstieg-M\xFCnzen"
+      - Adquiere un total de 5000 monedas de clickscension
+      - "\u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30FB\u30B3\u30A4\u30F3\u3092\u5408\u8A085000\u679A\u7372\u5F97\u3059\u308B"
+      - "\uCD1D 5000\uAC1C\uC758 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778 \uD68D\uB4DD\uD558\uAE30 "
+      - "Zdob\u0105d\u017A w sumie 5000 monet wzniesienia"
+      - Adquira um total de 5000 moedas clickscension
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u0432\u0441\u0435\u0433\u043E
+        5000 \u043C\u043E\u043D\u0435\u0442 \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u603B\u5171\u83B7\u5F97 5000 \u70B9\u51FB\u98DE\u5347\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Acquire a total of 1M gold
+      TermType: 0
+      Description: 
+      Languages:
+      - Acquire a total of 1M gold
+      - "Acqu\xE9rir un total de 1M d\u2019or"
+      - Ottieni un totale di 1M d'oro
+      - Erwerbe insgesamt 1M Gold
+      - "Adquiere un total de 1 mill\xF3n de oro"
+      - "\u5408\u8A081M\u30B4\u30FC\u30EB\u30C9\u3092\u7372\u5F97\u3059\u308B"
+      - "\uCD1D 1M \uACE8\uB4DC \uD68D\uB4DD\uD558\uAE30"
+      - "Zdob\u0105d\u017A w sumie 1M z\u0142ota"
+      - "Adquira um total de 1 milh\xE3o de ouro"
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u0432\u0441\u0435\u0433\u043E
+        1M \u0437\u043E\u043B\u043E\u0442\u0430"
+      - "\u603B\u5171\u83B7\u5F971M\u4E2A\u91D1\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Acquire a total of 1N gold
+      TermType: 0
+      Description: 
+      Languages:
+      - Acquire a total of 1Qi gold
+      - "Acqu\xE9rir un total de 1Qi d\u2019or"
+      - Ottieni un totale di 1Qi d'oro
+      - Erwerbe insgesamt 1Qi Gold
+      - Adquiere un total de 1Qi de oro
+      - "\u5408\u8A081Qi\u30B4\u30FC\u30EB\u30C9\u3092\u7372\u5F97\u3059\u308B"
+      - "\uCD1D 1Qi \uACE8\uB4DC \uD68D\uB4DD\uD558\uAE30 "
+      - "Zdob\u0105d\u017A w sumie 1Qi z\u0142ota"
+      - Adquira um total de 1Qi de ouro
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u0432\u0441\u0435\u0433\u043E
+        1Qi \u0437\u043E\u043B\u043E\u0442\u0430"
+      - "\u603B\u5171\u83B7\u5F971Qi\u4E2A\u91D1\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Acquire a total of 1Qi gold
+      TermType: 0
+      Description: 
+      Languages:
+      - Acquire a total of 1T gold
+      - "Acqu\xE9rir un total de 1T d\u2019or"
+      - Ottieni un totale di 1T d'oro
+      - Erwerbe insgesamt 1T Gold
+      - Adquiere un total de 1T de oro
+      - "\u5408\u8A081T\u30B4\u30FC\u30EB\u30C9\u3092\u7372\u5F97\u3059\u308B"
+      - "\uCD1D 11T \uACE8\uB4DC \uD68D\uB4DD\uD558\uAE30 "
+      - "Zdob\u0105d\u017A w sumie 1T z\u0142ota"
+      - Adquira um total de 1T de ouro
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u0432\u0441\u0435\u0433\u043E
+        1T\u0437\u043E\u043B\u043E\u0442\u0430"
+      - "\u603B\u5171\u83B7\u5F97 1T \u4E2A\u91D1\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Acquire a total of 1Sp gold
+      TermType: 0
+      Description: 
+      Languages:
+      - Acquire a total of 1Qa gold
+      - "Acqu\xE9rir un total de 1Qa d\u2019or"
+      - Ottieni un totale di 1Qa d'oro
+      - Erwerbe insgesamt 1Qa Gold
+      - Adquiere un total de 1Qa de oro
+      - "\u5408\u8A081Qa\u30B4\u30FC\u30EB\u30C9\u3092\u7372\u5F97\u3059\u308B"
+      - "\uCD1D 1Qa \uACE8\uB4DC \uD68D\uB4DD\uD558\uAE30 "
+      - "Zdob\u0105d\u017A w sumie 1Qa z\u0142ota"
+      - Adquira um total de 1Qa de ouro
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u0432\u0441\u0435\u0433\u043E
+        1Qa \u0437\u043E\u043B\u043E\u0442\u0430"
+      - "\u603B\u5171\u83B7\u5F97 1Qa \u4E2A\u91D1\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Acquire a total of 1T gold
+      TermType: 0
+      Description: 
+      Languages:
+      - Acquire a total of 1B gold
+      - "Acqu\xE9rir un total de 1B d'or"
+      - Ottieni un totale di 1B d'oro
+      - Erwerbe insgesamt 1B Gold
+      - Adquiere un total de 1B de oro
+      - "\u5408\u8A081B\u30B4\u30FC\u30EB\u30C9\u3092\u7372\u5F97\u3059\u308B"
+      - "\uCD1D 1B \uACE8\uB4DC \uD68D\uB4DD\uD558\uAE30 "
+      - "Zdob\u0105d\u017A \u0142\u0105cznie 1B z\u0142ota"
+      - Adquira um total de 1B de ouro
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u0432\u0441\u0435\u0433\u043E
+        1B \u0437\u043E\u043B\u043E\u0442\u0430"
+      - "\u603B\u5171\u83B7\u5F971B\u4E2A\u91D1\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Acquire a total of 1Ud gold
+      TermType: 0
+      Description: 
+      Languages:
+      - Acquire a total of 1Sx gold
+      - "Acqu\xE9rir un total de 1Sx d'or"
+      - Ottieni un totale di 1Sx d'oro
+      - Erwerbe insgesamt 1Sx Gold
+      - Adquiere un total de 1Sx de oro
+      - "\u5408\u8A081Sx\u30B4\u30FC\u30EB\u30C9\u3092\u7372\u5F97\u3059\u308B"
+      - "\uCD1D 1Sx \uACE8\uB4DC \uD68D\uB4DD\uD558\uAE30 "
+      - "Zdob\u0105d\u017A w sumie 1Sx z\u0142ota"
+      - Adquira um total de 1Sx de ouro
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u0432\u0441\u0435\u0433\u043E
+        1Sx \u0437\u043E\u043B\u043E\u0442\u0430"
+      - "\u603B\u5171\u83B7\u5F97 1Sx \u4E2A\u91D1\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Active Gold
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Active
+
+        Gold'
+      - Or Actif
+      - Oro Attivo
+      - Aktives Gold
+      - Oro activo
+      - "\u30A2\u30AF\u30C6\u30A3\u30D6\u306A\u30B4\u30FC\u30EB\u30C9"
+      - "\uC9C1\uC811 \uACE8\uB4DC "
+      - "Aktywne z\u0142oto"
+      - 'Ativo
+
+        Ouro'
+      - "\u0410\u043A\u0442\u0438\u0432\u043D\u043E\u0435 \u0437\u043E\u043B\u043E\u0442\u043E"
+      - "\u4E3B\u52A8\n\u91D1\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Active Gold Increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Active Click Gold Increase
+      - Augmentation de L'Or Actif
+      - Aumento dell'Oro Attivo
+      - Aktiver Klick-Gold-Anstieg
+      - Aumento de oro activo
+      - "\u30A2\u30AF\u30C6\u30A3\u30D6\u306A\u30AF\u30EA\u30C3\u30AF\u30B4\u30FC\u30EB\u30C9\u306E\u5897\u52A0"
+      - "\uC9C1\uC811 \uACE8\uB4DC \uC99D\uAC00 "
+      - "Wzrost aktywnego z\u0142ota"
+      - Aumento De Ouro De Clique Ativo
+      - "\u0423\u0432\u0435\u043B\u0438\u0447\u0435\u043D\u0438\u0435 \u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0433\u043E
+        \u0437\u043E\u043B\u043E\u0442\u0430"
+      - "\u4E3B\u52A8\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Arrows
+      TermType: 0
+      Description: 
+      Languages:
+      - Arrows
+      - "Fl\xE8ches"
+      - Frecce
+      - Pfeile
+      - Flechas
+      - "\u77E2\u5370"
+      - "\uD654\uC0B4"
+      - "Strza\u0142ki"
+      - Setas
+      - "\u0421\u0442\u0440\u0435\u043B\u044B"
+      - "\u7BAD"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Auto Clicker
+      TermType: 0
+      Description: 
+      Languages:
+      - Auto Clicker
+      - Clic Automatique
+      - Clicker Automatico
+      - Auto-Klicker
+      - "Clicker autom\xE1tico"
+      - "\u30AA\u30FC\u30C8\u30AF\u30EA\u30C3\u30AB\u30FC"
+      - "\uC790\uB3D9 \uD074\uB9AC\uCEE4"
+      - Automatyczny Kliker
+      - "Clicker Autom\xE1tico"
+      - "\u0410\u0432\u0442\u043E\u043A\u043B\u0438\u043A\u0435\u0440"
+      - "\u81EA\u52A8\u70B9\u51FB\u5668"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: BONANZA!
+      TermType: 0
+      Description: 
+      Languages:
+      - BONANZA
+      - BONANZA!
+      - BONANZA!
+      - Belohnung
+      - "\xA1Bonanza!"
+      - "\u5927\u5F53\u305F\u308A"
+      - "\uB178\uB2E4\uC9C0 "
+      - "Szcz\u0119\u015Bcie"
+      - "Bonan\xE7a"
+      - "\u0411\u041E\u041D\u0410\u041D\u0417\u0410!"
+      - "\u66B4\u5BCC\uFF01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Ball
+      TermType: 0
+      Description: 
+      Languages:
+      - Ball
+      - Balle
+      - Palla
+      - Ball
+      - Pelota
+      - "\u30DC\u30FC\u30EB"
+      - "\uACF5"
+      - "Pi\u0142ka"
+      - Bola
+      - "\u0428\u0430\u0440"
+      - "\u7403"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Ball Turret
+      TermType: 0
+      Description: 
+      Languages:
+      - Ball Turret
+      - "Tourelle \xE0 Balles"
+      - Torretta a palla
+      - "Ballgesch\xFCtz"
+      - Torreta de bolas
+      - "\u30DC\u30FC\u30EB\u30BF\u30EC\u30C3\u30C8"
+      - "\uACF5 \uD3EC\uD0D1"
+      - "Wie\u017Cyczka kulowa"
+      - Torre De Bola
+      - "\u0428\u0430\u0440\u043E\u0432\u0430\u044F \u0442\u0443\u0440\u0435\u043B\u044C"
+      - "\u7403\u5854"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Better Click Upgrades
+      TermType: 0
+      Description: 
+      Languages:
+      - Better Click Upgrades
+      - "Meilleures Am\xE9liorations de Clics  "
+      - Upgrade a Click Migliore
+      - Bessere Klick-Upgrades
+      - Mejores mejoras de clic
+      - "\u9AD8\u5EA6\u306A\u30AF\u30EA\u30C3\u30AF\u306E\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9"
+      - "\uD074\uB9AD \uC5C5\uADF8\uB808\uC774\uB4DC"
+      - "Lepsze Aktualizacje Klikni\u0119\u0107"
+      - "Melhores Atualiza\xE7\xF5es De Cliques"
+      - "\u041B\u0443\u0447\u0448\u0438\u0435 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F
+        \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u66F4\u597D\u7684\u70B9\u51FB\u5347\u7EA7\u88C5\u5907"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Better Projectile Upgrades
+      TermType: 0
+      Description: 
+      Languages:
+      - Better Projectile Upgrades
+      - "Meilleures Am\xE9liorations De Projectiles"
+      - Upgrade a Proiettili Migliori
+      - Bessere Projektil-Upgrades
+      - Mejores mejoras de proyectiles
+      - "\u9AD8\u5EA6\u306A\u767A\u5C04\u4F53\u306E\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9"
+      - "\uBC1C\uC0AC\uCCB4 \uC5C5\uADF8\uB808\uC774\uB4DC"
+      - "Lepsze Ulepszenia Pocisk\xF3w"
+      - "Melhores Atualiza\xE7\xF5es De Proj\xE9teis"
+      - "\u041B\u0443\u0447\u0448\u0438\u0435 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F
+        \u0441\u043D\u0430\u0440\u044F\u0434\u043E\u0432"
+      - "\u66F4\u597D\u7684\u5F39\u5C04\u7269\u5347\u7EA7\u88C5\u5907"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Big Ball
+      TermType: 0
+      Description: 
+      Languages:
+      - Big Ball
+      - Grosse Balle
+      - Palla Grande
+      - "Gro\xDFer Ball"
+      - Bola grande
+      - "\u5927\u304D\u306A\u30DC\u30FC\u30EB"
+      - "\uD070 \uACF5"
+      - "Du\u017Ca Pi\u0142ka"
+      - Bola Grande
+      - "\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u0448\u0430\u0440"
+      - "\u5927\u7403"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Boomerang
+      TermType: 0
+      Description: 
+      Languages:
+      - Boomerang
+      - Boomerang
+      - Boomerang
+      - Boomerang
+      - "Bumer\xE1n"
+      - "\u30D6\u30FC\u30E1\u30E9\u30F3"
+      - "\uBD80\uBA54\uB791"
+      - Bumerang
+      - Bumerangue
+      - "\u0411\u0443\u043C\u0435\u0440\u0430\u043D\u0433"
+      - "\u56DE\u65CB\u9556"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Boulder
+      TermType: 0
+      Description: 
+      Languages:
+      - Boulder
+      - Rocher
+      - Masso
+      - Felsblock
+      - Roca
+      - "\u5CA9"
+      - "\uBC14\uC704 "
+      - "Kamie\u0144"
+      - Pedregulho
+      - "\u0412\u0430\u043B\u0443\u043D"
+      - "\u5DE8\u77F3"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Bounce the ball 100 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Bounce the ball 10000 times
+      - Faire rebondir la balle 10000 fois
+      - Fai rimbalzare la palla 10000 volte
+      - Lass den Ball 10000x aufprallen
+      - Haz rebotar la pelota 10000 veces
+      - "\u30DC\u30FC\u30EB\u309210000\u56DE\u30D0\u30A6\u30F3\u30C9\u3055\u305B\u308B"
+      - "\uACF5 10000\uD68C \uD295\uAE30\uAE30 "
+      - "Odbij pi\u0142k\u0119 10000 razy"
+      - Quicar a bola 10000 vezes
+      - "\u041E\u0442\u0431\u0435\u0439\u0442\u0435 \u0448\u0430\u0440 10000 \u0440\u0430\u0437"
+      - "\u5C06\u7403\u5F39\u8D77 10000 \u6B21"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Bounce the big ball 100 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Bounce the big ball 4000 times
+      - Faites rebondir la grosse balle 4000 fois
+      - Fai rimbalzare la palla grande 4000 volte
+      - "Lass den gro\xDFen Ball 4000x h\xFCpfen"
+      - Haz rebotar la bola grande 4000 veces
+      - "\u5927\u304D\u306A\u30DC\u30FC\u30EB\u30924000\u56DE\u30D0\u30A6\u30F3\u30C9\u3055\u305B\u308B"
+      - "\uD070 \uACF5 4000\uD68C \uD295\uAE30\uAE30 "
+      - "Odbij du\u017C\u0105 pi\u0142k\u0119 4000 razy"
+      - Quique a bola grande 4000 vezes
+      - "\u041E\u0442\u0431\u0435\u0439\u0442\u0435 \u0431\u043E\u043B\u044C\u0448\u043E\u0439
+        \u0448\u0430\u0440 4000 \u0440\u0430\u0437"
+      - "\u5C06\u5927\u7403\u5F39\u8D77 4000 \u6B21"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: CLAIM
+      TermType: 0
+      Description: 
+      Languages:
+      - CLAIM
+      - "R\xC9CLAMER"
+      - RISCUOTI
+      - BEANSPRUCHEN
+      - Reclamar
+      - "\u7533\u8ACB"
+      - "\uC2E0\uCCAD"
+      - ODBIERZ
+      - Alegar
+      - "\u041F\u041E\u041B\u0423\u0427\u0418\u0422\u042C"
+      - "\u9886\u53D6"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: CLOSE
+      TermType: 0
+      Description: 
+      Languages:
+      - CLOSE
+      - Fermer
+      - Vicino
+      - "Schlie\xDFen"
+      - Cerca
+      - "\u51FA\u53E3"
+      - "\uB098\uAC00\uAE30 "
+      - "Zamkn\u0105\u0107"
+      - Fechar
+      - "\u0417\u0430\u043A\u0440\u044B\u0432\u0430\u0442\u044C"
+      - "\u9000\u51FA"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Chance C = Chance to spawn procjectile per main cursor click. Chance
+        S = Chance to spawn projectile per second.
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Chance/C = Chance to spawn projectile per main cursor click.
+
+
+        Chance/S
+        = Chance to spawn projectile per second.'
+      - "Chance/C = Chance de g\xE9n\xE9rer un projectile par clic du curseur principal.\n\nChance/S
+        = Chance de g\xE9n\xE9rer un projectile par seconde."
+      - "Possibilit\xE0/C = Possibilit\xE0 di generare proiettili cliccando sul cursore
+        principale.\n\nProbabilit\xE0/S = Possibilit\xE0 di generare proiettili al
+        secondo."
+      - Chance/C = Chance, ein Projektil pro Hauptcursorklick zu erzeugen. Chance/S
+        = Chance, ein Projektil pro Sekunde zu erzeugen.
+      - 'Probabilidad/C = Probabilidad de generar proyectiles por cada clic del cursor
+        principal.
+
+        Probabilidad/S = Probabilidad de generar proyectiles
+        por segundo.'
+      - "Chance/C = \u30E1\u30A4\u30F3\u30AB\u30FC\u30BD\u30EB\u306E\u30AF\u30EA\u30C3\u30AF\u3054\u3068\u306B\u767A\u5C04\u7269\u3092\u751F\u6210\u3059\u308B\u78BA\u7387\u3002\n\nChance/S
+        = 1 \u79D2\u3042\u305F\u308A\u306B\u767A\u5C04\u7269\u3092\u751F\u6210\u3059\u308B\u78BA\u7387\u3002"
+      - "\uD655\uB960/\uD074\uB9AD = \uBA54\uC778 \uCEE4\uC11C \uD074\uB9AD \uB2F9
+        \uBC1C\uC0AC\uCCB4 \uC0DD\uC131 \uD655\uB960.\n\n\uD655\uB960/\uCD08 = \uCD08\uB2F9
+        \uBC1C\uC0AC\uCCB4 \uC0DD\uC131 \uD655\uB960."
+      - "Szansa C = Szansa na wystrzelenie pocisku za ka\u017Cde klikni\u0119cie
+        kursorem. \nSzansa S = Szansa na wystrzelenie pocisku na sekund\u0119."
+      - "de chance/C = Chance de gerar proj\xE9til por clique do cursor principal.\n\nde
+        chance/S = Chance de gerar proj\xE9teis por segundo."
+      - "\u0428\u0430\u043D\u0441/C = \u0428\u0430\u043D\u0441 \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u044F
+        \u0441\u043D\u0430\u0440\u044F\u0434\u043E\u0432 \u043F\u0440\u0438 \u043A\u043B\u0438\u043A\u0435
+        \u043D\u0430 \u0433\u043B\u0430\u0432\u043D\u044B\u0439 \u043A\u0443\u0440\u0441\u043E\u0440.\n\n\n\u0428\u0430\u043D\u0441/S
+        = \u0428\u0430\u043D\u0441 \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u044F
+        \u0441\u043D\u0430\u0440\u044F\u0434\u043E\u0432 \u0432 \u0441\u0435\u043A\u0443\u043D\u0434\u0443."
+      - " \u673A\u7387/\u70B9\u51FB = \u6BCF\u6B21\u4E3B\u5149\u6807\u70B9\u51FB\u751F\u6210\u5F39\u5C04\u7269\u7684\u673A\u4F1A\u3002\n\n\u673A\u7387/\u79D2
+        = \u6BCF\u79D2\u751F\u6210\u5F39\u5C04\u7269\u7684\u673A\u4F1A\u3002"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Chinese
+      TermType: 0
+      Description: 
+      Languages:
+      - Chinese
+      - Chinois
+      - Cinese
+      - Chinesisch
+      - Chino
+      - "\u4E2D\u56FD\u4EBA"
+      - "\uC911\uAD6D\uC5B4"
+      - "Chi\u0144ski"
+      - "Chin\xEAs"
+      - "\u041A\u0438\u0442\u0430\u0439\u0441\u043A\u0438\u0439"
+      - "\u4E2D\u6587"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Click 500 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Click 500 times
+      - Cliquez 500 fois
+      - 6
+      - Klicke 500x
+      - Haz clic 500 veces
+      - "500\u56DE\u30AF\u30EA\u30C3\u30AF"
+      - "500\uD68C \uD074\uB9AD"
+      - Kliknij 500 razy
+      - Clique 500 vezes
+      - "\u041A\u043B\u0438\u043A\u043D\u0438\u0442\u0435 500 \u0440\u0430\u0437"
+      - "\u70B9\u51FB500\u6B21"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Click 50000 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Click 50000 times
+      - Cliquez 50000 fois
+      - Fare clic 50000 volte
+      - Klicke 50000x
+      - Haz clic 50000 veces
+      - "50000\u56DE\u30AF\u30EA\u30C3\u30AF"
+      - "50000\uD68C \uD074\uB9AD"
+      - Kliknij 50000 razy
+      - Clique 50000 vezes
+      - "\u041A\u043B\u0438\u043A\u043D\u0438\u0442\u0435 50000 \u0440\u0430\u0437"
+      - "\u70B9\u51FB50000\u6B21"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Click 500000 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Click 500000 times
+      - Cliquez 500000 fois
+      - Fai clic 500000 volte
+      - Klicke 500000x
+      - Haz clic 500000 veces
+      - "500000\u56DE\u30AF\u30EA\u30C3\u30AF"
+      - "500000\uD68C \uD074\uB9AD"
+      - Kliknij 500000 razy
+      - Clique 500000 vezes
+      - "\u041A\u043B\u0438\u043A\u043D\u0438\u0442\u0435 500000 \u0440\u0430\u0437"
+      - "\u70B9\u51FB500000\u4E07\u6B21"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Click AOE
+      TermType: 0
+      Description: 
+      Languages:
+      - Click AOE
+      - Clic AOE
+      - Click AOE
+      - "Kritischer Fl\xE4cheneffekt"
+      - Clic AOE
+      - "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EBAOE"
+      - "\uD074\uB9AD \uAD11\uC5ED"
+      - "AOE klikni\u0119cia"
+      - "Cr\xEDtico AOE"
+      - "\u041A\u043B\u0438\u043A\u043D\u0438\u0442\u0435 \u043D\u0430 \u0437\u043E\u043D\u0443
+        \u0432\u043E\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F"
+      - "\u70B9\u51FBAOE"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Click Gold Stats
+      TermType: 0
+      Description: 
+      Languages:
+      - Click Gold Stats
+      - Cliquez sur les Statistiques d'Or
+      - Statistiche Click Oro
+      - Klicke auf Goldstatistik
+      - "Estad\xEDsticas de oro de clic"
+      - "\u30B4\u30FC\u30EB\u30C9\u7D71\u8A08\u3092\u30AF\u30EA\u30C3\u30AF"
+      - "\uD074\uB9AD \uACE8\uB4DC \uD1B5\uACC4"
+      - "Statystki z\u0142ota z klikni\u0119\u0107"
+      - "Clique Em Estat\xEDsticas De Ouro"
+      - "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0430 \u0437\u043E\u043B\u043E\u0442\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u70B9\u51FB\u91D1\u5E01\u7EDF\u8BA1"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Click Stats
+      TermType: 0
+      Description: 
+      Languages:
+      - Click Stats
+      - 'Cliquez sur les Statistiques '
+      - 'Statistiche Click '
+      - Klicke auf Statistik
+      - "Estad\xEDsticas de clic"
+      - "\u7D71\u8A08\u3092\u30AF\u30EA\u30C3\u30AF"
+      - "\uD074\uB9AD \uD1B5\uACC4"
+      - "Statystyki klikni\u0119\u0107"
+      - "Clique Em Estat\xEDsticas"
+      - "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0430 \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u70B9\u51FB\u7EDF\u8BA1"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Click Upgrades
+      TermType: 0
+      Description: 
+      Languages:
+      - Click Upgrades
+      - "Cliquez sur les Mises \xC0 Niveau"
+      - 'Upgrade Click '
+      - Klicke auf Upgrades
+      - Mejoras de clic
+      - "\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3092\u30AF\u30EA\u30C3\u30AF"
+      - "\uD074\uB9AD \uC5C5\uB4DC\uB808\uC774\uB4DC "
+      - "Aktualizacje kliknie\u0107"
+      - "Clique Em Atualiza\xE7\xF5es"
+      - "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u70B9\u51FB\u5347\u7EA7"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: 'Click gold text pop up:'
+      TermType: 0
+      Description: 
+      Languages:
+      - Click gold text pop up
+      - "Cliquez sur le texte dor\xE9 qui appara\xEEt:"
+      - Popup di testo Click Oro
+      - Klicke auf das Popup mit goldenem Text.
+      - Haz clic en la ventana emergente del oro
+      - "\u91D1\u8272\u306E\u30C6\u30AD\u30B9\u30C8\u306E\u30DD\u30C3\u30D7\u30A2\u30C3\u30D7\u3092\u30AF\u30EA\u30C3\u30AF"
+      - "\uD074\uB9AD \uACE8\uB4DC \uAE00 \uD31D\uC5C5: "
+      - "Kliknij wyskakuj\u0105ce okienko ze z\u0142otym tekstem"
+      - Clique no pop-up do texto dourado
+      - "\u041A\u043B\u0438\u043A\u043D\u0438\u0442\u0435 \u043D\u0430 \u0432\u0441\u043F\u043B\u044B\u0432\u0430\u044E\u0449\u0438\u0439
+        \u0437\u043E\u043B\u043E\u0442\u043E\u0439 \u0442\u0435\u043A\u0441\u0442:"
+      - "\u70B9\u51FB\u91D1\u8272\u6587\u5B57\u5F39\u51FA\uFF1A"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Click the golden fist 20 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Click the golden fist 30 times
+      - Cliquez 30 fois sur le poing d'or
+      - Clicca sul pugno d'oro 30 volte
+      - Klicke 30x auf die goldene Faust
+      - "Haz clic en el pu\xF1o dorado 30 veces"
+      - "\u9EC4\u91D1\u306E\u62F3\u309230\u56DE\u30AF\u30EA\u30C3\u30AF"
+      - "\uD669\uAE08 \uC8FC\uBA39 30\uD68C \uD074\uB9AD\uD558\uAE30 "
+      - "Kliknij z\u0142ot\u0105 pi\u0119\u015B\u0107 30 razy"
+      - Clique no punho dourado 30 vezes
+      - "\u041A\u043B\u0438\u043A\u043D\u0438\u0442\u0435 \u043D\u0430 \u0437\u043E\u043B\u043E\u0442\u043E\u0439
+        \u043A\u0443\u043B\u0430\u043A 30 \u0440\u0430\u0437"
+      - "\u70B9\u51FB\u9EC4\u91D1\u62F330\u6B21"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Click the golden fist 5 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Click the golden fist 5 times
+      - Cliquez 5 fois sur le poing d'or
+      - Clicca sul pugno d'oro 5 volte
+      - Klicke 5x auf die goldene Faust
+      - "Haz clic en el pu\xF1o dorado 5 veces"
+      - "\u9EC4\u91D1\u306E\u62F3\u30925\u56DE\u30AF\u30EA\u30C3\u30AF"
+      - "\uD669\uAE08 \uC8FC\uBA39 5\uD68C \uD074\uB9AD\uD558\uAE30 "
+      - "Kliknij z\u0142ot\u0105 pi\u0119\u015B\u0107 5 razy"
+      - Clique no punho dourado 5 vezes
+      - "\u041A\u043B\u0438\u043A\u043D\u0438\u0442\u0435 \u043D\u0430 \u0437\u043E\u043B\u043E\u0442\u043E\u0439
+        \u043A\u0443\u043B\u0430\u043A 5 \u0440\u0430\u0437"
+      - "\u70B9\u51FB\u9EC4\u91D1\u62F35\u6B21"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Click the main cursor 10000 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Click the main cursor 10000 times
+      - Cliquez 10000 fois sur le curseur principal
+      - Clicca sul cursore principale 10000 volte
+      - Klicke 10000x auf den Hauptcursor
+      - Haz clic en el cursor principal 10000 veces
+      - "\u30E1\u30A4\u30F3\u30AB\u30FC\u30BD\u30EB\u309210000\u56DE\u30AF\u30EA\u30C3\u30AF"
+      - "\uC8FC\uC694 \uCEE4\uC11C 10000\uD68C \uD074\uB9AD\uD558\uAE30 "
+      - "Kliknij g\u0142\xF3wny kursor 10000 razy"
+      - Clique no cursor principal 10000 vezes
+      - "\u041A\u043B\u0438\u043A\u043D\u0438\u0442\u0435 \u043D\u0430 \u0433\u043B\u0430\u0432\u043D\u044B\u0439
+        \u043A\u0443\u0440\u0441\u043E\u0440 100 \u0440\u0430\u0437"
+      - "\u70B9\u51FB\u4E3B\u5149\u6807 10000 \u6B21"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Click the main cursor 500000 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Click the main cursor 750000 times
+      - Cliquez 750000 fois sur le curseur principal
+      - Clicca sul cursore principale 750000 volte
+      - Klicke 750000x auf den Hauptcursor
+      - Haz clic en el cursor principal 750000 veces
+      - "\u30E1\u30A4\u30F3\u30AB\u30FC\u30BD\u30EB\u3092750000\u56DE\u30AF\u30EA\u30C3\u30AF"
+      - "\uC8FC\uC694 \uCEE4\uC11C 750000\uD68C \uD074\uB9AD\uD558\uAE30 "
+      - "Kliknij g\u0142\xF3wny kursor 750000 razy"
+      - Clique no cursor principal 750000 vezes
+      - "\u041A\u043B\u0438\u043A\u043D\u0438\u0442\u0435 \u043D\u0430 \u0433\u043B\u0430\u0432\u043D\u044B\u0439
+        \u043A\u0443\u0440\u0441\u043E\u0440 750000 \u0440\u0430\u0437"
+      - "\u70B9\u51FB\u4E3B\u5149\u6807 750000 \u6B21"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Clickcension
+      TermType: 0
+      Description: 
+      Languages:
+      - Clickscension
+      - clics-ascension
+      - Clickascesa
+      - Klickaufstieg
+      - Clickscension
+      - "\u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3"
+      - "\uD074\uB9AD\uC13C\uC158 "
+      - Wzniesienie
+      - "Cliquescens\xE3o"
+      - "\u041F\u0435\u0440\u0435\u0445\u043E\u0434 \u043F\u043E \u043A\u043B\u0438\u043A\u0443"
+      - "\u70B9\u51FB\u98DE\u5347"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Clickscension Stats
+      TermType: 0
+      Description: 
+      Languages:
+      - Clickscension Stats
+      - Statistiques De clics-ascension
+      - Statistiche su Clickascesa
+      - Klickaufstieg-Statistiken
+      - "Estad\xEDsticas de clickscension"
+      - "\u30AF\u30EA\u30C3\u30AF\u6570\u306E\u7D71\u8A08"
+      - "\uD074\uB9AD\uC13C\uC158 \uD1B5\uACC4 "
+      - Statystyki wzniesienia
+      - "Estat\xEDsticas De Cliques"
+      - "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0430 \u043F\u0435\u0440\u0435\u0445\u043E\u0434\u043E\u0432
+        \u043F\u043E \u043A\u043B\u0438\u043A\u0443"
+      - "\u70B9\u51FB\u98DE\u5347\u7EDF\u8BA1"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Clickscension coin increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Clickscension coin increase
+      - "Augmentation des pi\xE8ces clics-ascension"
+      - Aumento della moneta Clickascesa
+      - "Erh\xF6hung der Klickaufstieg-M\xFCnze"
+      - Aumento de moneda clickscension
+      - "\u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30FB\u30B3\u30A4\u30F3\u5897\u52A0"
+      - "\uD074\uB9AD\uC13C\uC158 \uCF54\uC778 \uC99D\uAC00"
+      - "Zwi\u0119kszenie liczby monet wzniesienia"
+      - Aumento da moeda Clickscension
+      - "\u0423\u0432\u0435\u043B\u0438\u0447\u0435\u043D\u0438\u0435 \u043C\u043E\u043D\u0435\u0442
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u70B9\u51FB\u98DE\u5347\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Crit Click Chance
+      TermType: 0
+      Description: 
+      Languages:
+      - Crit Click Chance
+      - "Probabilit\xE9 de Clic Critique"
+      - "Probabilit\xE0 di Click Crit"
+      - Chance auf einen kritischen Klick
+      - "Probabilidad de clic cr\xEDtico"
+      - "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30AF\u30EA\u30C3\u30AF\u306E\u30C1\u30E3\u30F3\u30B9"
+      - "\uCE58\uBA85\uD0C0 \uD074\uB9AD \uD655\uB960 "
+      - "Szansa Na Krytyczne Klikni\u0119cie"
+      - "Chance De Clique Cr\xEDtico"
+      - "\u0428\u0430\u043D\u0441 \u043D\u0430 \u043A\u0440\u0438\u0442\u0438\u0447\u043D\u044B\u0439
+        \u043A\u043B\u0438\u043A"
+      - "\u66B4\u51FB\u51E0\u7387"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Crit Increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Crit Increase
+      - Augmentation des Clics critiques
+      - Aumento Crit
+      - "Kritische Erh\xF6hung"
+      - "Aumento cr\xEDtico"
+      - "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u5897\u52A0"
+      - "\uCE58\uBA85\uD0C0 \uC99D\uAC00"
+      - Wzrost Krytyczny
+      - "Aumento Cr\xEDtico"
+      - "\u041F\u043E\u0432\u044B\u0448\u0435\u043D\u0438\u0435 \u043A\u0440\u0438\u0442\u0438\u0447\u043D\u043E\u0433\u043E
+        \u043A\u043B\u0438\u043A\u0430"
+      - "\u66B4\u51FB\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Crit clicks only effect the main cursor.
+      TermType: 0
+      Description: 
+      Languages:
+      - Crit clicks only effect the main cursor.
+      - "Les clics critiques n\u2019affectent que le curseur principal."
+      - I click crit hanno effetto solo sul cursore principale.
+      - Kritische Klicks wirken sich nur auf den Hauptcursor aus.
+      - "Los clics cr\xEDticos solo afectan al cursor principal"
+      - "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30FB\u30AF\u30EA\u30C3\u30AF\u306F\u30E1\u30A4\u30F3
+        \u30AB\u30FC\u30BD\u30EB\u306B\u306E\u307F\u5F71\u97FF\u3057\u307E\u3059\u3002"
+      - "\uCE58\uBA85\uD0C0 \uD074\uB9AD\uC740 \uC8FC\uC694 \uCEE4\uC11C\uC5D0\uB9CC
+        \uC601\uD5A5\uC744 \uBBF8\uCE69\uB2C8\uB2E4."
+      - "Krytyczne klikni\u0119cia wp\u0142ywaj\u0105 tylko na g\u0142\xF3wny kursor."
+      - "Cliques cr\xEDticos afetam apenas o cursor principal."
+      - "\u041A\u0440\u0438\u0442\u0438\u0447\u043D\u044B\u0435 \u043A\u043B\u0438\u043A\u0438
+        \u0432\u043B\u0438\u044F\u044E\u0442 \u0442\u043E\u043B\u044C\u043A\u043E
+        \u043D\u0430 \u0433\u043B\u0430\u0432\u043D\u044B\u0439 \u043A\u0443\u0440\u0441\u043E\u0440."
+      - "\u66B4\u51FB\u53EA\u5F71\u54CD\u4E3B\u5149\u6807\u3002"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: DISCORD
+      TermType: 0
+      Description: 
+      Languages:
+      - DISCORD
+      - DISCORDE
+      - DISCORD
+      - DISCORD
+      - DISCORD
+      - DISCORD
+      - "\uB514\uC2A4\uCF54\uB4DC "
+      - DISCORD
+      - DISCORD
+      - DISCORD
+      - DISCORD
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Destroy 100 diamond falling cursors
+      TermType: 0
+      Description: 
+      Languages:
+      - Destroy 400 diamond falling cursors
+      - "D\xE9truisez 400 curseurs diamants qui tombent"
+      - Distruggi 400 cursori diamante che cadono
+      - "Zerst\xF6re 400 fallende Diamant-Cursor"
+      - Destruye 400 cursores de diamantes que caen
+      - "\u843D\u3061\u3066\u304F\u308B\u30C0\u30A4\u30E4\u30E2\u30F3\u30C9\u30AB\u30FC\u30BD\u30EB\u3092400\u500B\u7834\u58CA\u3059\u308B"
+      - "\uB2E4\uC774\uC544\uBAAC\uB4DC \uD558\uAC15 \uCEE4\uC11C 400\uAC1C \uD30C\uAD34\uD558\uAE30 "
+      - "Zniszcz 400 diamentowych spadaj\u0105cych kursor\xF3w"
+      - Destrua 400 cursores caindo de diamantes
+      - "\u0423\u043D\u0438\u0447\u0442\u043E\u0436\u044C\u0442\u0435 400 \u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0445
+        \u0430\u043B\u043C\u0430\u0437\u043D\u044B\u0445 \u043A\u0443\u0440\u0441\u043E\u0440\u043E\u0432"
+      - "\u6467\u6BC1 400 \u4E2A\u94BB\u77F3\u4E0B\u843D\u5149\u6807"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Destroy 100 emerald falling cursors
+      TermType: 0
+      Description: 
+      Languages:
+      - Destroy 300 emerald falling cursors
+      - "D\xE9truisez 300 curseurs \xE9meraude qui tombent"
+      - Distruggi 300 cursori smeraldo che cadono
+      - "Zerst\xF6re 300 fallende Smaragd-Cursor"
+      - Destruye 300 cursores de esmeralda que caen
+      - "\u843D\u3061\u3066\u304F\u308B\u30A8\u30E1\u30E9\u30EB\u30C9\u30AB\u30FC\u30BD\u30EB\u3092300\u500B\u7834\u58CA\u3059\u308B"
+      - "\uC5D0\uBA54\uB784\uB4DC \uD558\uAC15 \uCEE4\uC11C 300\uAC1C \uD30C\uAD34\uD558\uAE30 "
+      - "Zniszcz 300 szmaragdowych kursor\xF3w"
+      - Destrua 300 cursores esmeraldas caindo
+      - "\u0423\u043D\u0438\u0447\u0442\u043E\u0436\u044C\u0442\u0435 300 \u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0445
+        \u0438\u0437\u0443\u043C\u0440\u0443\u0434\u043D\u044B\u0445 \u043A\u0443\u0440\u0441\u043E\u0440\u043E\u0432"
+      - "\u6467\u6BC1 300 \u4E2A\u7EFF\u5B9D\u77F3\u4E0B\u843D\u5149\u6807"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Destroy 100 falling cursors
+      TermType: 0
+      Description: 
+      Languages:
+      - Destroy 1000 falling cursors
+      - "D\xE9truisez 1000 curseurs qui tombent"
+      - Distruggi 1000 cursori che cadono
+      - "Zerst\xF6re 1000 fallende Cursor"
+      - Destruye 1000 cursores que caen
+      - "\u843D\u3061\u3066\u304F\u308B\u30AB\u30FC\u30BD\u30EB\u30921000\u500B\u7834\u58CA\u3059\u308B"
+      - "\uD558\uAC15 \uCEE4\uC11C 1000\uAC1C \uD30C\uAD34\uD558\uAE30 "
+      - "Zniszcz 1000 spadaj\u0105cych kursor\xF3w"
+      - Destrua 1000 cursores em queda
+      - "\u0423\u043D\u0438\u0447\u0442\u043E\u0436\u044C\u0442\u0435 1000 \u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0445
+        \u043A\u0443\u0440\u0441\u043E\u0440\u043E\u0432"
+      - "\u6467\u6BC1 1000 \u4E2A\u4E0B\u843D\u5149\u6807"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Destroy 100 purple falling cursors
+      TermType: 0
+      Description: 
+      Languages:
+      - Destroy 69 purple falling cursors
+      - "D\xE9truisez 69 curseurs violets qui tombent"
+      - Distruggi 69 cursori viola che cadono
+      - "Zerst\xF6re 69 lila fallende Cursor"
+      - Destruye 69 cursores morados que caen
+      - "\u843D\u3061\u3066\u304F\u308B\u7D2B\u8272\u30AB\u30FC\u30BD\u30EB\u309269\u500B\u7834\u58CA\u3059\u308B"
+      - "\uBCF4\uB77C\uC0C9 \uD558\uAC15 \uCEE4\uC11C 69\uAC1C \uD30C\uAD34\uD558\uAE30 "
+      - "Zniszcz 69 fioletowych spadaj\u0105cych kursor\xF3w"
+      - Destrua 69 cursores roxos caindo
+      - "\u0423\u043D\u0438\u0447\u0442\u043E\u0436\u044C\u0442\u0435 69 \u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0445
+        \u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0445 \u043A\u0443\u0440\u0441\u043E\u0440\u043E\u0432"
+      - "\u6467\u6BC1 69\u4E2A\u7D2B\u8272\u4E0B\u843D\u5149\u6807"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Destroy 100 rainbow falling cursors
+      TermType: 0
+      Description: 
+      Languages:
+      - Destroy 123 rainbow falling cursors
+      - "D\xE9truisez 123 curseurs arc-en-ciel qui tombent"
+      - Distruggi 123 cursori arcobaleno che cadono
+      - "Zerst\xF6re 123 fallende Regenbogen-Cursor"
+      - "Destruye 123 cursores arco\xEDris que caen"
+      - "\u843D\u3061\u3066\u304F\u308B\u8679\u30AB\u30FC\u30BD\u30EB\u3092123\u500B\u7834\u58CA\u3059\u308B"
+      - "\uBB34\uC9C0\uAC1C \uD558\uAC15 \uCEE4\uC11C 123\uAC1C \uD30C\uAD34\uD558\uAE30 "
+      - "Zniszcz 123 t\u0119czowych spadaj\u0105cych kursor\xF3w"
+      - "Destrua 123 cursores caindo do arco-\xEDris"
+      - "\u0423\u043D\u0438\u0447\u0442\u043E\u0436\u044C\u0442\u0435 123 \u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0445
+        \u0440\u0430\u0434\u0443\u0436\u043D\u044B\u0445 \u043A\u0443\u0440\u0441\u043E\u0440\u043E\u0432"
+      - "\u6467\u6BC1 123 \u4E2A\u5F69\u8679\u4E0B\u843D\u5149\u6807"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Destroy 100000 falling cursors
+      TermType: 0
+      Description: 
+      Languages:
+      - Destroy 75000 falling cursors
+      - "D\xE9truisez 75000 curseurs qui tombent"
+      - Distruggi 75000 cursori che cadono
+      - "Zerst\xF6re 75000 fallende Cursor"
+      - Destruye 75000 cursores que caen
+      - "\u843D\u3061\u3066\u304F\u308B\u30AB\u30FC\u30BD\u30EB\u309275000\u500B\u7834\u58CA\u3059\u308B"
+      - "\uD558\uAC15 \uCEE4\uC11C 75000\uAC1C \uD30C\uAD34\uD558\uAE30 "
+      - "Zniszcz 75000 spadaj\u0105cych kursor\xF3w"
+      - Destrua 75000 cursores em queda
+      - "\u0423\u043D\u0438\u0447\u0442\u043E\u0436\u044C\u0442\u0435 75000 \u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0445
+        \u043A\u0443\u0440\u0441\u043E\u0440\u043E\u0432"
+      - "\u6467\u6BC1 75000 \u4E2A\u4E0B\u843D\u5149\u6807"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Destroy 5M falling cursors
+      TermType: 0
+      Description: 
+      Languages:
+      - Destroy 1.5M falling cursors
+      - "D\xE9truisez 1.5M de curseurs qui tombent"
+      - Distruggi 1.5M di cursori che cadono
+      - "Zerst\xF6re 1.5M fallende Cursor"
+      - Destruye 1.5M de cursores que caen
+      - "1.5M\u306E\u843D\u3061\u3066\u304F\u308B\u30AB\u30FC\u30BD\u30EB\u3092\u7834\u58CA\u3059\u308B"
+      - "\uD558\uAC15 \uCEE4\uC11C 1.5M\uAC1C \uD30C\uAD34\uD558\uAE30 "
+      - "Zniszcz 1.5M spadaj\u0105cych kursor\xF3w"
+      - Destrua 1.5M cursores em queda
+      - "\u0423\u043D\u0438\u0447\u0442\u043E\u0436\u044C\u0442\u0435 1.5M \u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0445
+        \u043A\u0443\u0440\u0441\u043E\u0440\u043E\u0432"
+      - "\u6467\u6BC1 1.5M \u4E2A\u4E0B\u843D\u5149\u6807"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Diamond Cursor Spawn
+      TermType: 0
+      Description: 
+      Languages:
+      - Falling Diamond Cursor Chance
+      - Apparition du Curseur en Diamant
+      - Spawn del Cursore Diamante
+      - Chance auf einen fallenden Diamant-Cursor
+      - "Probabilidad de aparici\xF3n del cursor de diamante"
+      - "\u843D\u3061\u3066\u304F\u308B\u30C0\u30A4\u30E4\u30E2\u30F3\u30C9\u30AB\u30FC\u30BD\u30EB\u30C1\u30E3\u30F3\u30B9"
+      - "\uB2E4\uC774\uC544\uBAAC\uB4DC \uCEE4\uC11C \uC0DD\uC131 "
+      - "Pojawienie si\u0119 diamentowego kursora"
+      - Chance De Cursor De Diamante Caindo
+      - "\u041F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u0435 \u0430\u043B\u043C\u0430\u0437\u043D\u043E\u0433\u043E
+        \u043A\u0443\u0440\u0441\u043E\u0440\u0430"
+      - "\u751F\u6210\u94BB\u77F3\u5149\u6807"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Do you wish to reset the entire game? All progress will be lost.
+      TermType: 0
+      Description: 
+      Languages:
+      - Do you wish to reset the entire game? All progress  will be lost.
+      - "Souhaitez-vous r\xE9initialiser tout le jeu\_? Tout progr\xE8s sera perdu."
+      - Vuoi ripristinare il gioco? Tutti i progressi andranno persi.
+      - "M\xF6chtest du das gesamte Spiel zur\xFCcksetzen? Jeglicher Fortschritt
+        geht verloren."
+      - "\xBFQuieres restablecer todo el juego? Se perder\xE1 todo el progreso"
+      - "\u30B2\u30FC\u30E0\u5168\u4F53\u3092\u30EA\u30BB\u30C3\u30C8\u3057\u307E\u3059\u304B?\u3059\u3079\u3066\u306E\u9032\u884C\u72B6\u6CC1\u306F\u5931\u308F\u308C\u307E\u3059\u3002"
+      - "\uAC8C\uC784 \uC804\uCCB4\uB97C \uCD08\uAE30\uD654\uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?
+        \uBAA8\uB4E0 \uAC8C\uC784 \uC9C4\uD589\uC0C1\uD669\uC774 \uC0AD\uC81C\uB420
+        \uAC83\uC785\uB2C8\uB2E4. "
+      - "Czy chcesz zresetowa\u0107 ca\u0142\u0105 gr\u0119? Wszystkie post\u0119py
+        zostan\u0105 utracone."
+      - "Deseja reiniciar o jogo inteiro? Todo o progresso ser\xE1 perdido."
+      - "\u0416\u0435\u043B\u0430\u0435\u0442\u0435 \u0441\u0431\u0440\u043E\u0441\u0438\u0442\u044C
+        \u0432\u0441\u044E \u0438\u0433\u0440\u0443? \u0412\u0435\u0441\u044C \u043F\u0440\u043E\u0433\u0440\u0435\u0441\u0441
+        \u0431\u0443\u0434\u0435\u0442 \u0443\u0442\u0440\u0430\u0447\u0435\u043D."
+      - "\u60A8\u60F3\u91CD\u7F6E\u6574\u4E2A\u6E38\u620F\u5417\uFF1F\u6240\u6709\u8FDB\u5EA6\u90FD\u5C06\u4E22\u5931\u3002"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: EXIT
+      TermType: 0
+      Description: 
+      Languages:
+      - EXIT
+      - QUITTER
+      - ESCI
+      - BEENDEN
+      - Salir
+      - "\u51FA\u53E3"
+      - "\uB098\uAC00\uAE30 "
+      - "WYJD\u0179"
+      - "Sa\xEDda"
+      - "\u0412\u042B\u0419\u0422\u0418"
+      - "\u9000\u51FA"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: English
+      TermType: 0
+      Description: 
+      Languages:
+      - English
+      - Anglais
+      - Inglese
+      - Englisch
+      - "Ingl\xE9s"
+      - "\u82F1\u8A9E"
+      - "\uC601\uC5B4"
+      - Angielski
+      - "Ingl\xEAs"
+      - "\u0410\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439"
+      - "\u82F1\u8BED"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: FULLSCREEN
+      TermType: 0
+      Description: 
+      Languages:
+      - FULLSCREEN
+      - "PLEIN \xC9CRAN"
+      - A Schermo Intero
+      - Vollbild
+      - Pantalla completa
+      - "\u5168\u753B\u9762\u8868\u793A"
+      - "\uC804\uCCB4 \uD654\uBA74"
+      - "PE\u0141NY EKRAN"
+      - Tela Cheia
+      - "\u041D\u0410 \u041F\u041E\u041B\u041D\u042B\u0419 \u042D\u041A\u0420\u0410\u041D"
+      - "\u5168\u5C4F"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Falling
+      TermType: 0
+      Description: 
+      Languages:
+      - Falling
+      - Chute
+      - In caduta
+      - Fallende
+      - Cursor descendente
+      - "\u843D\u3061\u308B"
+      - "\uD558\uAC15 "
+      - "Spadaj\u0105cy"
+      - Caindo
+      - "\u041F\u0430\u0434\u0430\u044E\u0449\u0438\u0435"
+      - "\u4E0B\u843D"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Falling Cursor Stats
+      TermType: 0
+      Description: 
+      Languages:
+      - Falling Cursor Stats
+      - Statistiques des Curseur qui tombent
+      - Statistiche Cursore in caduta
+      - Fallende Cursorstatistiken
+      - "Estad\xEDsticas del cursor descendente"
+      - "\u843D\u3061\u3066\u304F\u308B\u30AB\u30FC\u30BD\u30EB\u306E\u7D71\u8A08\u60C5\u5831"
+      - "\uD558\uAC15 \uCEE4\uC11C \uD1B5\uACC4"
+      - "Statystyki spadaj\u0105cych kursor\xF3w"
+      - "Estat\xEDsticas De Cursor Caindo"
+      - "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0430 \u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0445
+        \u043A\u0443\u0440\u0441\u043E\u0440\u043E\u0432"
+      - "\u4E0B\u843D\u5149\u6807\u7EDF\u8BA1"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Falling Cursor TIER
+      TermType: 0
+      Description: 
+      Languages:
+      - Falling Cursor TIER
+      - Niveau des Curseurs qui tombent Baisse
+      - Livello di Cursore in caduta
+      - Fallende Cursor-STUFE
+      - Nivel del cursor descendente
+      - "\u843D\u3061\u3066\u304F\u308B\u30AB\u30FC\u30BD\u30EB\u5C64"
+      - "\uD558\uAC15 \uCEE4\uC11C \uB2E8\uACC4 "
+      - "POZIOM spadaj\u0105cych kursor\xF3w"
+      - Camada De Cursor Descendente
+      - "\u0421\u041B\u041E\u0419 \u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0445
+        \u043A\u0443\u0440\u0441\u043E\u0440\u043E\u0432"
+      - "\u4E0B\u843D\u5149\u6807\u7B49\u7EA7"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Falling Emerald Cursor Chance
+      TermType: 0
+      Description: 
+      Languages:
+      - Falling Emerald Cursor Chance
+      - "Probabilit\xE9 de Curseur \xC9meraude qui tombe"
+      - "Possibilit\xE0 Di Caduta Del Cursore Smeraldo"
+      - Chance auf einen fallenden Smaragd-Cursor
+      - "Probabilidad de aparici\xF3n del cursor esmeralda"
+      - "\u843D\u3061\u3066\u304F\u308B\u30A8\u30E1\u30E9\u30EB\u30C9\u30AB\u30FC\u30BD\u30EB\u306E\u30C1\u30E3\u30F3\u30B9"
+      - "\uC5D0\uBA54\uB784\uB4DC \uD558\uAC15 \uCEE4\uC11C \uD655\uB960 "
+      - "Szansa Na Spadaj\u0105cy Szmaragdowy Kursor"
+      - Chance De Cursor Esmeralda Caindo
+      - "\u0428\u0430\u043D\u0441 \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u044F
+        \u0438\u0437\u0443\u043C\u0440\u0443\u0434\u043D\u043E\u0433\u043E \u043A\u0443\u0440\u0441\u043E\u0440\u0430"
+      - "\u4E0B\u843D\u7EFF\u5B9D\u77F3\u5149\u6807\u7684\u51E0\u7387"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Falling Gold
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Falling
+
+        Gold'
+      - Chute d'Or
+      - Oro in caduta
+      - Fallendes Gold
+      - Oro descendente
+      - "\u843D\u3061\u3066\u304F\u308B\u30B4\u30FC\u30EB\u30C9"
+      - "\uD558\uAC15 \uACE8\uB4DC "
+      - "Spadaj\u0105ce z\u0142oto"
+      - 'Caindo
+
+        Ouro'
+      - "\u041F\u0430\u0434\u0430\u044E\u0449\u0435\u0435 \u0437\u043E\u043B\u043E\u0442\u043E"
+      - "\u4E0B\u843D\u91D1\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Falling Purple Cursor Chance
+      TermType: 0
+      Description: 
+      Languages:
+      - Falling Purple Cursor Chance
+      - "Probabilit\xE9 de Curseur Violet qui tombe"
+      - "Possibilit\xE0 Di Caduta Del Cursore Viola"
+      - Chance auf einen fallenden violetten Cursor
+      - "Probabilidad de aparici\xF3n del cursor morado"
+      - "\u843D\u3061\u3066\u304F\u308B\u7D2B\u8272\u306E\u30AB\u30FC\u30BD\u30EB\u30C1\u30E3\u30F3\u30B9"
+      - "\uBCF4\uB77C\uC0C9 \uD558\uAC15 \uCEE4\uC11C \uD655\uB960 "
+      - "Szansa Na Spadaj\u0105cy Fioletowy Kursor"
+      - Chance De Cursor Roxo Caindo
+      - "\u0428\u0430\u043D\u0441 \u0432\u044B\u043F\u0430\u0434\u0435\u043D\u0438\u044F
+        \u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u043E\u0433\u043E \u043A\u0443\u0440\u0441\u043E\u0440\u0430"
+      - "\u4E0B\u843D\u7D2B\u8272\u5149\u6807\u7684\u51E0\u7387"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Falling Rainbow Cursor Chance
+      TermType: 0
+      Description: 
+      Languages:
+      - Falling Rainbow Cursor Chance
+      - "Probabilit\xE9 de Curseur Arc-En-Ciel qui tombe"
+      - "Possibilit\xE0 Di Caduta Del Cursore Arcobaleno"
+      - Chance auf einen fallenden Regenbogen-Cursor
+      - "Probabilidad de aparici\xF3n del cursor arco\xEDris"
+      - "\u843D\u3061\u3066\u304F\u308B\u8679\u30AB\u30FC\u30BD\u30EB\u30C1\u30E3\u30F3\u30B9"
+      - "\uBB34\uC9C0\uAC1C \uD558\uAC15 \uCEE4\uC11C \uD655\uB960 "
+      - "Szansa Na Spadaj\u0105cy T\u0119czowy Kursor"
+      - "Chance De Cursor De Arco-\xCDris Caindo"
+      - "\u0428\u0430\u043D\u0441 \u0432\u044B\u043F\u0430\u0434\u0435\u043D\u0438\u044F
+        \u0440\u0430\u0434\u0443\u0436\u043D\u043E\u0433\u043E \u043A\u0443\u0440\u0441\u043E\u0440\u0430"
+      - "\u4E0B\u843D\u5F69\u8679\u5149\u6807\u7684\u51E0\u7387"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Flag_Korea
+      TermType: 5
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Flag_Korea
+      - 
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: France
+      TermType: 0
+      Description: 
+      Languages:
+      - French
+      - "Fran\xE7ais"
+      - Francese
+      - "Franz\xF6sisch"
+      - "Franc\xE9s"
+      - "\u30D5\u30E9\u30F3\u30B9"
+      - "\uD504\uB791\uC2A4 "
+      - Francuski
+      - "Franc\xEAs"
+      - "\u0424\u0440\u0430\u043D\u0446\u0438\u044F"
+      - "\u6CD5\u8BED"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: GOOGLE PLAY
+      TermType: 0
+      Description: 
+      Languages:
+      - GOOGLE PLAY
+      - GOOGLE PLAY
+      - GOOGLE PLAY
+      - GOOGLE PLAY
+      - GOOGLE PLAY
+      - GOOGLE PLAY
+      - GOOGLE PLAY
+      - GOOGLE PLAY
+      - Google Play
+      - GOOGLE PLAY
+      - GOOGLE PLAY
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Germany
+      TermType: 0
+      Description: 
+      Languages:
+      - German
+      - Allemand
+      - Tedesco
+      - Deutsch
+      - "Alem\xE1n"
+      - "\u30C9\u30A4\u30C4"
+      - "\uB3C5\uC77C"
+      - Niemiecki
+      - "Alem\xE3o"
+      - "\u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F"
+      - "\u5FB7\u8BED"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Get the AOE click size to 0.5
+      TermType: 0
+      Description: 
+      Languages:
+      - Get the AOE click size to 0.5
+      - "Augmentez la taille du clic AOE \xE0 0,5"
+      - Porta la dimensione di click AOE a 0,5
+      - "Erreiche eine Fl\xE4cheneffektgr\xF6\xDFe von 0,5"
+      - "Consigue el tama\xF1o de clic AOE en 0.5"
+      - "AOE\u30AF\u30EA\u30C3\u30AF \u30B5\u30A4\u30BA\u30920.5\u306B\u8A2D\u5B9A\u3057\u307E\u3059\u3002"
+      - "\uAD11\uC5ED \uD074\uB9AD \uD06C\uAE30\uB97C 0.5\uB85C \uC124\uC815\uD558\uAE30 "
+      - "Ustaw rozmiar klikni\u0119cia AOE na 0,5"
+      - Obtenha o tamanho do clique AOE para 0,5
+      - "\u0421\u043E\u0437\u0434\u0430\u0439\u0442\u0435 \u0437\u043E\u043D\u0443
+        \u0432\u043E\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F \u0434\u043E
+        0.5"
+      - "\u5C06 AOE \u70B9\u51FB\u5927\u5C0F\u8BBE\u7F6E\u4E3A 0.5"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Get the AOE click size to 1
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Get the AOE click size to 1 '
+      - "Augmentez la taille du clic AOE \xE0 1 "
+      - 'Porta la dimensione di click AOE a 1 '
+      - "Erreiche eine Fl\xE4cheneffektgr\xF6\xDFe von 1"
+      - "Consigue el tama\xF1o de clic AOE en 1"
+      - "AOE\u30AF\u30EA\u30C3\u30AF \u30B5\u30A4\u30BA\u30921\u306B\u8A2D\u5B9A\u3057\u307E\u3059\u3002 "
+      - "\uAD11\uC5ED \uD074\uB9AD \uD06C\uAE30\uB97C 1\uB85C \uC124\uC815\uD558\uAE30 "
+      - "Ustaw rozmiar klikni\u0119cia AOE na 1 "
+      - 'Obtenha o tamanho do clique AOE para 1 '
+      - "\u0421\u043E\u0437\u0434\u0430\u0439\u0442\u0435 \u0437\u043E\u043D\u0443
+        \u0432\u043E\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F \u0434\u043E
+        1"
+      - "\u5C06 AOE \u70B9\u51FB\u5927\u5C0F\u8BBE\u7F6E\u4E3A 1"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Golden Fist Spawn Time
+      TermType: 0
+      Description: 
+      Languages:
+      - Golden Fist Spawn Time
+      - Heure d'apparition du Poing D'or
+      - Tempo Di Spawn Del Pugno D'oro
+      - Spawnzeit der goldenen Faust
+      - "Tiempo de aparici\xF3n del pu\xF1o dorado"
+      - "\u9EC4\u91D1\u306E\u62F3\u306E\u51FA\u73FE\u6642\u9593"
+      - "\uD669\uAE08 \uC8FC\uBA39 \uC0DD\uC131 \uC2DC\uAC04"
+      - "Czas Pojawienia si\u0119 Z\u0142otej Pi\u0119\u015Bci"
+      - Hora De Desova Do Punho Dourado
+      - "\u0412\u0440\u0435\u043C\u044F \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u044F
+        \u0437\u043E\u043B\u043E\u0442\u043E\u0433\u043E \u043A\u0443\u043B\u0430\u043A\u0430"
+      - "\u9EC4\u91D1\u62F3\u751F\u6210\u65F6\u95F4"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: HIDE COMPLETED
+      TermType: 0
+      Description: 
+      Languages:
+      - HIDE COMPLETED
+      - "Cacher termin\xE9es"
+      - Nascondi completati
+      - Abgeschlossene ausblenden
+      - Ocultar completadas
+      - "\u5B8C\u4E86\u3092\u975E\u8868\u793A"
+      - "\uC644\uB8CC \uD56D\uBAA9 \uC228\uAE30\uAE30"
+      - "Ukryj uko\u0144czone"
+      - "Ocultar conclu\xEDdos"
+      - "\u0421\u043A\u0440\u044B\u0442\u044C \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u044B\u0435"
+      - "\u9690\u85CF\u5DF2\u5B8C\u6210\u7684"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Italian
+      TermType: 0
+      Description: 
+      Languages:
+      - Italian
+      - Italien
+      - Italiano
+      - Italienisch
+      - Italiano
+      - "\u30A4\u30BF\u30EA\u30A2\u8A9E"
+      - "\uC774\uD0C8\uB9AC\uC544\uC5B4 "
+      - "W\u0142oski"
+      - Italiano
+      - "\u0418\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439"
+      - "\u610F\u5927\u5229\u8BED"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Japanese
+      TermType: 0
+      Description: 
+      Languages:
+      - Japanese
+      - Japonais
+      - Giapponese
+      - Japanisch
+      - "Japon\xE9s"
+      - "\u65E5\u672C\u8A9E"
+      - "\uC77C\uBCF8\uC5B4"
+      - "Japo\u0144ski"
+      - "Japon\xEAs"
+      - "\u042F\u043F\u043E\u043D\u0441\u043A\u0438\u0439"
+      - "\u65E5\u8BED"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Knife
+      TermType: 0
+      Description: 
+      Languages:
+      - Knife
+      - Couteau
+      - Coltello
+      - Messer
+      - Cuchillo
+      - "\u30CA\u30A4\u30D5"
+      - "\uCE7C"
+      - "N\xF3\u017C"
+      - Faca
+      - "\u041D\u043E\u0436"
+      - "\u5200"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Korea
+      TermType: 0
+      Description: 
+      Languages:
+      - Korean
+      - "Cor\xE9en"
+      - Korea
+      - Koreanisch
+      - Coreano
+      - "\u97D3\u56FD"
+      - "\uD55C\uAD6D"
+      - "Korea\u0144ski"
+      - Coreano
+      - "\u041A\u043E\u0440\u0435\u044F"
+      - "\u97E9\u8BED"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: LAST UNLOCKED
+      TermType: 0
+      Description: 
+      Languages:
+      - 'LAST
+
+        UNLOCKED'
+      - "Dernier\nD\xE9bloqu\xE9"
+      - 'Scorso
+
+        Sbloccato'
+      - 'Zuletzt
+
+        Entsperrt'
+      - "\xDAltimo\nDesbloqueado"
+      - "\u6700\u7D42\n\u767A\u5C04\u7269"
+      - "\uCD5C\uC2E0 \n\uBC1C\uC0AC\uCCB4"
+      - 'Ostatni
+
+        Odblokowany'
+      - 'Durar
+
+        Desbloqueado'
+      - "\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439\n\u0420\u0430\u0437\u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u0430\u043D\u043E"
+      - "\u6700\u540E\n\u89E3\u9501"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Laser
+      TermType: 0
+      Description: 
+      Languages:
+      - Laser
+      - Laser
+      - Laser
+      - Laser
+      - "L\xE1ser"
+      - "\u30EC\u30FC\u30B6\u30FC"
+      - "\uB808\uC774\uC800"
+      - Laser
+      - Laser
+      - "\u041B\u0430\u0437\u0435\u0440"
+      - "\u6FC0\u5149"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Level up
+      TermType: 0
+      Description: 
+      Languages:
+      - Level up
+      - "Niveau sup\xE9rieur"
+      - Sali di livello
+      - Stufenaufstieg
+      - Subir de nivel
+      - "\u30EC\u30D9\u30EB\u30A2\u30C3\u30D7"
+      - "\uB808\uBCA8 \uC5C5"
+      - "Zwi\u0119ksz poziom"
+      - "Subir de n\xEDvel"
+      - "\u041F\u043E\u0432\u044B\u0448\u0435\u043D\u0438\u0435 \u0443\u0440\u043E\u0432\u043D\u044F"
+      - "\u5347\u7EA7"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Level up any clickscension upgrade 100 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Level up any clickscension upgrade 70 times
+      - "Augmentez le niveau de n'importe quelle am\xE9lioration des clics-ascension
+        70 fois"
+      - Aumenta di livello qualsiasi aggiornamento clickascesa 70 volte
+      - Steigere die Stufe eines beliebigen Klickaufstieg-Upgrades 70x
+      - Mejora cualquier mejora de clickscension 70 veces
+      - "\u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u306E\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u309270\u56DE\u30EC\u30D9\u30EB\u30A2\u30C3\u30D7\u3059\u308B"
+      - "\uD074\uB9AD\uC13C\uC158 \uC5C5\uADF8\uB808\uC774\uB4DC 70\uD68C \uB808\uBCA8
+        \uC5C5\uD558\uAE30 "
+      - "Zwi\u0119ksz poziom dowolnego ulepszenia wzniesienia 70 razy"
+      - "Aumente o n\xEDvel de qualquer atualiza\xE7\xE3o clickscension 70 vezes"
+      - "\u041F\u043E\u0432\u044B\u0441\u044C\u0442\u0435 \u0443\u0440\u043E\u0432\u0435\u043D\u044C
+        \u043B\u044E\u0431\u044B\u0445 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0439
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438 \u0432 70 \u0440\u0430\u0437"
+      - "\u5C06\u4EFB\u610F\u4E00\u6B21\u70B9\u51FB\u98DE\u5347\u5347\u7EA7 70 \u500D"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Level up any clickscension upgrade 25 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Level up any clickscension upgrade 20 times
+      - "Augmentez le niveau de n'importe am\xE9lioration des clics-ascension 20
+        fois"
+      - Aumenta di livello qualsiasi aggiornamento clickascesa 20 volte
+      - Steigere die Stufe eines beliebigen Klickaufstieg-Upgrades 20x
+      - Mejora cualquier mejora de clickscension 20 veces
+      - "\u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u306E\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u309220\u56DE\u30EC\u30D9\u30EB\u30A2\u30C3\u30D7\u3059\u308B"
+      - "\uD074\uB9AD\uC13C\uC158 \uC5C5\uADF8\uB808\uC774\uB4DC 20\uD68C \uB808\uBCA8
+        \uC5C5\uD558\uAE30 "
+      - "Zwi\u0119ksz poziom dowolnego ulepszenia wzniesienia 20 razy"
+      - "Aumente o n\xEDvel de qualquer atualiza\xE7\xE3o clickscension 20 vezes"
+      - "\u041F\u043E\u0432\u044B\u0441\u044C\u0442\u0435 \u0443\u0440\u043E\u0432\u0435\u043D\u044C
+        \u043B\u044E\u0431\u044B\u0445 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0439
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438 \u0432 20 \u0440\u0430\u0437"
+      - "\u5C06\u4EFB\u610F\u4E00\u6B21\u70B9\u51FB\u98DE\u5347\u5347\u7EA7 20 \u500D"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Level up clickscension upgrades 300 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Level up clickscension upgrades 200 times
+      - "Augmentez le niveau des am\xE9liorations du clics-ascension 200 fois"
+      - Aumenta di livello gli aggiornamenti clickascesa 200 volte
+      - Steigere die Stufe eines Klickaufstieg-Upgrades 200x
+      - Mejora las mejoras de clickscension 200 veces
+      - "\u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3092200\u56DE\u30EC\u30D9\u30EB\u30A2\u30C3\u30D7\u3059\u308B"
+      - "\uD074\uB9AD\uC13C\uC158 \uC5C5\uADF8\uB808\uC774\uB4DC 200\uD68C \uB808\uBC8C
+        \uC5C5\uD558\uAE30 "
+      - "Zwi\u0119ksz poziom ulepsze\u0144 wzniesienia 200 razy"
+      - "Aumente o n\xEDvel das atualiza\xE7\xF5es do clickscension 200 vezes"
+      - "\u041F\u043E\u0432\u044B\u0441\u044C\u0442\u0435 \u0443\u0440\u043E\u0432\u0435\u043D\u044C
+        \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0439 \u0437\u0430 \u043A\u043B\u0438\u043A\u0438
+        \u0432 200 \u0440\u0430\u0437"
+      - "\u5347\u7EA7\u70B9\u51FB\u98DE\u5347\uFF0C\u5347\u7EA7 200 \u500D"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Level up clickscension upgrades 50 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Level up clickscension upgrades 50 times
+      - "Augmentez le niveau des am\xE9liorations des clics-ascension 50 fois"
+      - Aumenta di livello gli aggiornamenti clickascesa 50 volte
+      - Steigere die Stufe eines Klickaufstieg-Upgrades 50x
+      - Mejora las mejoras de clickscension 50 veces
+      - "\u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u309250\u56DE\u30EC\u30D9\u30EB\u30A2\u30C3\u30D7\u3059\u308B"
+      - "\uD074\uB9AD\uC13C\uC158 \uC5C5\uADF8\uB808\uC774\uB4DC 50\uD68C \uB808\uBC8C
+        \uC5C5\uD558\uAE30 "
+      - "Zwi\u0119ksz poziom ulepsze\u0144 wzniesienia 50 razy"
+      - "Aumente o n\xEDvel das atualiza\xE7\xF5es de clickscension 50 vezes"
+      - "\u041F\u043E\u0432\u044B\u0441\u044C\u0442\u0435 \u0443\u0440\u043E\u0432\u0435\u043D\u044C
+        \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0439 \u0437\u0430 \u043A\u043B\u0438\u043A\u0438
+        \u0432 50 \u0440\u0430\u0437"
+      - "\u5347\u7EA7\u70B9\u51FB\u98DE\u5347\uFF0C\u5347\u7EA7 50 \u500D"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Level up clickscension upgrades 750 times
+      TermType: 0
+      Description: 
+      Languages:
+      - Level up clickscension upgrades 1000 times
+      - "Am\xE9liorez le niveau des am\xE9liorations des clics-ascension 1000 fois"
+      - Aumenta di livello gli aggiornamenti clickascesa 1000 volte
+      - Steigere die Stufe eines Klickaufstieg-Upgrades 1000x
+      - Mejora las mejoras de clickscension 1000 veces
+      - "\u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u30921000\u56DE\u30EC\u30D9\u30EB\u30A2\u30C3\u30D7\u3059\u308B"
+      - "\uD074\uB9AD\uC13C\uC158 \uC5C5\uADF8\uB808\uC774\uB4DC 1000\uD68C \uB808\uBC8C
+        \uC5C5\uD558\uAE30 "
+      - "Zwi\u0119ksz poziom ulepsze\u0144 wzniesienia 1000 razy"
+      - "Aumente o n\xEDvel das atualiza\xE7\xF5es de clickscension 1000 vezes"
+      - "\u041F\u043E\u0432\u044B\u0441\u044C\u0442\u0435 \u0443\u0440\u043E\u0432\u0435\u043D\u044C
+        \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0439 \u0437\u0430 \u043A\u043B\u0438\u043A\u0438
+        \u0432 1000 \u0440\u0430\u0437"
+      - "\u5347\u7EA7\u70B9\u51FB\u98DE\u5347\uFF0C\u5347\u7EA7 1000 \u500D"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: MAX
+      TermType: 0
+      Description: 
+      Languages:
+      - MAX
+      - MAXIMUM
+      - MAX
+      - MAX
+      - "M\xE1ximo"
+      - "\u6700\u5927"
+      - "\uCD5C\uB300"
+      - MAKS.
+      - MAX
+      - "\u041C\u0410\u041A\u0421."
+      - "\u6700\u9AD8\u5206"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Main
+      TermType: 0
+      Description: 
+      Languages:
+      - Main
+      - Principal
+      - Principale
+      - Haupt-
+      - Principal
+      - "\u4E3B\u8981"
+      - "\uC8FC\uC694 "
+      - "G\u0142\xF3wny"
+      - Principal
+      - "\u0413\u043B\u0430\u0432\u043D\u043E\u0435"
+      - "\u4E3B\u83DC\u5355"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Main Cursor Skins
+      TermType: 0
+      Description: 
+      Languages:
+      - Main Cursor Skins
+      - Skins De Curseur Principal
+      - Skin Del Cursore Principale
+      - Haupt-Cursor-Skins
+      - Skins del cursor principal
+      - "\u30E1\u30A4\u30F3\u30AB\u30FC\u30BD\u30EB\u30B9\u30AD\u30F3"
+      - "\uC8FC\uC694 \uCEE4\uC11C \uC2A4\uD0A8 "
+      - "Sk\xF3rki kursora g\u0142\xF3wnego"
+      - Skins Do Cursor Principal
+      - "\u0421\u043A\u0438\u043D\u044B \u0433\u043B\u0430\u0432\u043D\u043E\u0433\u043E
+        \u043A\u0443\u0440\u0441\u043E\u0440\u0430"
+      - "\u4E3B\u5149\u6807\u76AE\u80A4"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Music
+      TermType: 0
+      Description: 
+      Languages:
+      - Music
+      - Musique
+      - Musica
+      - Musik
+      - "M\xFAsica"
+      - "\u97F3\u697D"
+      - "\uC74C\uC545"
+      - Muzyka
+      - "M\xFAsica"
+      - "\u041C\u0443\u0437\u044B\u043A\u0430"
+      - "\u97F3\u4E50"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: NEXT PROJECTILE
+      TermType: 0
+      Description: 
+      Languages:
+      - 'NEXT
+
+        PROJECTILE'
+      - 'Suivant
+
+        Projectile'
+      - 'Prossimo
+
+        Proiettile'
+      - "N\xE4chste\nProjektil"
+      - "Pr\xF3ximo\nProyectil"
+      - "\u6B21\n\u767A\u5C04\u4F53"
+      - "\uB2E4\uC74C\n\uBC1C\uC0AC\uCCB4"
+      - "Nast\u0119pny\nPocisk"
+      - "Pr\xF3ximo\nProj\xE9til"
+      - "\u0421\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0439\n\u0421\u043D\u0430\u0440\u044F\u0434"
+      - "\u4E0B\u4E00\u4E2A\n\u5C04\u5F39"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: NO
+      TermType: 0
+      Description: 
+      Languages:
+      - NO
+      - NON
+      - NO
+      - NEIN
+      - No
+      - "\u3044\u3044\u3048"
+      - "\uC544\uB2C8\uC694"
+      - NIE
+      - "N\xE3o"
+      - "\u041D\u0415\u0422"
+      - "\u4E0D"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: NormalFont
+      TermType: 9
+      Description: 
+      Languages:
+      - NormalFont
+      - NormalFont
+      - NormalFont
+      - NormalFont
+      - NormalFont
+      - JapaneseFont2
+      - KoreanNew2
+      - Fonts & Materials/Roboto-Bold SDF
+      - NormalFont
+      - Fonts & Materials/Roboto-Bold SDF
+      - NewChinese2
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: OFF
+      TermType: 0
+      Description: 
+      Languages:
+      - OFF
+      - "D\xC9SACTIV\xC9"
+      - OFF
+      - Aus
+      - Apagado
+      - "\u30AA\u30D5"
+      - "\uB044\uAE30"
+      - OFF
+      - Desligado
+      - "\u0412\u042B\u041A\u041B"
+      - "\u5173\u95ED"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: ON
+      TermType: 0
+      Description: 
+      Languages:
+      - ON
+      - "ACTIV\xC9"
+      - ON
+      - An
+      - Encendido
+      - "\u30AA\u30F3"
+      - "\uCF1C\uAE30 "
+      - ON
+      - Sobre
+      - "\u0412\u041A\u041B"
+      - "\u6253\u5F00"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: PARTICLE EFFECTS
+      TermType: 0
+      Description: 
+      Languages:
+      - 'PARTICLE
+
+        EFFECTS'
+      - EFFETS DES PARTICULES
+      - EFFETTI PARTICOLARI
+      - Partikeleffekte
+      - "Efectos de part\xEDculas"
+      - "\u30D1\u30FC\u30C6\u30A3\u30AF\u30EB\u52B9\u679C"
+      - "\uC785\uC790 \uD6A8\uACFC "
+      - "EFEKTY CZ\u0104STECZKOWE"
+      - "Part\xEDcula\nEfeitos"
+      - "\u042D\u0424\u0424\u0415\u041A\u0422\u042B \u0427\u0410\u0421\u0422\u0418\u0426"
+      - "\u7C92\u5B50\u6548\u679C"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: PASSIVE
+      TermType: 0
+      Description: 
+      Languages:
+      - PASSIVE
+      - PASSIF
+      - Passivo
+      - PASSIV
+      - Pasivo
+      - "\u30D1\u30C3\u30B7\u30D6"
+      - "\uAC04\uC811"
+      - PASYWNY
+      - PASSIVO
+      - "\u041F\u0410\u0421\u0421\u0418\u0412"
+      - "\u88AB\u52A8"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Passive Gold
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Passive
+
+        Gold'
+      - Or Passif
+      - Oro Passivo
+      - Passives Gold
+      - Oro pasivo
+      - "\u30D1\u30C3\u30B7\u30D6\u30B4\u30FC\u30EB\u30C9"
+      - "\uAC04\uC811 \uACE8\uB4DC "
+      - "Pasywne z\u0142oto"
+      - Ouro Passivo
+      - "\u041F\u0430\u0441\u0441\u0438\u0432\u043D\u043E\u0435 \u0437\u043E\u043B\u043E\u0442\u043E"
+      - "\u88AB\u52A8\u91D1\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Passive Gold Increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Passive Click Gold Increase
+      - Accroissement Passif de l'Or
+      - Aumento dell'oro passivo
+      - Passiver Goldanstieg
+      - Aumento de oro pasivo
+      - "\u30D1\u30C3\u30B7\u30D6\u30AF\u30EA\u30C3\u30AF\u30B4\u30FC\u30EB\u30C9\u306E\u5897\u52A0"
+      - "\uAC04\uC811 \uACE8\uB4DC \uC99D\uAC00 "
+      - "Pasywny przyrost z\u0142ota"
+      - Aumento De Ouro Passivo
+      - "\u0423\u0432\u0435\u043B\u0438\u0447\u0435\u043D\u0438\u0435 \u043F\u0430\u0441\u0441\u0438\u0432\u043D\u043E\u0433\u043E
+        \u0437\u043E\u043B\u043E\u0442\u0430"
+      - "\u88AB\u52A8\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Perform 1000 auto clicker clicks
+      TermType: 0
+      Description: 
+      Languages:
+      - Perform 1000 auto clicker clicks
+      - Effectuez 1000 clics automatiques
+      - Esegui 1000 click con auto clicker
+      - "F\xFChre 1000 Auto-Klicker-Klicks durch"
+      - "Haz 1000 clics con clicker autom\xE1tico"
+      - "\u30AA\u30FC\u30C8\u30AF\u30EA\u30C3\u30AB\u30FC\u306E\u30AF\u30EA\u30C3\u30AF\u30921000\u56DE\u5B9F\u884C\u3059\u308B"
+      - "\uC790\uB3D9 \uD074\uB9AD\uCEE4\uC758 \uD074\uB9AD 1000\uD68C \uB2EC\uC131\uD558\uAE30 "
+      - "Wykonaj 1000 klikni\u0119\u0107 automatycznym klikni\u0119ciem"
+      - "Execute 1000 cliques do clicker autom\xE1tico"
+      - "\u0412\u044B\u043F\u043E\u043B\u043D\u0438\u0442\u0435 1000 \u043A\u043B\u0438\u043A\u043E\u0432
+        \u0430\u0432\u0442\u043E\u043A\u043B\u0438\u043A\u0435\u0440\u043E\u043C"
+      - "\u6267\u884C 1000 \u6B21\u81EA\u52A8\u70B9\u51FB"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Perform 10000 auto clicker clicks
+      TermType: 0
+      Description: 
+      Languages:
+      - Perform 25000 auto clicker clicks
+      - Effectuer 25000 clics automatiques
+      - Esegui 25000 click con auto clicker
+      - "F\xFChre 25000 Auto-Klicker-Klicks durch"
+      - "Haz 25000 clics con clicker autom\xE1tico"
+      - "\u30AA\u30FC\u30C8\u30AF\u30EA\u30C3\u30AB\u30FC\u306E\u30AF\u30EA\u30C3\u30AF\u309225000\u56DE\u5B9F\u884C\u3059\u308B"
+      - "\uC790\uB3D9 \uD074\uB9AD\uCEE4\uC758 \uD074\uB9AD 25000\uD68C \uB2EC\uC131\uD558\uAE30 "
+      - "Wykonaj 25000 klikni\u0119\u0107 automatycznym klikni\u0119ciem"
+      - "Execute 25000 cliques do clicker autom\xE1tico"
+      - "\u0412\u044B\u043F\u043E\u043B\u043D\u0438\u0442\u0435 25000 \u043A\u043B\u0438\u043A\u043E\u0432
+        \u0430\u0432\u0442\u043E\u043A\u043B\u0438\u043A\u0435\u0440\u043E\u043C"
+      - "\u6267\u884C 25000 \u6B21\u81EA\u52A8\u70B9\u51FB"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Polish
+      TermType: 0
+      Description: 
+      Languages:
+      - Polish
+      - Polonais
+      - Polacco
+      - Polnisch
+      - Polaco
+      - "\u7814\u78E8"
+      - "\uD3F4\uB780\uB4DC\uC5B4 "
+      - Polski
+      - "Polon\xEAs"
+      - "\u041F\u043E\u043B\u044C\u0441\u043A\u0438\u0439"
+      - "\u6CE2\u5170\u8BED"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Portugese
+      TermType: 0
+      Description: 
+      Languages:
+      - Portugese
+      - Portugais
+      - Portoghese
+      - Portugiesisch
+      - "Portugu\xE9s"
+      - "\u30DD\u30EB\u30C8\u30AC\u30EB\u8A9E"
+      - "\uD3EC\uB974\uD22C\uAC08\uC5B4"
+      - Portugalski
+      - "Portugu\xEAs"
+      - "\u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u044C\u0441\u043A\u0438\u0439"
+      - "\u8461\u8404\u7259\u8BED"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Press CLAIM to receive your reward!
+      TermType: 0
+      Description: 
+      Languages:
+      - Press CLAIM to receive your reward!
+      - "Appuyez sur R\xC9CLAMER pour recevoir votre r\xE9compense\_!"
+      - Premi CLAIM per ricevere il tuo premio!
+      - "Dr\xFCcken Sie CLAIM, um Ihre Belohnung zu erhalten!"
+      - "\xA1Presiona RECLAMAR para recibir tu recompensa!"
+      - "\u5831\u916C\u3092\u53D7\u3051\u53D6\u308B"
+      - "\uBCF4\uC0C1\uC744 \uCCAD\uAD6C\uD558\uC138\uC694"
+      - "Naci\u015Bnij ODBIERZ, aby otrzyma\u0107 nagrod\u0119!"
+      - Pressione CLAIM para receber sua recompensa!
+      - "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u0417\u0410\u042F\u0412\u0418\u0422\u042C,
+        \u0447\u0442\u043E\u0431\u044B \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u044C
+        \u043D\u0430\u0433\u0440\u0430\u0434\u0443!"
+      - "\u9886\u53D6\u4F60\u7684\u5956\u52B1"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Progress saves over to the main game!
+      TermType: 0
+      Description: 
+      Languages:
+      - Progress saves over to the full game!
+      - "La progression est enregistr\xE9e dans le jeu principal\_!"
+      - I progressi vengono salvati nel gioco completo!
+      - "Der Fortschritt wird auf die Vollversion des Spiels \xFCbertragen!"
+      - "\xA1El progreso se guarda en el juego principal!"
+      - "\u9032\u884C\u72B6\u6CC1\u306F\u30B2\u30FC\u30E0\u5168\u4F53\u306B\u4FDD\u5B58\u3055\u308C\u307E\u3059\u3002"
+      - "\uC9C4\uD589 \uC0C1\uD669\uC740 \uC804\uCCB4 \uAC8C\uC784\uC5D0 \uC800\uC7A5\uB429\uB2C8\uB2E4!"
+      - "Post\u0119p zapisuje si\u0119 w g\u0142\xF3wnej grze!"
+      - "O progresso \xE9 salvo no jogo completo!"
+      - "\u041F\u0440\u043E\u0433\u0440\u0435\u0441\u0441 \u0441\u043E\u0445\u0440\u0430\u043D\u044F\u0435\u0442\u0441\u044F
+        \u0432 \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u0439 \u0438\u0433\u0440\u0435!"
+      - "\u8FDB\u5EA6\u4F1A\u4FDD\u5B58\u5230\u4E3B\u6E38\u620F\uFF01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Projectile Shop
+      TermType: 0
+      Description: 
+      Languages:
+      - Projectile Shop
+      - Magasin de Projectiles
+      - Shop di Proiettili
+      - Projektikladen
+      - Tienda de proyectiles
+      - "\u767A\u5C04\u7269\u30B7\u30E7\u30C3\u30D7"
+      - "\uBC1C\uC0AC\uCCB4 \uC0C1\uC810"
+      - Sklep Z Pociskami
+      - "Loja De Proj\xE9teis"
+      - "\u041C\u0430\u0433\u0430\u0437\u0438\u043D \u0441\u043D\u0430\u0440\u044F\u0434\u043E\u0432"
+      - "\u5F39\u5C04\u7269\u5546\u5E97"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Projectile Stats
+      TermType: 0
+      Description: 
+      Languages:
+      - Projectile Stats
+      - Statistiques des Projectiles
+      - Statistiche Proiettili
+      - Projektilstatistik
+      - "Estad\xEDsticas de proyectiles"
+      - "\u767A\u5C04\u7269\u306E\u7D71\u8A08"
+      - "\uBC1C\uC0AC\uCCB4 \uD1B5\uACC4"
+      - "Statystyki Pocisk\xF3w"
+      - "Estat\xEDsticas De Proj\xE9teis"
+      - "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0430 \u0441\u043D\u0430\u0440\u044F\u0434\u043E\u0432"
+      - "\u5F39\u5C04\u7269\u7EDF\u8BA1"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Projectile upgrade
+      TermType: 0
+      Description: 
+      Languages:
+      - Projectile upgrade
+      - "Mise \xE0 niveau des projectiles"
+      - Aggiornamento del proiettile
+      - Projektil-Upgrade
+      - "Actualizaci\xF3n de proyectil"
+      - "\u767A\u5C04\u7269\u306E\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9"
+      - "\uBC1C\uC0AC\uCCB4 \uC5C5\uADF8\uB808\uC774\uB4DC"
+      - Ulepszenie pocisku
+      - "Atualiza\xE7\xE3o de proj\xE9til"
+      - "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 \u0441\u043D\u0430\u0440\u044F\u0434\u0430"
+      - "\u5C04\u5F39\u5347\u7EA7"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Purchase all clickscension upgrades
+      TermType: 0
+      Description: 
+      Languages:
+      - Purchase all clickscension upgrades
+      - "Achetez toutes les am\xE9liorations clics-ascension"
+      - Acquista tutti gli aggiornamenti clickascesa
+      - Kaufe alle Klickaufstieg-Upgrades
+      - Compra todas las mejoras de clickscension
+      - "\u3059\u3079\u3066\u306E\u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30FB\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3092\u8CFC\u5165\u3059\u308B"
+      - "\uBAA8\uB4E0 \uD074\uB9AD\uC13C\uC158 \uC5C5\uADF8\uB808\uC774\uB4DC \uAD6C\uB9E4\uD558\uAE30 "
+      - Kup wszystkie ulepszenia wzniesienia
+      - "Compre todas as atualiza\xE7\xF5es do clickscension"
+      - "\u041A\u0443\u043F\u0438\u0442\u044C \u0432\u0441\u0435 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u8D2D\u4E70\u6240\u6709\u70B9\u51FB\u98DE\u5347\u5347\u7EA7"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Purchase the ball turret
+      TermType: 0
+      Description: 
+      Languages:
+      - Purchase the ball turret
+      - "Achetez la tourelle \xE0 balles"
+      - Acquista la torretta a palla
+      - "Kaufe das Ballgesch\xFCtz"
+      - Compra la torreta de bolas
+      - "\u30DC\u30FC\u30EB\u30BF\u30EC\u30C3\u30C8\u3092\u8CFC\u5165\u3059\u308B"
+      - "\uACF5 \uD3EC\uD0D1 \uAD6C\uB9E4\uD558\uAE30 "
+      - "Kup wie\u017C\u0119 kulow\u0105"
+      - Compre a torre de bola
+      - "\u041A\u0443\u043F\u0438\u0442\u044C \u0448\u0430\u0440\u043E\u0432\u0443\u044E
+        \u0442\u0443\u0440\u0435\u043B\u044C"
+      - "\u8D2D\u4E70\u7403\u5854"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Purchase the laser
+      TermType: 0
+      Description: 
+      Languages:
+      - Purchase the laser
+      - Acheter le laser
+      - Acquista il laser
+      - Kaufe den Laser
+      - "Compra el l\xE1ser"
+      - "\u30EC\u30FC\u30B6\u30FC\u3092\u8CFC\u5165\u3059\u308B"
+      - "\uB808\uC774\uC81C \uAD6C\uB9E4\uD558\uAE30 "
+      - Kup laser
+      - Compre o laser
+      - "\u041A\u0443\u043F\u0438\u0442\u044C \u043B\u0430\u0437\u0435\u0440"
+      - "\u8D2D\u4E70\u6FC0\u5149"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Purchase the spike
+      TermType: 0
+      Description: 
+      Languages:
+      - Purchase the spike
+      - Achetez le pic
+      - Acquista l'arpione
+      - Kaufe den Stachel
+      - Compra la pica
+      - "\u30B9\u30D1\u30A4\u30AF\u3092\u8CFC\u5165\u3059\u308B"
+      - "\uC2A4\uD30C\uC774\uD06C \uAD6C\uB9E4\uD558\uAE30 "
+      - Kup kolec
+      - Compre o pico
+      - "\u041A\u0443\u043F\u0438\u0442\u044C \u0448\u0438\u043F"
+      - "\u8D2D\u4E70\u5C16\u523A"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Purchase the spike ball
+      TermType: 0
+      Description: 
+      Languages:
+      - Purchase the spike ball
+      - "Achetez la balle \xE0 pointes"
+      - Acquista la palla chiodata
+      - Kaufe den Stachelball
+      - "Compra la bola de p\xFAas"
+      - "\u30B9\u30D1\u30A4\u30AF\u30DC\u30FC\u30EB\u3092\u8CFC\u5165\u3059\u308B"
+      - "\uC2A4\uD30C\uC774\uD06C \uACF5 \uAD6C\uB9E4\uD558\uAE30 "
+      - "Kup kulk\u0119 z kolcami"
+      - Compre a bola de espinhos
+      - "\u041A\u0443\u043F\u0438\u0442\u044C \u0448\u0438\u043F\u0430\u0441\u0442\u044B\u0439
+        \u0448\u0430\u0440"
+      - "\u8D2D\u4E70\u5C16\u523A\u7403"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: REMOVE ADS
+      TermType: 0
+      Description: 
+      Languages:
+      - 'REMOVE
+
+        ADS'
+      - 'Retirer
+
+        Annonces'
+      - 'Rimuovere
+
+        Annunci'
+      - 'Entfernen
+
+        Anzeigen'
+      - 'Eliminar
+
+        Anuncios'
+      - "\u300CAD\u3092\u53D6\u308A\u9664\u304F\u300D"
+      - "\uC81C\uAC70\uD558\uB2E4\n\uAD11\uACE0"
+      - "Usun\u0105\u0107\nReklamy"
+      - "Remover\nAn\xFAncios"
+      - "\u0423\u0434\u0430\u043B\u044F\u0442\u044C\n\u0420\u0435\u043A\u043B\u0430\u043C\u0430"
+      - "\u53D6\u51FAAD"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: RESET GAME
+      TermType: 0
+      Description: 
+      Languages:
+      - 'RESET
+
+        GAME'
+      - "R\xC9INITIALISER LE JEU"
+      - RESETTA IL GIOCO
+      - "Spiel zur\xFCcksetzen"
+      - Reiniciar juego
+      - "\u30EA\u30BB\u30C3\u30C8\n\u30B2\u30FC\u30E0"
+      - "\uAC8C\uC784 \uCD08\uAE30\uD654"
+      - "RESETUJ GR\u0118"
+      - 'Reiniciar
+
+        Jogo'
+      - "\u0421\u0411\u0420\u041E\u0421\u0418\u0422\u042C \u0418\u0413\u0420\u0423"
+      - "\u91CD\u7F6E\n\u6E38\u620F"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Receive a reward by watching a short ad
+      TermType: 0
+      Description: 
+      Languages:
+      - Receive a reward by watching a short ad
+      - "Recevez une r\xE9compense en regardant une courte annonce"
+      - Ricevi un premio guardando un breve annuncio
+      - Erhalten Sie eine Belohnung, indem Sie sich eine kurze Anzeige ansehen
+      - Reciba una recompensa viendo un anuncio corto
+      - "\u6642\u8A08AD"
+      - "\uC601\uC0C1\uC744 \uBCF4\uC2DC\uACA0\uC5B4\uC694?"
+      - "Odbierz nagrod\u0119 ogl\u0105daj\u0105c kr\xF3tk\u0105 reklam\u0119"
+      - "Receba uma recompensa assistindo a um pequeno an\xFAncio"
+      - "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u0432\u043E\u0437\u043D\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043D\u0438\u0435
+        \u0437\u0430 \u043F\u0440\u043E\u0441\u043C\u043E\u0442\u0440 \u043A\u043E\u0440\u043E\u0442\u043A\u043E\u0439
+        \u0440\u0435\u043A\u043B\u0430\u043C\u044B"
+      - "\u770B\u6CD5AD"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +10 click gold increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +20% click gold increase
+      - "R\xE9compense = +20% d'or par clic"
+      - Ricompensa = +20 di aumento click oro
+      - "Belohnung = +20% Klick-Golderh\xF6hung"
+      - Recompensa = +20 de aumento de oro por clic
+      - "\u5831\u916C = +20% \u30AF\u30EA\u30C3\u30AF\u30B4\u30FC\u30EB\u30C9\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +20 \uD074\uB9AD \uACE8\uB4DC \uC99D\uAC00"
+      - "Nagroda = +20% wzrostu ilo\u015Bci z\u0142ota za klikni\u0119cie"
+      - Recompensa = +20% de aumento de ouro por clique
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +20 \u0437\u043E\u043B\u043E\u0442\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u5956\u52B1 =+20 \u70B9\u51FB\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +100 clickscension coin increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +100% clickscension coin increase
+      - "R\xE9compense = +100\_% d'augmentation des pi\xE8ces clics-ascension"
+      - Ricompensa = +100 di aumento della moneta clickascesa
+      - "Belohnung = +100% Klickaufstieg-M\xFCnzerh\xF6hung"
+      - Recompensa = +100 de aumento de monedas de clickscension
+      - "\u5831\u916C = +100% \u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30B3\u30A4\u30F3\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +100 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778 \uC99D\uAC00"
+      - "Nagroda = +100% wzrostu monet wzniesienia za klikni\u0119cie"
+      - Recompensa = +100% de aumento de moeda clickscension
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +100 \u043C\u043E\u043D\u0435\u0442
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u5956\u52B1 = +100 \u70B9\u51FB\u98DE\u5347\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +100 clickscension coins
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +20000 clickscension coins
+      - "R\xE9compense = +20000 pi\xE8ces clics-ascension"
+      - Ricompensa = +20000 monete clickascesa
+      - "Belohnung = +20000 Klickaufstieg-M\xFCnzen"
+      - Recompensa = +20000 monedas de clickscension
+      - "\u5831\u916C = +20000 \u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3
+        \u30B3\u30A4\u30F3"
+      - "\uBCF4\uC0C1 = +20000 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778"
+      - Nagroda = +20000 monet wzniesienia
+      - Recompensa = +20000 moedas de cliques
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +20000 \u043C\u043E\u043D\u0435\u0442
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u5956\u52B1 = +20000 \u70B9\u51FB\u98DE\u5347\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +10000 clickscension coins
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +1000% click gold increase
+      - "R\xE9compense = +1000\_% d'augmentation de l'or par clic"
+      - Ricompensa = +1000 di aumento click oro
+      - "Belohnung = +1000% Klick-Golderh\xF6hung"
+      - Recompensa = +1000 de aumento de oro por clic
+      - "\u5831\u916C = +1000% \u30AF\u30EA\u30C3\u30AF\u30B4\u30FC\u30EB\u30C9\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +1000 \uD074\uB9AD \uACE8\uB4DC \uC99D\uAC00"
+      - "Nagroda = +1000% wzrostu ilo\u015Bci z\u0142ota za klikni\u0119cie"
+      - Recompensa = +1000% de aumento de ouro por clique
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +1000 \u0437\u043E\u043B\u043E\u0442\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u5956\u52B1 = +1000 \u70B9\u51FB\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +115 active click gold increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +115% active click gold increase
+      - "R\xE9compense = +115\_% d'augmentation de l'or par clic actif"
+      - Ricompensa = +115 di aumento click oro attivi
+      - "Belohnung = +115% aktive Klick-Golderh\xF6hung"
+      - Recompensa = +115 de aumento de oro activo
+      - "\u5831\u916C = +115% \u30A2\u30AF\u30C6\u30A3\u30D6 \u30AF\u30EA\u30C3\u30AF
+        \u30B4\u30FC\u30EB\u30C9\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +115 \uC9C1\uC811 \uD074\uB9AD \uACE8\uB4DC \uC99D\uAC00 "
+      - "Nagroda = +115% wzrostu ilo\u015Bci z\u0142ota za aktywne klikni\u0119cie"
+      - Recompensa = +115% de aumento de ouro por clique ativo
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +115 \u043A\u043B\u0438\u043A\u043E\u0432
+        \u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0433\u043E \u0437\u043E\u043B\u043E\u0442\u0430"
+      - "\u5956\u52B1 = +115 \u4E3B\u52A8\u70B9\u51FB\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +14 active click gold increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +14% active click gold increase
+      - "R\xE9compense = +14\_% d'augmentation de l'or par clic actif"
+      - Ricompensa = +14 di aumento click oro attivi
+      - "Belohnung = +14% aktive Klick-Golderh\xF6hung"
+      - Recompensa = +14 de aumento de oro activo
+      - "\u5831\u916C = +14% \u30A2\u30AF\u30C6\u30A3\u30D6 \u30AF\u30EA\u30C3\u30AF
+        \u30B4\u30FC\u30EB\u30C9\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +14 \uC9C1\uC811 \uD074\uB9AD \uACE8\uB4DC \uC99D\uAC00 "
+      - "Nagroda = +14% wzrostu z\u0142ota za aktywne klikni\u0119cie"
+      - Recompensa = +14% de aumento de ouro por clique ativo
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +14 \u043A\u043B\u0438\u043A\u043E\u0432
+        \u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0433\u043E \u0437\u043E\u043B\u043E\u0442\u0430"
+      - "\u5956\u52B1 = +14 \u4E3B\u52A8\u70B9\u51FB\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +165 active click gold increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +300% active click gold increase
+      - "R\xE9compense = +300\_% d'augmentation de l'or des clics actifs"
+      - Ricompensa = +300 di aumento click oro attivi
+      - "Belohnung = +300% aktive Klick-Golderh\xF6hung"
+      - Recompensa = +300 de aumento de oro activo
+      - "\u5831\u916C = +300% \u30A2\u30AF\u30C6\u30A3\u30D6 \u30AF\u30EA\u30C3\u30AF
+        \u30B4\u30FC\u30EB\u30C9\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +300 \uC9C1\uC811 \uD074\uB9AD \uACE8\uB4DC \uC99D\uAC00"
+      - "Nagroda = +300% wzrostu ilo\u015Bci z\u0142ota za aktywne klikni\u0119cie"
+      - Recompensa = +300% de aumento de ouro por clique ativo
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +300 \u043A\u043B\u0438\u043A\u043E\u0432
+        \u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0433\u043E \u0437\u043E\u043B\u043E\u0442\u0430"
+      - "\u5956\u52B1 = +300 \u4E3B\u52A8\u70B9\u51FB\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +18 clickscension coins
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +75 clickscension coins
+      - "R\xE9compense = +75 pi\xE8ces clics-ascension"
+      - Ricompensa = +75 monete clickascesa
+      - "Belohnung = +75 Klickaufstieg-M\xFCnzen"
+      - Recompensa = +75monedas de clickscension
+      - "\u5831\u916C = +75 \u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3
+        \u30B3\u30A4\u30F3"
+      - "\uBCF4\uC0C1 = +75 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778"
+      - Nagroda = +75 monet wzniesienia
+      - Recompensa = +75 moedas de cliques
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +75 \u043C\u043E\u043D\u0435\u0442
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u5956\u52B1 = +75 \u70B9\u51FB\u98DE\u5347\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +2 second to fist rewards
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +2 second to fist rewards
+      - "R\xE9compense = +2 secondes aux premi\xE8res r\xE9compenses"
+      - Ricompensa = +2 secondi al reward pugno
+      - Belohnung = +2 Sekunde zur ersten Belohnung
+      - "Recompensa = +2 segundos para recompensas del pu\xF1o"
+      - "\u5831\u916C = \u6700\u521D\u306E\u5831\u916C\u307E\u3067 +2 \u79D2"
+      - "\uBCF4\uC0C1 = \uC8FC\uBA39 \uBCF4\uC0C1\uC5D0 +2\uCD08"
+      - "Nagroda = +2 sekundy do nagr\xF3d pi\u0119\u015Bci"
+      - Recompensa = +2 segundos para as primeiras recompensas
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +2 \u0441\u0435\u043A\u0443\u043D\u0434\u044B
+        \u043A \u043D\u0430\u0433\u0440\u0430\u0434\u0430\u043C \u0437\u0430 \u043A\u0443\u043B\u0430\u043A"
+      - "\u5956\u52B1 = +2 \u79D2\u51FA\u62F3\u5956\u52B1"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +20 clickscension coin increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +20% clickscension coin increase
+      - "R\xE9compense = +20\_% d'augmentation des pi\xE8ces clics-ascension"
+      - Ricompensa = +20% di aumento della moneta clickascesa
+      - "Belohnung = +20% Klickaufstieg-M\xFCnzerh\xF6hung"
+      - Recompensa = +20 de aumento de monedas de clickscension
+      - "\u5831\u916C = +20% \u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30B3\u30A4\u30F3\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +20 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778 \uC99D\uAC00"
+      - Nagroda = +20% wzrostu monety wzniesienia
+      - Recompensa = +20% de aumento de moeda de cliques
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +20 \u043C\u043E\u043D\u0435\u0442
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u5956\u52B1 = +20 \u70B9\u51FB\u98DE\u5347\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +20 clickscension coins
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +30 clickscension coins
+      - "R\xE9compense = +30 pi\xE8ces clics-ascension"
+      - Ricompensa = +30 monete clickascesa
+      - "Belohnung = +30 Klickaufstieg-M\xFCnzen"
+      - Recompensa = +30 monedas de clickscension
+      - "\u5831\u916C = +30 \u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3
+        \u30B3\u30A4\u30F3"
+      - "\uBCF4\uC0C1 = +30 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778"
+      - Nagroda = +30 monet wzniesienia
+      - Recompensa = +30 moedas de cliques
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +30 \u043C\u043E\u043D\u0435\u0442
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u5956\u52B1 = +30 \u70B9\u51FB\u98DE\u5347\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +200 clickscension coins
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +1500 clickscension coins
+      - "R\xE9compense = +1500 pi\xE8ces clics-ascension"
+      - Ricompensa = +1500 monete clickascesa
+      - "Belohnung = +1500 Klickaufstieg-M\xFCnzen"
+      - Recompensa = +1500 monedas de clickscension
+      - "\u5831\u916C = +1500 \u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30B3\u30A4\u30F3"
+      - "\uBCF4\uC0C1 = +1500 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778"
+      - Nagroda = +1500 monet wzniesienia
+      - Recompensa = +1500 moedas de cliques
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +1500 \u043C\u043E\u043D\u0435\u0442
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u5956\u52B1 = +1500 \u70B9\u51FB\u98DE\u5347\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +2000 clickscension coins
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Reward = +10000 clickscension coins '
+      - "R\xE9compense = +10000 pi\xE8ces clics-ascension "
+      - 'Ricompensa = +10000 monete clickascesa '
+      - "Belohnung = +10000 Klickaufstieg-M\xFCnzen "
+      - Recompensa = +10000 monedas de clickscension
+      - "\u5831\u916C = +10000 \u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30B3\u30A4\u30F3 "
+      - "\uBCF4\uC0C1 = +10000 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778 "
+      - Nagroda = +10000 monet wzniesienia
+      - 'Recompensa = +10000 moedas de cliques '
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +10000 \u043C\u043E\u043D\u0435\u0442
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u5956\u52B1 = +10000 \u70B9\u51FB\u98DE\u5347\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +25 active click gold increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +30% active click gold increase
+      - "R\xE9compense = +30\_% d'augmentation de l'or par clic actif"
+      - Ricompensa = +30 di aumento click oro attivi
+      - "Belohnung = +30% aktive Klick-Golderh\xF6hung"
+      - Recompensa = +30 de aumento de oro activo
+      - "\u5831\u916C = +30% \u30A2\u30AF\u30C6\u30A3\u30D6\u30AF\u30EA\u30C3\u30AF
+        \u30B4\u30FC\u30EB\u30C9\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +30 \uC9C1\uC811 \uD074\uB9AD \uACE8\uB4DC \uC99D\uAC00"
+      - "Nagroda = +30% wzrostu ilo\u015Bci z\u0142ota za aktywne klikni\u0119cie"
+      - Recompensa = +30% de aumento de ouro por clique ativo
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +30 \u043A\u043B\u0438\u043A\u043E\u0432
+        \u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0433\u043E \u0437\u043E\u043B\u043E\u0442\u0430 "
+      - "\u5956\u52B1 = +30% \u4E3B\u52A8\u70B9\u51FB\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +3 clickscension coins
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +3 clickscension coins
+      - "R\xE9compense = +3 pi\xE8ces clics-ascension"
+      - Ricompensa = +3 monete clickascesa
+      - "Belohnung = +3 Klickaufstieg-M\xFCnzen"
+      - Recompensa = +3 monedas de clickscension
+      - "\u5831\u916C = +3 \u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30B3\u30A4\u30F3"
+      - "\uBCF4\uC0C1 = +3 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778"
+      - Nagroda = +3 monety wzniesienia
+      - Recompensa = +3 moedas de cliques
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +3 \u043C\u043E\u043D\u0435\u0442\u044B
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u5956\u52B1 = +3 \u70B9\u51FB\u98DE\u5347\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +35 clickscension coins
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +65 clickscension coins
+      - "R\xE9compense = +65 pi\xE8ces clics-ascension"
+      - Ricompensa = +65 monete clickascesa
+      - "Belohnung = +65 Klickaufstieg-M\xFCnzen"
+      - Recompensa = +65 monedas de clickscension
+      - "\u5831\u916C = +65 \u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30B3\u30A4\u30F3"
+      - "\uBCF4\uC0C1 = +65 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778"
+      - Nagroda = +65 monet wzniesienia
+      - Recompensa = +65 moedas de cliques
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +65 \u043C\u043E\u043D\u0435\u0442
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u5956\u52B1 = +65 \u70B9\u51FB\u98DE\u5347\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +380 click gold increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +7500% click gold increase
+      - "R\xE9compense = + 7500% d'augmentation de l'or par clic"
+      - Ricompensa = +7500 di aumento click oro
+      - "Belohnung = +7500% Klick-Golderh\xF6hung"
+      - Recompensa = +7500 de aumento de oro por clic
+      - "\u5831\u916C = +7500% \u30AF\u30EA\u30C3\u30AF\u30B4\u30FC\u30EB\u30C9\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +7500 \uD074\uB9AD \uACE8\uB4DC \uC99D\uAC00"
+      - "Nagroda = +7500% wzrostu ilo\u015Bci z\u0142ota za klikni\u0119cie"
+      - Recompensa = +7500% de aumento de ouro por clique
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +7500 \u0437\u043E\u043B\u043E\u0442\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u5956\u52B1 = +7500 \u70B9\u51FB\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +4 clickscension coin increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +4% clickscension coin increase
+      - "R\xE9compense = +4\_% d'augmentation des pi\xE8ces clics-ascension"
+      - Ricompensa = +4 di aumento della moneta clickascesa
+      - "Belohnung = +4% Klickaufstieg-M\xFCnzerh\xF6hung"
+      - Recompensa = +4 de aumento de monedas de clickscension
+      - "\u5831\u916C = +4% \u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30B3\u30A4\u30F3\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +4 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778 \uC99D\uAC00"
+      - Nagroda = +4% wzrostu monet wzniesienia
+      - Recompensa = +4% de aumento de moeda de cliques
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +4 \u043C\u043E\u043D\u0435\u0442\u044B
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u5956\u52B1 = +4 \u70B9\u51FB\u98DE\u5347\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +5 active click gold increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +10% active click gold increase
+      - "R\xE9compense = +10\_% d'augmentation de l'or par clic actif"
+      - Ricompensa = +10 di aumento di click oro
+      - "Belohnung = +10% aktive Klick-Golderh\xF6hung"
+      - Recompensa = +10 de aumento de oro activo
+      - "\u5831\u916C = +10% \u30A2\u30AF\u30C6\u30A3\u30D6\u30AF\u30EA\u30C3\u30AF\u30B4\u30FC\u30EB\u30C9\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +10 \uC9C1\uC811 \uD074\uB9AD \uACE8\uB4DC \uC99D\uAC00"
+      - "Nagroda = +10% wzrostu ilo\u015Bci z\u0142ota za aktywne klikni\u0119cie"
+      - Recompensa = +10% de aumento de ouro por clique ativo
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +10 \u043A\u043B\u0438\u043A\u043E\u0432
+        \u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0433\u043E \u0437\u043E\u043B\u043E\u0442\u0430"
+      - "\u5956\u52B1 = +10 \u4E3B\u52A8\u70B9\u51FB\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +5 click gold increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +2% click gold increase
+      - "R\xE9compense = +2\_% d'augmentation de l'or par clic"
+      - Ricompensa = +2 di aumento click oro
+      - "Belohnung = +2% Klick-Golderh\xF6hung"
+      - Recompensa = +2 de aumento de oro por clic
+      - "\u5831\u916C = +2% \u30AF\u30EA\u30C3\u30AF\u30B4\u30FC\u30EB\u30C9\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +2 \uD074\uB9AD \uACE8\uB4DC \uC99D\uAC00"
+      - "Nagroda = +2% wzrostu ilo\u015Bci z\u0142ota za klikni\u0119cie"
+      - Recompensa = +2% de aumento de ouro por clique
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +2 \u0437\u043E\u043B\u043E\u0442\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u5956\u52B1 = +2 \u70B9\u51FB\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +50 active click gold increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +1000% active click gold increase
+      - "R\xE9compense = +1000\_% d'augmentation de l'or par clic actif"
+      - Ricompensa = +1000 di aumento click oro attivi
+      - "Belohnung = +1000% aktive Klick-Golderh\xF6hung"
+      - Recompensa = +1000 de aumento de oro activo
+      - "\u5831\u916C = +1000% \u30A2\u30AF\u30C6\u30A3\u30D6\u30AF\u30EA\u30C3\u30AF
+        \u30B4\u30FC\u30EB\u30C9\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +1000 \uC9C1\uC811 \uD074\uB9AD \uACE8\uB4DC \uC99D\uAC00"
+      - "Nagroda = +1000% wzrostu ilo\u015Bci z\u0142ota za aktywne klikni\u0119cie"
+      - Recompensa = +1000% de aumento de ouro por clique ativo
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +1000 \u043A\u043B\u0438\u043A\u043E\u0432
+        \u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0433\u043E \u0437\u043E\u043B\u043E\u0442\u0430"
+      - "\u5956\u52B1 = +1000 \u4E3B\u52A8\u70B9\u51FB\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +50 click gold increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +400% click gold increase
+      - "R\xE9compense = +400\_% d'augmentation de l'or par clic"
+      - Ricompensa = +400 di aumento click oro
+      - "Belohnung = +400% Klick-Golderh\xF6hung"
+      - Recompensa = +400 de aumento de oro por clic
+      - "\u5831\u916C = +400% \u30AF\u30EA\u30C3\u30AF\u30B4\u30FC\u30EB\u30C9\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +400 \uD074\uB9AD \uACE8\uB4DC \uC99D\uAC00"
+      - "Nagroda = +400% wzrostu ilo\u015Bci z\u0142ota za klikni\u0119cie"
+      - Recompensa = +400% de aumento de ouro por clique
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +400 \u0437\u043E\u043B\u043E\u0442\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u5956\u52B1 = +400 \u70B9\u51FB\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +50 clickscension coins
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +25 clickscension coins
+      - "R\xE9compense = +25 pi\xE8ces clics-ascension"
+      - Ricompensa = +25 monete clickascesa
+      - "Belohnung = +25 Klickaufstieg-M\xFCnzen"
+      - Recompensa = +25monedas de clickscension
+      - "\u5831\u916C = +25 \u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30FB\u30B3\u30A4\u30F3"
+      - "\uBCF4\uC0C1 = +25 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778"
+      - Nagroda = +25 monet wzniesienia
+      - Recompensa = +25 moedas de cliques
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +25 \u043C\u043E\u043D\u0435\u0442
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u5956\u52B1 = +25 \u70B9\u51FB\u98DE\u5347\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +500 click gold increase
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +25000% click gold increase
+      - "R\xE9compense = +25000\_% d'augmentation de l'or par clic"
+      - Ricompensa = +25000 di aumento click oro
+      - "Belohnung = +25000% Klick-Golderh\xF6hung"
+      - Recompensa = +25000 de aumento de oro por clic
+      - "\u5831\u916C = +25000% \u30AF\u30EA\u30C3\u30AF\u30B4\u30FC\u30EB\u30C9\u5897\u52A0"
+      - "\uBCF4\uC0C1 = +25000 \uD074\uB9AD \uACE8\uB4DC \uC99D\uAC00"
+      - "Nagroda = +25000% wzrostu ilo\u015Bci z\u0142ota za klikni\u0119cie"
+      - Recompensa = +25000% de aumento de ouro por clique
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +25000 \u0437\u043E\u043B\u043E\u0442\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u5956\u52B1 = +25000 \u70B9\u51FB\u91D1\u5E01\u589E\u52A0"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +500 clickscension coins
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +500 clickscension coins
+      - "R\xE9compense = +500 pi\xE8ces clics-ascension"
+      - Ricompensa = +500 monete clickascesa
+      - "Belohnung = +500 Klickaufstieg-M\xFCnzen"
+      - Recompensa = +500 monedas de clickscension
+      - "\u5831\u916C = +500 \u30AF\u30EA\u30C3\u30AF\u30BB\u30F3\u30B7\u30E7\u30F3\u30B3\u30A4\u30F3"
+      - "\uBCF4\uC0C1 = +500 \uD074\uB9AD\uC13C\uC158 \uCF54\uC778"
+      - Nagroda = +500 monet wzniesienia
+      - Recompensa = +500 moedas de cliques
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +500 \u043C\u043E\u043D\u0435\u0442
+        \u0437\u0430 \u043A\u043B\u0438\u043A\u0438"
+      - "\u5956\u52B1 = +500 \u70B9\u51FB\u98DE\u5347\u5E01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = +6 second to fist rewards
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = +4 second to fist rewards
+      - "R\xE9compense = +4 secondes aux premi\xE8res r\xE9compenses"
+      - Ricompensa = +4 secondi al reward pugno
+      - Belohnung = +4 Sekunden zur ersten Belohnung
+      - "Recompensa = +4 segundos para recompensas del pu\xF1o"
+      - "\u5831\u916C = \u6700\u521D\u306E\u5831\u916C\u307E\u3067+4 \u79D2"
+      - "\uBCF4\uC0C1 = \uC8FC\uBA39 \uBCF4\uC0C1\uC5D0 +4\uCD08"
+      - "Nagroda = +4 sekund do nagr\xF3d pi\u0119\u015Bci"
+      - Recompensa = +4 segundos para as primeiras recompensas
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = +4 \u0441\u0435\u043A\u0443\u043D\u0434
+        \u043A \u043D\u0430\u0433\u0440\u0430\u0434\u0430\u043C \u043A\u0443\u043B\u0430\u043A\u0430"
+      - "\u5956\u52B1 = +4 \u79D2\u51FA\u62F3\u5956\u52B1"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = 12 arrows are now shot
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = 12 arrows are now shot
+      - "R\xE9compense = 12 fl\xE8ches sont maintenant tir\xE9es"
+      - Ricompensa = Ora vengono lanciate 12 frecce
+      - Belohnung = 12 Pfeile werden nun abgeschossen
+      - Recompensa = Ahora se disparan 12 flechas
+      - "\u5831\u916C = 12\u672C\u306E\u77E2\u304C\u5C04\u3089\u308C\u308B\u3088\u3046\u306B\u306A\u308A\u307E\u3057\u305F"
+      - "\uBCF4\uC0C1 = 12\uAC1C\uC758 \uD654\uC0B4\uC774 \uBC1C\uC0AC\uB429\uB2C8\uB2E4."
+      - "Nagroda = wystrzelono 12 strza\u0142"
+      - "Recompensa = 12 flechas agora s\xE3o disparadas"
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u0422\u0435\u043F\u0435\u0440\u044C
+        \u0432\u044B\u043F\u0443\u0441\u043A\u0430\u0435\u0442\u0441\u044F 12 \u0441\u0442\u0440\u0435\u043B"
+      - "\u5956\u52B1 = \u73B0\u5728\u5C04\u51FA 12 \u652F\u7BAD"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Another ball spawns
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Another ball spawns
+      - "R\xE9compense = Une autre balle appara\xEEt"
+      - Ricompensa = Viene generata un'altra palla
+      - Belohnung = Ein weiterer Ball erscheint
+      - Recompensa = Aparece otra pelota
+      - "\u5831\u916C = \u5225\u306E\u30DC\u30FC\u30EB\u304C\u51FA\u73FE\u3059\u308B"
+      - "\uBCF4\uC0C1 = \uB610 \uB2E4\uB978 \uACF5\uC774 \uC0DD\uC131\uB429\uB2C8\uB2E4."
+      - "Nagroda = pojawia si\u0119 kolejna kula"
+      - Recompensa = Outra bola aparece
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u041F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u0435
+        \u0435\u0449\u0435 \u043E\u0434\u043D\u043E\u0433\u043E \u0448\u0430\u0440\u0430"
+      - "\u5956\u52B1=\u751F\u6210\u591A\u4E00\u4E2A\u7403"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Another big ball spawns
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Another big ball spawns
+      - "R\xE9compense = Une autre grosse balle appara\xEEt"
+      - Ricompensa = Viene generata un'altra grande palla
+      - "Belohnung = Ein weiterer gro\xDFer Ball erscheint"
+      - Recompensa = Aparece otra bola grande
+      - "\u5831\u916C = \u5225\u306E\u5927\u304D\u306A\u30DC\u30FC\u30EB\u304C\u51FA\u73FE\u3057\u307E\u3059"
+      - "\uBCF4\uC0C1 = \uB610 \uB2E4\uB978 \uD070 \uACF5\uC774 \uC0DD\uC131\uB429\uB2C8\uB2E4."
+      - "Nagroda = pojawia si\u0119 kolejna du\u017Ca kula"
+      - Recompensa = Outra grande bola surge
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u041F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u0435
+        \u0435\u0449\u0435 \u043E\u0434\u043D\u043E\u0433\u043E \u0431\u043E\u043B\u044C\u0448\u043E\u0433\u043E
+        \u0448\u0430\u0440\u0430"
+      - "\u5956\u52B1=\u751F\u6210\u591A\u4E00\u4E2A\u5927\u7403"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Boomerangs sometimes comes back
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Boomerangs sometimes comes back
+      - "R\xE9compense = Les Boomerangs reviennent parfois"
+      - Ricompensa = I boomerang a volte tornano indietro
+      - "Belohnung = Bumerangs kommen manchmal zur\xFCck"
+      - Recompensa = A veces los bumeranes vuelven
+      - "\u5831\u916C\uFF1D\u30D6\u30FC\u30E1\u30E9\u30F3\u304C\u6642\u3005\u623B\u3063\u3066\u304F\u308B"
+      - "\uBCF4\uC0C1 = \uBD80\uBA54\uB791\uC774 \uAC00\uB054 \uB3CC\uC544\uC635\uB2C8\uB2E4."
+      - "Nagroda = Bumerangi czasami wracaj\u0105"
+      - "Recompensa = Bumerangues \xE0s vezes voltam"
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u0411\u0443\u043C\u0435\u0440\u0430\u043D\u0433
+        \u0438\u043D\u043E\u0433\u0434\u0430 \u0432\u043E\u0437\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044F"
+      - "\u5956\u52B1 = \u56DE\u65CB\u9556\u6709\u65F6\u4F1A\u98DE\u56DE\u6765"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Boulders are sometimes bigger
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Boulders are sometimes bigger
+      - "R\xE9compense = Les rochers sont parfois plus gros"
+      - "Ricompensa = I massi a volte sono pi\xF9 grandi"
+      - "Belohnung = Felsbrocken sind manchmal gr\xF6\xDFer"
+      - "Recompensa = A veces las rocas son m\xE1s grandes"
+      - "\u5831\u916C = \u5CA9\u304C\u5927\u304D\u304F\u306A\u308B\u5834\u5408\u304C\u3042\u308A\u307E\u3059"
+      - "\uBCF4\uC0C1 = \uAC00\uB054 \uBC14\uC704\uAC00 \uB354 \uCEE4\uC9D1\uB2C8\uB2E4. "
+      - "Nagroda = Kamienie s\u0105 czasami wi\u0119ksze"
+      - "Recompensa = Pedregulhos \xE0s vezes s\xE3o maiores"
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u044B = \u0412\u0430\u043B\u0443\u043D\u044B
+        \u0438\u043D\u043E\u0433\u0434\u0430 \u0431\u043E\u043B\u044C\u0448\u0435"
+      - "\u5956\u52B1=\u5DE8\u77F3\u6709\u65F6\u4F1A\u53D8\u5927"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Bullets sometimes shoot 3X times
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Bullets sometimes shoot 3X times
+      - "R\xE9compense = Les balles tirent parfois 3 fois"
+      - Ricompensa = I proiettili a volte sparano 3X volte
+      - "Belohnung = Kugeln schie\xDFen manchmal 3-fach"
+      - Recompensa = A veces las balas se disparan 3 veces
+      - "\u5831\u916C = \u5F3E\u4E38\u304C 3 \u500D\u767A\u5C04\u3055\u308C\u308B\u3053\u3068\u304C\u3042\u308A\u307E\u3059"
+      - "\uBCF4\uC0C1 = \uAC00\uB054 3\uBC30\uC758 \uCD1D\uC54C\uC774 \uBC1C\uC0AC\uB429\uB2C8\uB2E4. "
+      - "Nagroda = Kule czasami strzelaj\u0105 3 razy"
+      - "Recompensa = As balas \xE0s vezes disparam 3X vezes"
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u041F\u0443\u043B\u0438 \u0438\u043D\u043E\u0433\u0434\u0430
+        \u0441\u0442\u0440\u0435\u043B\u044F\u044E\u0442 \u0432 3 \u0440\u0430\u0437\u0430
+        \u0447\u0430\u0449\u0435"
+      - "\u5956\u52B1 = \u5B50\u5F39\u6709\u65F6\u4F1A\u5C04\u51FA 3 \u500D"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Cheaper click upgrades
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Cheaper click upgrades
+      - "R\xE9compense\_= Am\xE9liorations des clics moins ch\xE8res"
+      - "Ricompensa = Upgrade dei clic pi\xF9 economici"
+      - "Belohnung = G\xFCnstigere Klick-Upgrades"
+      - "Recompensa = Mejoras de clic m\xE1s econ\xF3micas"
+      - "\u5831\u916C = \u3088\u308A\u5B89\u4FA1\u306A\u30AF\u30EA\u30C3\u30AF\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9"
+      - "\uBCF4\uC0C1 = \uD074\uB9AD \uC5C5\uADF8\uB808\uC774\uB4DC\uC758 \uAC00\uACA9\uC774
+        \uB0B4\uB824\uAC11\uB2C8\uB2E4. "
+      - "Nagroda = Ta\u0144sze aktualizacje klikni\u0119\u0107"
+      - Recompensa = upgrades de clique mais baratos
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F
+        \u043A\u043B\u0438\u043A\u0430 \u0434\u0435\u0448\u0435\u0432\u043B\u0435"
+      - "\u5956\u52B1 = \u70B9\u51FB\u5347\u7EA7\u66F4\u4FBF\u5B9C"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Cheaper projectile upgrades
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Cheaper projectile upgrades
+      - "R\xE9compense =\_am\xE9liorations des projectiles moins ch\xE8res"
+      - "Ricompensa = Upgrade dei proiettili pi\xF9 economici"
+      - "Belohnung = G\xFCnstigere Projektil-Upgrades"
+      - "Recompensa = Mejoras de proyectiles m\xE1s econ\xF3micas"
+      - "\u5831\u916C = \u5B89\u4FA1\u306A\u767A\u5C04\u4F53\u306E\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9"
+      - "\uBCF4\uC0C1 = \uBC1C\uC0AC\uCCB4 \uC5C5\uB4DC\uB808\uC774\uB4DC\uC758 \uAC00\uACA9\uC774
+        \uB0B4\uB824\uAC11\uB2C8\uB2E4. "
+      - "Nagroda = Ta\u0144sze ulepszenia pocisk\xF3w"
+      - "Recompensa = atualiza\xE7\xF5es de proj\xE9teis mais baratas"
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F
+        \u0441\u043D\u0430\u0440\u044F\u0434\u0430 \u0434\u0435\u0448\u0435\u0432\u043B\u0435"
+      - "\u5956\u52B1=\u5F39\u5C04\u7269\u5347\u7EA7\u66F4\u4FBF\u5B9C"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Knives get bigger over time
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Knives get bigger over time
+      - "R\xE9compense = Les couteaux grossissent avec le temps"
+      - "Ricompensa = I coltelli diventano pi\xF9 grandi nel tempo"
+      - "Belohnung = Messer werden mit der Zeit gr\xF6\xDFer"
+      - "Recompensa = Los cuchillos se hacen m\xE1s grandes con el tiempo"
+      - "\u5831\u916C = \u6642\u9593\u306E\u7D4C\u904E\u3068\u3068\u3082\u306B\u30CA\u30A4\u30D5\u304C\u5927\u304D\u304F\u306A\u308A\u307E\u3059"
+      - "\uBCF4\uC0C1 = \uC2DC\uAC04\uC774 \uC9C0\uB0A0\uC218\uB85D \uCE7C\uC774
+        \uB354 \uCEE4\uC9D1\uB2C8\uB2E4. "
+      - "Nagroda = No\u017Ce z czasem staj\u0105 si\u0119 wi\u0119ksze"
+      - Recompensa = As facas ficam maiores com o tempo
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u041D\u043E\u0436\u0438 \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u044E\u0442\u0441\u044F
+        \u0441\u043E \u0432\u0440\u0435\u043C\u0435\u043D\u0435\u043C"
+      - "\u5956\u52B1=\u5200\u4F1A\u968F\u7740\u65F6\u95F4\u53D8\u5927"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Lasers sometimes hoot 4 lasers
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Lasers sometimes shoot 4 lasers
+      - "R\xE9compense = Les lasers lancent parfois 4 lasers"
+      - Ricompensa = I laser a volte lanciano 4 laser
+      - Belohnung = Laser feuern manchmal 4-fach
+      - "Recompensa = A veces los l\xE1seres disparan 4 veces"
+      - "\u5831\u916C = \u30EC\u30FC\u30B6\u30FC\u304C\u6642\u3005\u30EC\u30FC\u30B6\u30FC\u3092
+        4 \u3064\u767A\u5C04\u3059\u308B"
+      - "\uBCF4\uC0C1 = \uAC00\uB054 4\uAC1C\uC758 \uB808\uC774\uC800\uAC00 \uBC1C\uC0AC\uB429\uB2C8\uB2E4. "
+      - "Nagroda = Lasery czasami wystrzeliwuj\u0105 4 lasery"
+      - "Recompensa = Lasers \xE0s vezes apitam 4 lasers"
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u0423\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0438
+        \u0438\u043D\u043E\u0433\u0434\u0430 \u0432\u044B\u043F\u0443\u0441\u043A\u0430\u044E\u0442
+        4 \u043B\u0430\u0437\u0435\u0440\u0430"
+      - "\u5956\u52B1 = \u6FC0\u5149\u6709\u65F6\u4F1A\u5C04\u51FA 4 \u675F\u6FC0\u5149"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = New cursor skin
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = New cursor skin
+      - "R\xE9compense = Nouveau apparence du curseur"
+      - Ricompensa = Nuova skin del cursore
+      - Belohnung = Neuer Cursor-Skin
+      - Recompensa = Nuevo skin del cursor
+      - "\u5831\u916C = \u65B0\u3057\u3044\u30AB\u30FC\u30BD\u30EB\u30B9\u30AD\u30F3"
+      - "\uBCF4\uC0C1 = \uC0C8\uB85C\uC6B4 \uCEE4\uC11C \uC2A4\uD0A8"
+      - "Nagroda = Nowa sk\xF3rka kursora"
+      - Recompensa = Nova skin de cursor
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u041D\u043E\u0432\u044B\u0439
+        \u0441\u043A\u0438\u043D \u043A\u0443\u0440\u0441\u043E\u0440\u0430"
+      - "\u5956\u52B1=\u65B0\u5149\u6807\u76AE\u80A4"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Particle bonanza is better
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Particle bonanza is better
+      - "R\xE9compense = La pluie de particules est meilleure"
+      - "Ricompensa = La Bonanza di particelle \xE8 migliore"
+      - Belohnung = Partikelbelohnung ist besser
+      - "Recompensa = Mejor bonanza de part\xEDculas"
+      - "\u5831\u916C = \u30D1\u30FC\u30C6\u30A3\u30AF\u30EB\u30DC\u30FC\u30CA\u30B9\u306E\u65B9\u304C\u826F\u3044"
+      - "\uBCF4\uC0C1 = \uC785\uC790 \uB178\uB2E4\uC9C0\uAC00 \uB354 \uB098\uC544\uC9D1\uB2C8\uB2E4. "
+      - "Nagroda = Bonanza cz\u0105stek jest lepsza"
+      - "Recompensa = A bonan\xE7a de part\xEDculas \xE9 melhor"
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435
+        \u0437\u043E\u043B\u043E\u0442\u043E\u0433\u043E \u0434\u043D\u0430 \u0447\u0430\u0441\u0442\u0438\u0446"
+      - "\u5956\u52B1=\u7C92\u5B50\u66B4\u5BCC\u66F4\u597D"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Shurikens get bigger over time
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Shurikens get bigger over time
+      - "R\xE9compense = les Shurikens grossissent avec le temps"
+      - "Ricompensa = Gli Shuriken diventano pi\xF9 grandi nel tempo"
+      - "Belohnung = Shurikens werden mit der Zeit gr\xF6\xDFer"
+      - "Recompensa = Los shurikens se hacen m\xE1s grandes con el tiempo"
+      - "\u5831\u916C = \u624B\u88CF\u5263\u306F\u6642\u9593\u306E\u7D4C\u904E\u3068\u3068\u3082\u306B\u5927\u304D\u304F\u306A\u308A\u307E\u3059"
+      - "\uBCF4\uC0C1 = \uC2DC\uAC04\uC774 \uC9C0\uB0A0\uC218\uB85D \uD45C\uCC3D\uC774
+        \uB354 \uCEE4\uC9D1\uB2C8\uB2E4. "
+      - "Nagroda = Shurikeny z czasem staj\u0105 si\u0119 wi\u0119ksze"
+      - Recompensa = Shurikens ficam maiores com o tempo
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u0421\u044E\u0440\u0438\u043A\u0435\u043D\u044B
+        \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u044E\u0442\u0441\u044F
+        \u0441\u043E \u0432\u0440\u0435\u043C\u0435\u043D\u0435\u043C"
+      - "\u5956\u52B1=\u98DE\u9556\u4F1A\u968F\u7740\u65F6\u95F4\u53D8\u5927"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Spears are sometimes bigger
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Spears are sometimes bigger
+      - "R\xE9compense = Les lances sont parfois plus grosses"
+      - "Ricompensa = Le lance a volte sono pi\xF9 grandi"
+      - "Belohnung = Speere sind manchmal gr\xF6\xDFer"
+      - "Recompensa = A veces las lanzas son m\xE1s grandes"
+      - "\u5831\u916C = \u69CD\u304C\u5927\u304D\u304F\u306A\u308B\u5834\u5408\u304C\u3042\u308B"
+      - "\uBCF4\uC0C1 = \uAC00\uB054 \uCC3D\uC774 \uB354 \uCEE4\uC9D1\uB2C8\uB2E4. "
+      - "Nagroda = W\u0142\xF3cznie s\u0105 czasem wi\u0119ksze"
+      - "Recompensa = As lan\xE7as \xE0s vezes s\xE3o maiores"
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u041A\u043E\u043F\u044C\u044F
+        \u0438\u043D\u043E\u0433\u0434\u0430 \u0431\u044B\u0432\u0430\u044E\u0442
+        \u0431\u043E\u043B\u044C\u0448\u0435"
+      - "\u5956\u52B1=\u957F\u77DB\u6709\u65F6\u4F1A\u53D8\u5927"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Spike balls are bigger
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Spike balls are bigger
+      - "R\xE9compense = Les balles Spike sont plus grosses"
+      - "Ricompensa = Le palle chiodate sono pi\xF9 grandi"
+      - "Belohnung = Stachelb\xE4lle sind gr\xF6\xDFer"
+      - "Recompensa = Las bolas de p\xFAas son m\xE1s grandes"
+      - "\u5831\u916C = \u30B9\u30D1\u30A4\u30AF\u30DC\u30FC\u30EB\u304C\u5927\u304D\u304F\u306A\u308B"
+      - "\uBCF4\uC0C1 = \uC2A4\uD30C\uC774\uD06C \uACF5\uC774 \uB354 \uCEE4\uC9D1\uB2C8\uB2E4. "
+      - "Nagroda = Kulki z kolcami s\u0105 wi\u0119ksze"
+      - "Recompensa = As bolas de espinhos s\xE3o maiores"
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u0428\u0438\u043F\u0430\u0441\u0442\u044B\u0435
+        \u0448\u0430\u0440\u044B \u0431\u043E\u043B\u044C\u0448\u0435"
+      - "\u5956\u52B1=\u5C16\u523A\u7403\u53D8\u5927"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Reward = Spikes sometimes get shot
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward = Spikes sometimes get shot
+      - "R\xE9compense = Les Spikes se font parfois tirer dessus"
+      - Ricompensa = A volte vengono sparati gli arpioni
+      - Belohnung = Stacheln werden manchmal abgeschossen
+      - Recompensa = A veces se disparan picos
+      - "\u5831\u916C = \u30B9\u30D1\u30A4\u30AF\u304C\u6483\u305F\u308C\u308B\u3053\u3068\u304C\u3042\u308B"
+      - "\uBCF4\uC0C1 = \uAC00\uB054 \uC2A4\uD30C\uC774\uD06C\uB97C \uB9DE\uAC8C
+        \uB429\uB2C8\uB2E4. "
+      - "Nagroda = Kolce czasami zostaj\u0105 postrzelone"
+      - "Recompensa = Spikes \xE0s vezes levam tiros"
+      - "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 = \u0418\u043D\u043E\u0433\u0434\u0430
+        \u0432\u044B\u0441\u0442\u0440\u0435\u043B\u0438\u0432\u0430\u044E\u0442\u0441\u044F
+        \u0448\u0438\u043F\u044B"
+      - "\u5956\u52B1=\u5C16\u523A\u6709\u65F6\u4F1A\u5C04\u51FA"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Russian
+      TermType: 0
+      Description: 
+      Languages:
+      - Russian
+      - Russe
+      - Russo
+      - Russisch
+      - Ruso
+      - "\u30ED\u30B7\u30A2"
+      - "\uB7EC\uC2DC\uC544\uC5B4"
+      - Rosyjski
+      - Russo
+      - "\u0420\u0443\u0441\u0441\u043A\u0438\u0439"
+      - "\u4FC4\u8BED"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: SAVE
+      TermType: 0
+      Description: 
+      Languages:
+      - SAVE
+      - SAUVEGARDER
+      - SALVA
+      - SPEICHERN
+      - Guardar
+      - "\u4FDD\u5B58"
+      - "\uC800\uC7A5 "
+      - ZAPISZ
+      - Salvar
+      - "\u0421\u041E\u0425\u0420\u0410\u041D\u0418\u0422\u042C"
+      - "\u4FDD\u5B58"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: SETTINGS
+      TermType: 0
+      Description: 
+      Languages:
+      - SETTINGS
+      - "PARAM\xC8TRES"
+      - IMPOSTAZIONI
+      - EINSTELLUNGEN
+      - Ajustes
+      - "\u8A2D\u5B9A"
+      - "\uC124\uC815"
+      - USTAWIENIA
+      - "Configura\xE7\xF5es"
+      - "\u041D\u0410\u0421\u0422\u0420\u041E\u0419\u041A\u0418"
+      - "\u8BBE\u7F6E"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: STATISTICS
+      TermType: 0
+      Description: 
+      Languages:
+      - STATISTICS
+      - 'STATISTIQUES  '
+      - 'STATISTICHE  '
+      - STATISTIK
+      - "Estad\xEDsticas"
+      - "\u7D71\u8A08"
+      - "\uD1B5\uACC4"
+      - STATYSTYKI
+      - "Estat\xEDsticas"
+      - "\u0421\u0422\u0410\u0422\u0418\u0421\u0422\u0418\u041A\u0410"
+      - "\u7EDF\u8BA1"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Select an upgrade
+      TermType: 0
+      Description: 
+      Languages:
+      - Select an upgrade
+      - "S\xE9lectionnez une am\xE9lioration"
+      - Seleziona un potenziamento
+      - "Schie\xDFe 5000 Kugeln"
+      - Selecciona una mejora
+      - "\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3092\u9078\u629E"
+      - "\uC5C5\uADF8\uB808\uC774\uB4DC\uB97C \uC120\uD0DD\uD558\uC138\uC694"
+      - Wybierz ulepszenie
+      - Selecione uma melhoria
+      - "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435"
+      - "\u9009\u62E9\u5347\u7EA7"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: 'Select what to auto purchase when affordable:'
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Select what to auto purchase when affordable:'
+      - "S\xE9lectionnez ce que vous souhaitez acheter automatiquement lorsque cela
+        est abordable\_:"
+      - 'Seleziona cosa acquistare automaticamente quando conveniente:'
+      - "W\xE4hlen Sie aus, was Sie automatisch kaufen m\xF6chten, wenn es erschwinglich
+        ist:"
+      - "Seleccione qu\xE9 comprar autom\xE1ticamente cuando sea asequible:"
+      - "\u81EA\u52D5\u8CFC\u5165\u3059\u308B\u3082\u306E"
+      - "\uC790\uB3D9\uAD6C\uB9E4\uB97C \uC120\uD0DD\uD558\uC138\uC694"
+      - "Wybierz, co chcesz kupi\u0107 automatycznie, gdy jest to niedrogie:"
+      - "Selecione o que comprar automaticamente quando estiver acess\xEDvel:"
+      - "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435, \u0447\u0442\u043E \u043F\u043E\u043A\u0443\u043F\u0430\u0442\u044C
+        \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0438,
+        \u0435\u0441\u043B\u0438 \u044D\u0442\u043E \u0434\u043E\u0441\u0442\u0443\u043F\u043D\u043E:"
+      - "\u9009\u62E9\u81EA\u52A8\u8D2D\u4E70"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Shoot 100 bullets
+      TermType: 0
+      Description: 
+      Languages:
+      - Shoot 5000 bullets
+      - Tirez 5000 balles
+      - Spara 5000 proiettili
+      - 
+      - Dispara 5000 balas
+      - "5000\u767A\u306E\u5F3E\u3092\u6483\u3064"
+      - "5000\uAC1C\uC758 \uCD1D\uC54C \uC3D8\uAE30 "
+      - "Wystrzel 5000 pocisk\xF3w"
+      - Atire 5000 balas
+      - "\u0412\u044B\u0441\u0442\u0440\u0435\u043B\u0438\u0442\u0435 5000 \u043F\u0443\u043B\u044C"
+      - "\u5C04\u51FA 5000 \u9897\u5B50\u5F39"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Shuriken
+      TermType: 0
+      Description: 
+      Languages:
+      - Shuriken
+      - Shuriken
+      - Shuriken
+      - Shuriken
+      - Shuriken
+      - "\u624B\u88CF\u5263"
+      - "\uD45C\uCC3D "
+      - Shuriken
+      - Shuriken
+      - "\u0421\u044E\u0440\u0438\u043A\u0435\u043D"
+      - "\u98DE\u9556"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Sounds
+      TermType: 0
+      Description: 
+      Languages:
+      - Sounds
+      - Sons
+      - Suoni
+      - Sounds
+      - Sonidos
+      - "\u97F3"
+      - "\uC18C\uB9AC"
+      - "D\u017Awi\u0119ki"
+      - Sons
+      - "\u0417\u0432\u0443\u043A\u0438"
+      - "\u97F3\u6548"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spain
+      TermType: 0
+      Description: 
+      Languages:
+      - Spanish
+      - Espagnol
+      - Spagna
+      - Spanisch
+      - "Espa\xF1a"
+      - "\u30B9\u30DA\u30A4\u30F3"
+      - "\uC2A4\uD398\uC778\uC5B4"
+      - "Hiszpa\u0144ski"
+      - Espanhol
+      - "\u0418\u0441\u043F\u0430\u043D\u0438\u044F"
+      - "\u897F\u73ED\u7259\u8BED"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spawn 100 arrows
+      TermType: 0
+      Description: 
+      Languages:
+      - Spawn 10000 arrows
+      - "G\xE9n\xE9rez 10000 fl\xE8ches"
+      - Genera 10000 frecce
+      - Erzeuge 10000 Pfeile
+      - Genera 10000 flechas
+      - "\u77E2\u309210000\u672C\u751F\u6210\u3059\u308B"
+      - "\uD654\uC0B4 10000\uAC1C \uC0DD\uC131"
+      - "Stw\xF3rz 10000 strza\u0142"
+      - Gerar 10000 flechas
+      - "\u041D\u0430\u0439\u0434\u0438\u0442\u0435 10000 \u0441\u0442\u0440\u0435\u043B"
+      - "\u751F\u6210 10000 \u652F\u7BAD"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spawn 100 boomerangs
+      TermType: 0
+      Description: 
+      Languages:
+      - Spawn 2500 boomerangs
+      - "G\xE9n\xE9rez 2500 boomerangs"
+      - Genera 2500 boomerang
+      - Erzeuge 2500 Bumerangs
+      - Genera 2500 bumeranes
+      - "\u30D6\u30FC\u30E1\u30E9\u30F3\u30922500\u500B\u751F\u6210\u3059\u308B"
+      - "\uBD80\uBA54\uB791 2500\uAC1C \uC0DD\uC131"
+      - "Stw\xF3rz 2500 bumerang\xF3w"
+      - Gerar 2500 bumerangues
+      - "\u041D\u0430\u0439\u0434\u0438\u0442\u0435 2500 \u0431\u0443\u043C\u0435\u0440\u0430\u043D\u0433\u043E\u0432"
+      - "\u751F\u6210 2500 \u4E2A\u56DE\u65CB\u9556"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spawn 100 boulders
+      TermType: 0
+      Description: 
+      Languages:
+      - Spawn 1200 boulders
+      - "G\xE9n\xE9rez 1200 rochers"
+      - Genera 1200 massi
+      - Erzeuge 1200 Felsbrocken
+      - Genera 1200 rocas
+      - "\u5CA9\u30921200\u500B\u751F\u6210\u3059\u308B"
+      - "\uBC14\uC704 1200\uAC1C \uC0DD\uC131"
+      - "Stw\xF3rz 1200 kamieni"
+      - Gerar 1200 pedras
+      - "\u041D\u0430\u0439\u0434\u0438\u0442\u0435 1200 \u0432\u0430\u043B\u0443\u043D\u043E\u0432"
+      - "\u751F\u6210 1200 \u5757\u5DE8\u77F3"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spawn 100 knives
+      TermType: 0
+      Description: 
+      Languages:
+      - Spawn 5000 knives
+      - "G\xE9n\xE9rez 5000couteaux"
+      - Genera 5000 coltelli
+      - Erzeuge 5000 Messer
+      - Genera 5000 cuchillos
+      - "\u30CA\u30A4\u30D5\u30925000\u672C\u751F\u6210\u3059\u308B"
+      - "\uCE7C 5000\uAC1C \uC0DD\uC131"
+      - "Stw\xF3rz 5000 no\u017Cy"
+      - Gerar 5000 facas
+      - "\u041D\u0430\u0439\u0434\u0438\u0442\u0435 5000 \u043D\u043E\u0436\u0435\u0439"
+      - "\u751F\u6210 5000 \u628A\u5200"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spawn 100 lasers
+      TermType: 0
+      Description: 
+      Languages:
+      - Spawn 2700 lasers
+      - "G\xE9n\xE9rez 2700 lasers"
+      - Genera 2700 laser
+      - Erzeuge 2700 Laser
+      - "Genera 2700 l\xE1seres"
+      - "\u30EC\u30FC\u30B6\u30FC\u3092 2700 \u500B\u751F\u6210\u3059\u308B"
+      - "\uB808\uC774\uC800 2700\uAC1C \uC0DD\uC131"
+      - "Stw\xF3rz 2700 laser\xF3w"
+      - Gerar 2700 lasers
+      - "\u041D\u0430\u0439\u0434\u0438\u0442\u0435 2700 \u043B\u0430\u0437\u0435\u0440\u043E\u0432"
+      - "\u751F\u6210 2700 \u675F\u6FC0\u5149"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spawn 100 shurikens
+      TermType: 0
+      Description: 
+      Languages:
+      - Spawn 6000 shurikens
+      - "G\xE9n\xE9rez 6000 shurikens"
+      - Genera 6000 shuriken
+      - Erzeuge 6000 Shuriken
+      - Genera 6000 shurikens
+      - "\u624B\u88CF\u5263\u30926000\u500B\u751F\u6210\u3059\u308B"
+      - "\uD45C\uCC3D 6000\uAC1C \uC0DD\uC131"
+      - "Stw\xF3rz 6000 shuriken\xF3w"
+      - Gerar 6000 shurikens
+      - "\u041D\u0430\u0439\u0434\u0438\u0442\u0435 6000 \u0441\u044E\u0440\u0438\u043A\u0435\u043D\u043E\u0432"
+      - "\u751F\u6210 6000 \u4E2A\u98DE\u9556"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spawn 100 spears
+      TermType: 0
+      Description: 
+      Languages:
+      - Spawn 4000 spears
+      - "G\xE9n\xE9rez 4000 lances"
+      - Genera 4000 lance
+      - Erzeuge 4000 Speere
+      - Genera 4000 lanzas
+      - "\u69CD\u30924000\u672C\u751F\u6210\u3059\u308B"
+      - "\uCC3D 4000\uAC1C \uC0DD\uC131"
+      - "Stw\xF3rz 4000 w\u0142\xF3czni"
+      - "Gerar 4000 lan\xE7as"
+      - "\u041D\u0430\u0439\u0434\u0438\u0442\u0435 4000 \u043A\u043E\u043F\u0438\u0439"
+      - "\u751F\u6210 4000 \u652F\u957F\u77DB"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spawn 100 spike balls
+      TermType: 0
+      Description: 
+      Languages:
+      - Spawn 2000 spike balls
+      - "G\xE9n\xE9rez 2000 balles \xE0 pointes"
+      - Genera 2000 palle chiodate
+      - "Erzeuge 2000 Stachelb\xE4lle"
+      - "Genera 2000 bolas de p\xFAas"
+      - "\u30B9\u30D1\u30A4\u30AF\u30DC\u30FC\u30EB\u30922000\u500B\u751F\u6210\u3059\u308B"
+      - "\uC2A4\uD30C\uC774\uD06C \uACF5 2000\uAC1C \uC0DD\uC131"
+      - "Stw\xF3rz 2000 kul z kolcami"
+      - Gerar 2000 bolas de espinhos
+      - "\u041D\u0430\u0439\u0434\u0438\u0442\u0435 2000 \u0448\u0438\u043F\u0430\u0441\u0442\u044B\u0445
+        \u0448\u0430\u0440\u043E\u0432"
+      - "\u751F\u6210 2000 \u4E2A\u5C16\u523A\u7403"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spawn 100 spikes
+      TermType: 0
+      Description: 
+      Languages:
+      - Spawn 2500 spikes
+      - "G\xE9n\xE9rez 2500 pointes"
+      - Genera 2500 arpioni
+      - Erzeuge 2500 Stacheln
+      - Genera 2500 picos
+      - "\u30B9\u30D1\u30A4\u30AF\u3092 2500 \u500B\u751F\u6210\u3059\u308B"
+      - "\uC2A4\uD30C\uC774\uD06C 2500\uAC1C \uC0DD\uC131"
+      - "Stw\xF3rz 2500 kolc\xF3w"
+      - Gerar 2500 espinhos
+      - "\u041D\u0430\u0439\u0434\u0438\u0442\u0435 2500 \u0448\u0438\u043F\u043E\u0432"
+      - "\u751F\u6210 2500 \u4E2A\u5C16\u523A"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spawn 1000 projectiles
+      TermType: 0
+      Description: 
+      Languages:
+      - Spawn 5000 projectiles
+      - "G\xE9n\xE9rez 5 000 projectiles"
+      - Genera 5000 proiettili
+      - Erzeuge 5000 Projektile
+      - Genera 5000 proyectiles
+      - "5000 \u500B\u306E\u767A\u5C04\u4F53\u3092\u751F\u6210\u3059\u308B"
+      - "\uBC1C\uC0AC\uCCB4 5000\uAC1C \uC0DD\uC131"
+      - "Stw\xF3rz 5000 pocisk\xF3w"
+      - "Gerar 5000 proj\xE9teis"
+      - "\u041D\u0430\u0439\u0434\u0438\u0442\u0435 5000 \u0441\u043D\u0430\u0440\u044F\u0434\u043E\u0432"
+      - "\u751F\u6210 5000 \u4E2A\u5F39\u5C04\u7269"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spawn 10000 projectiles
+      TermType: 0
+      Description: 
+      Languages:
+      - Spawn 50000 projectiles
+      - "G\xE9n\xE9rez 50 000 projectiles"
+      - Genera 50000 proiettili
+      - Erzeuge 50000 Projektile
+      - Genera 50000 proyectiles
+      - "50000\u500B\u306E\u767A\u5C04\u4F53\u3092\u751F\u6210\u3059\u308B"
+      - "\uBC1C\uC0AC\uCCB4 50000\uAC1C \uC0DD\uC131"
+      - "Stw\xF3rz 50000 pocisk\xF3w"
+      - "Gerar 50.000 proj\xE9teis"
+      - "\u041D\u0430\u0439\u0434\u0438\u0442\u0435 50 000 \u0441\u043D\u0430\u0440\u044F\u0434\u043E\u0432"
+      - "\u751F\u6210 50000 \u4E2A\u5F39\u5C04\u7269"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spawn 100000 projectiles
+      TermType: 0
+      Description: 
+      Languages:
+      - Spawn 200000 projectiles
+      - "G\xE9n\xE9rez 200000 projectiles"
+      - Genera 200000 proiettili
+      - Erzeuge 200000 Projektile
+      - Genera 200000 proyectiles
+      - "200000\u500B\u306E\u767A\u5C04\u4F53\u3092\u751F\u6210\u3059\u308B"
+      - "\uBC1C\uC0AC\uCCB4 200000\uAC1C \uC0DD\uC131"
+      - "Stw\xF3rz 200000 pocisk\xF3w"
+      - "Gerar 200000 proj\xE9teis"
+      - "\u041D\u0430\u0439\u0434\u0438\u0442\u0435 200000 \u0441\u043D\u0430\u0440\u044F\u0434\u043E\u0432"
+      - "\u751F\u6210 200000 \u4E2A\u5F39\u5C04\u7269"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spear
+      TermType: 0
+      Description: 
+      Languages:
+      - Spear
+      - Lance
+      - Lancia
+      - Speer
+      - Lanza
+      - "\u69CD"
+      - "\uCC3D"
+      - "W\u0142\xF3cznia"
+      - "Lan\xE7a"
+      - "\u041A\u043E\u043F\u044C\u0435"
+      - "\u957F\u77DB"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spike
+      TermType: 0
+      Description: 
+      Languages:
+      - Spike
+      - Pointe
+      - Arpione
+      - Stachel
+      - Espiga
+      - "\u30B9\u30D1\u30A4\u30AF"
+      - "\uC2A4\uD30C\uC774\uD06C"
+      - Kolec
+      - Espinho
+      - "\u0428\u0438\u043F"
+      - "\u957F\u9489"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Spike Ball
+      TermType: 0
+      Description: 
+      Languages:
+      - Spike Ball
+      - "Balle \xC0 Pointes"
+      - Palla chiodata
+      - Stacheball
+      - "Bola de p\xFAas"
+      - "\u30B9\u30D1\u30A4\u30AF\u30DC\u30FC\u30EB"
+      - "\uC2A4\uD30C\uC774\uD06C \uACF5"
+      - Kula Kolczasta
+      - Bola De Espinhos
+      - "\u0428\u0438\u043F\u0430\u0441\u0442\u044B\u0439 \u0448\u0430\u0440"
+      - "\u5C16\u523A\u7403"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Start With Click Gold
+      TermType: 0
+      Description: 
+      Languages:
+      - Start With Click Gold
+      - Commencez par Cliquer sur l'Or
+      - Inizia Con Click oro
+      - Beginne mit Klick-Gold
+      - Empieza con clic de oro
+      - "\u307E\u305A\u306F\u30AF\u30EA\u30C3\u30AF\u30B4\u30FC\u30EB\u30C9\u304B\u3089"
+      - "\uD074\uB9AD \uACE8\uB4DC\uB85C \uC2DC\uC791\uD558\uAE30 "
+      - "Zacznij z klikni\u0119ciami z\u0142ota"
+      - Comece Com Clique Em Ouro
+      - "\u041D\u0430\u0447\u043D\u0438\u0442\u0435 \u0441 \u0437\u043E\u043B\u043E\u0442\u043E\u0433\u043E
+        \u043A\u043B\u0438\u043A\u0430"
+      - "\u4ECE\u70B9\u51FB\u91D1\u5E01\u5F00\u59CB"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: The game will start from the beginning.
+      TermType: 0
+      Description: 
+      Languages:
+      - The game will start from the beginning.
+      - "Le jeu recommencera depuis le d\xE9but."
+      - "Il gioco inizier\xE0 dall'inizio."
+      - Das Spiel beginnt von vorne.
+      - "El juego comenzar\xE1 desde el principio."
+      - "\u30B2\u30FC\u30E0\u306F\u6700\u521D\u304B\u3089\u59CB\u307E\u308A\u307E\u3059\u3002"
+      - "\uC9C4\uD589 \uC0C1\uD669\uC774 \uB2E4\uC2DC \uC2DC\uC791\uB429\uB2C8\uB2E4."
+      - "Gra rozpocznie si\u0119 od pocz\u0105tku."
+      - "O jogo come\xE7ar\xE1 do in\xEDcio."
+      - "\u0418\u0433\u0440\u0430 \u043D\u0430\u0447\u043D\u0435\u0442\u0441\u044F
+        \u0441 \u0441\u0430\u043C\u043E\u0433\u043E \u043D\u0430\u0447\u0430\u043B\u0430."
+      - "\u6E38\u620F\u5C06\u91CD\u65B0\u5F00\u59CB"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Toal click gold from active
+      TermType: 0
+      Description: 
+      Languages:
+      - Total active click gold
+      - Or total des clics actifs
+      - Totale clic oro attivi
+      - Gesamtes Klick-Gold durch aktive Klicks
+      - Oro total por clic activo
+      - "\u30A2\u30AF\u30C6\u30A3\u30D6\u306A\u30AF\u30EA\u30C3\u30AF \u30B4\u30FC\u30EB\u30C9\u306E\u5408\u8A08"
+      - "\uC9C1\uC811\uC801\uC73C\uB85C \uC5BB\uC740 \uCD1D \uD074\uB9AD \uACE8\uB4DC "
+      - "\u0141\u0105czne z\u0142oto z aktywnych klikni\u0119\u0107"
+      - Ouro total de cliques ativos
+      - "\u0412\u0441\u0435\u0433\u043E \u0437\u043E\u043B\u043E\u0442\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432 \u0438\u0437 \u0430\u043A\u0442\u0438\u0432\u0430"
+      - "\u4E3B\u52A8\u70B9\u51FB\u91D1\u5E01\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Toal click gold from crit clicks
+      TermType: 0
+      Description: 
+      Languages:
+      - Total crit click gold
+      - Or total des clics critiques
+      - Totale Click Oro da click crit
+      - Gesamtes Klick-Gold durch kritische Klicks
+      - "Oro total por clic cr\xEDtico"
+      - "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30FB\u30AF\u30EA\u30C3\u30AF\u3067\u5F97\u3089\u308C\u308B\u30AF\u30EA\u30C3\u30AF\u30FB\u30B4\u30FC\u30EB\u30C9\u5408\u8A08"
+      - "\uCE58\uBA85\uD0C0 \uD074\uB9AD\uC73C\uB85C \uC5BB\uC740 \uCD1D \uD074\uB9AD
+        \uACE8\uB4DC "
+      - "\u0141\u0105czne z\u0142oto z klikni\u0119\u0107 krytycznych"
+      - "Total de cliques cr\xEDticos em ouro"
+      - "\u0412\u0441\u0435\u0433\u043E \u0437\u043E\u043B\u043E\u0442\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432 \u0438\u0437 \u043A\u0440\u0438\u0442\u0438\u0447\u043D\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u66B4\u51FB\u91D1\u5E01\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Toal click gold from falling cursors
+      TermType: 0
+      Description: 
+      Languages:
+      - Total falling cursor click gold
+      - Total d'or provenant des curseurs qui tombent
+      - Totale Click Oro da cursore in caduta
+      - Gesamtes Klick-Gold durch fallende Cursor
+      - "Oro total por clics de cursores ca\xEDdos"
+      - "\u843D\u4E0B\u30AB\u30FC\u30BD\u30EB\u3067\u5F97\u3089\u308C\u308B\u30AF\u30EA\u30C3\u30AF\u30FB\u30B4\u30FC\u30EB\u30C9\u5408\u8A08"
+      - "\uD558\uAC15 \uCEE4\uC11C\uC5D0\uC11C \uC5BB\uC740 \uCD1D \uD074\uB9AD \uACE8\uB4DC "
+      - "\u0141\u0105czne z\u0142oto ze spadaj\u0105cych kursor\xF3w"
+      - 'Total de cliques em cursores caindo '
+      - "\u0412\u0441\u0435\u0433\u043E \u0437\u043E\u043B\u043E\u0442\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432 \u0438\u0437 \u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0445
+        \u043A\u0443\u0440\u0441\u043E\u0440\u043E\u0432"
+      - "\u4E0B\u843D\u5149\u6807\u70B9\u51FB\u91D1\u5E01\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Toal click gold from passive
+      TermType: 0
+      Description: 
+      Languages:
+      - Total passive click gold
+      - Total d'or provenant des clics passifs
+      - Totale Click Oro da passivo
+      - Gesamtes Klick-Gold aus passiven Klicks
+      - Oro total por clic pasivo
+      - "\u30D1\u30C3\u30B7\u30D6\u3067\u5F97\u3089\u308C\u308B\u30AF\u30EA\u30C3\u30AF\u30FB\u30B4\u30FC\u30EB\u30C9\u5408\u8A08"
+      - "\uAC04\uC811\uC801\uC73C\uB85C \uC5BB\uC740 \uCD1D \uD074\uB9AD \uACE8\uB4DC "
+      - "\u0141\u0105czne z\u0142oto z klikni\u0119\u0107 pasywnych"
+      - Total de clique em ouro passivo
+      - "\u0412\u0441\u0435\u0433\u043E \u0437\u043E\u043B\u043E\u0442\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432 \u0438\u0437 \u043F\u0430\u0441\u0441\u0438\u0432\u0430"
+      - "\u88AB\u52A8\u70B9\u51FB\u91D1\u5E01\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Total Clicks
+      TermType: 0
+      Description: 
+      Languages:
+      - Total clicks
+      - Nombre total de clics
+      - Totale Click
+      - Gesamtzahl an Klicks
+      - Clics totales
+      - "\u5408\u8A08\u30AF\u30EA\u30C3\u30AF\u6570"
+      - "\uCD1D \uD074\uB9AD "
+      - "\u0141\u0105czna liczba klikni\u0119\u0107"
+      - Total de cliques
+      - "\u0412\u0441\u0435\u0433\u043E \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u70B9\u51FB\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Total auto clicks
+      TermType: 0
+      Description: 
+      Languages:
+      - Total auto clicks
+      - Nombre total de clics automatiques
+      - Totale Click automatici
+      - Gesamtzahl der automatischen Klicks
+      - "Clics autom\xE1ticos totales"
+      - "\u81EA\u52D5\u30AF\u30EA\u30C3\u30AF\u306E\u5408\u8A08\u6570"
+      - "\uCD1D \uC790\uB3D9 \uD074\uB9AD "
+      - "\u0141\u0105czna liczba klikni\u0119\u0107 automatycznych"
+      - "Total de cliques autom\xE1ticos"
+      - "\u0412\u0441\u0435\u0433\u043E \u0430\u0432\u0442\u043E\u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u81EA\u52A8\u70B9\u51FB\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Total click gold acquired
+      TermType: 0
+      Description: 
+      Languages:
+      - Total click gold acquired
+      - Total d'or acquis par les clics
+      - Totale Click Oro acquisiti
+      - Gesamtzahl erworbenen Klick-Golds
+      - Oro total adquirido por clic
+      - "\u7372\u5F97\u3057\u305F\u30AF\u30EA\u30C3\u30AF\u30B4\u30FC\u30EB\u30C9\u306E\u5408\u8A08"
+      - "\uD68D\uB4DD\uD55C \uCD1D \uD074\uB9AD \uACE8\uB4DC "
+      - "\u0141\u0105czna ilo\u015B\u0107 zdobytego z\u0142ota za klikni\u0119cia"
+      - Total de cliques em ouro adquirido
+      - "\u0412\u0441\u0435\u0433\u043E \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u043E
+        \u0437\u043E\u043B\u043E\u0442\u044B\u0445 \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u83B7\u5F97\u7684\u70B9\u51FB\u91D1\u5E01\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Total crit clicks
+      TermType: 0
+      Description: 
+      Languages:
+      - Total crit clicks
+      - Nombre total de clics critiques
+      - Totale Click Crit
+      - Gesamtzahl der kritischen Klicks
+      - "Clics cr\xEDticos totales"
+      - "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30AF\u30EA\u30C3\u30AF\u306E\u5408\u8A08\u6570"
+      - "\uCD1D \uCE58\uBA85\uD0C0 \uD074\uB9AD"
+      - "\u0141\u0105czna liczba klikni\u0119\u0107 krytycznych"
+      - "Total de cliques cr\xEDticos"
+      - "\u0412\u0441\u0435\u0433\u043E \u043A\u0440\u0438\u0442\u0438\u0447\u043D\u044B\u0445
+        \u043A\u043B\u0438\u043A\u043E\u0432"
+      - "\u66B4\u51FB\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Total falling cursor clicks
+      TermType: 0
+      Description: 
+      Languages:
+      - Total falling cursor clicks
+      - Nombre total de clics de curseur en baisse
+      - Totale Click cursore in caduta
+      - Gesamtzahl fallender Cursor-Klicks
+      - "Clics totales de cursores ca\xEDdos"
+      - "\u843D\u4E0B\u30AB\u30FC\u30BD\u30EB\u306E\u5408\u8A08\u30AF\u30EA\u30C3\u30AF\u6570"
+      - "\uCD1D \uD558\uAC15 \uCEE4\uC11C \uD074\uB9AD "
+      - "Ca\u0142kowita liczba klikni\u0119\u0107 spadaj\u0105cych kursor\xF3w"
+      - Total de cliques decrescentes do cursor
+      - "\u0412\u0441\u0435\u0433\u043E \u043A\u043B\u0438\u043A\u043E\u0432 \u043D\u0430
+        \u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0435 \u043A\u0443\u0440\u0441\u043E\u0440\u044B"
+      - "\u4E0B\u843D\u5149\u6807\u70B9\u51FB\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Total falling cursors hit by projectiles
+      TermType: 0
+      Description: 
+      Languages:
+      - Total falling cursors hit by projectiles
+      - "Total des curseurs touch\xE9s par des projectiles"
+      - Totale dei cursori in caduta colpiti dai proiettili
+      - Gesamtzahl fallender Cursor, die von Projektilen getroffen wurden
+      - "Cursores ca\xEDdos alcanzados por proyectiles"
+      - "\u6295\u5C04\u7269\u304C\u5F53\u305F\u3063\u305F\u843D\u4E0B\u30AB\u30FC\u30BD\u30EB\u306E\u7DCF\u6570"
+      - "\uBC1C\uC0AC\uCCB4\uC5D0 \uC801\uC911\uB41C \uCD1D \uD558\uAC15 \uCEE4\uC11C"
+      - "Ca\u0142kowita liczba spadaj\u0105cych kursor\xF3w trafionych pociskami"
+      - "Total de cursores em queda atingidos por proj\xE9teis"
+      - "\u0412\u0441\u0435\u0433\u043E \u043F\u043E\u043F\u0430\u0434\u0430\u043D\u0438\u0439
+        \u0441\u043D\u0430\u0440\u044F\u0434\u043E\u0432 \u043F\u043E \u043F\u0430\u0434\u0430\u044E\u0449\u0438\u043C
+        \u043A\u0443\u0440\u0441\u043E\u0440\u0430\u043C"
+      - "\u88AB\u5F39\u5C04\u7269\u51FB\u4E2D\u7684\u4E0B\u843D\u5149\u6807\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Total falling cursors spawned
+      TermType: 0
+      Description: 
+      Languages:
+      - Total falling cursors spawned
+      - "Nombre total de curseurs g\xE9n\xE9r\xE9s"
+      - Totale di cursori in caduta generati
+      - Gesamtzahl erzeugter fallender Cursor
+      - "Cursores ca\xEDdos generados"
+      - "\u751F\u6210\u3055\u308C\u305F\u843D\u4E0B\u30AB\u30FC\u30BD\u30EB\u306E\u7DCF\u6570"
+      - "\uC0DD\uC131\uB41C \uCD1D \uD558\uAC15 \uCEE4\uC11C"
+      - "\u0141\u0105czna liczba spadaj\u0105cych kursor\xF3w"
+      - Total de cursores caindo gerados
+      - "\u0412\u0441\u0435\u0433\u043E \u043D\u0430\u0439\u0434\u0435\u043D\u043E
+        \u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0445 \u043A\u0443\u0440\u0441\u043E\u0440\u043E\u0432"
+      - "\u751F\u6210\u7684\u4E0B\u843D\u5149\u6807\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Total golden fits clicks
+      TermType: 0
+      Description: 
+      Languages:
+      - Total golden fist clicks
+      - Total des clics du poing d'or
+      - Totale Click pugno d'oro
+      - "Gesamtzahl der Klicks auf goldene F\xE4uste"
+      - "Clics totales del pu\xF1o dorado"
+      - "\u9EC4\u91D1\u306E\u62F3\u306E\u5408\u8A08\u30AF\u30EA\u30C3\u30AF\u6570"
+      - "\uCD1D \uD669\uAE08 \uC8FC\uBA39 \uD074\uB9AD "
+      - "Ca\u0142kowita liczba klikni\u0119\u0107 z\u0142ot\u0105 pi\u0119\u015Bci\u0105"
+      - Total de cliques de punho dourado
+      - "\u0412\u0441\u0435\u0433\u043E \u043A\u043B\u0438\u043A\u043E\u0432 \u043D\u0430
+        \u0437\u043E\u043B\u043E\u0442\u043E\u0439 \u043A\u0443\u043B\u0430\u043A"
+      - "\u9EC4\u91D1\u62F3\u70B9\u51FB\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Total main cursor clicks
+      TermType: 0
+      Description: 
+      Languages:
+      - Total main cursor clicks
+      - Nombre total de clics sur le curseur principal
+      - Totale Click cursore principale
+      - Gesamtzahl der Klicks des Hauptcursors
+      - Clics totales del cursor principal
+      - "\u30E1\u30A4\u30F3 \u30AB\u30FC\u30BD\u30EB\u306E\u5408\u8A08\u30AF\u30EA\u30C3\u30AF\u6570"
+      - "\uCD1D \uC8FC\uC694 \uCEE4\uC11C \uD074\uB9AD "
+      - "\u0141\u0105czna liczba klikni\u0119\u0107 g\u0142\xF3wnego kursora"
+      - Total de cliques do cursor principal
+      - "\u0412\u0441\u0435\u0433\u043E \u043A\u043B\u0438\u043A\u043E\u0432 \u043D\u0430
+        \u0433\u043B\u0430\u0432\u043D\u044B\u0439 \u043A\u0443\u0440\u0441\u043E\u0440"
+      - "\u4E3B\u5149\u6807\u70B9\u51FB\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Total projectile bonanzas
+      TermType: 0
+      Description: 
+      Languages:
+      - Total projectile bonanzas
+      - Bonanza totale de projectiles
+      - Bonanza totale di proiettili!
+      - Totale Belohnung von Projektilen!
+      - "\xA1Bonanza total de proyectiles!"
+      - "\u30D7\u30ED\u30B8\u30A7\u30AF\u30BF\u30A4\u30EB\u306E\u5927\u5F53\u305F\u308A\uFF01"
+      - "\uCD1D\uC54C\uC758 \uB178\uB2E4\uC9C0!"
+      - "Totalne szcz\u0119\u015Bcie z pociskami!"
+      - "Bonan\xE7a total de proj\xE9teis!"
+      - "\u041F\u043E\u043B\u043D\u0430\u044F \u0411\u041E\u041D\u0410\u041D\u0417\u0410
+        \u0441\u043D\u0430\u0440\u044F\u0434\u043E\u0432!"
+      - "\u603B\u7684\u6765\u8BF4\u662F\u6295\u5C04\u7269\u7684\u66B4\u5BCC\uFF01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Total projectiles spawned
+      TermType: 0
+      Description: 
+      Languages:
+      - Total projectiles spawned
+      - "Total de projectiles g\xE9n\xE9r\xE9s"
+      - Totale proiettili generati
+      - Gesamtzahl der erzeugten Projektile
+      - Proyectiles totales generados
+      - "\u751F\u6210\u3055\u308C\u305F\u767A\u5C04\u4F53\u306E\u7DCF\u6570"
+      - "\uC0DD\uC131\uB41C \uCD1D \uBC1C\uC0AC\uCCB4"
+      - "Liczba wystrzelonych pocisk\xF3w"
+      - "Total de proj\xE9teis gerados"
+      - "\u0412\u0441\u0435\u0433\u043E \u043D\u0430\u0439\u0434\u0435\u043D\u043E
+        \u0441\u043D\u0430\u0440\u044F\u0434\u043E\u0432"
+      - "\u751F\u6210\u7684\u5F39\u5C04\u7269\u603B\u6570"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Volume
+      TermType: 0
+      Description: 
+      Languages:
+      - Volume
+      - Volume
+      - Volume
+      - "Lautst\xE4rke"
+      - Volumen
+      - "\u97F3\u91CF"
+      - "\uC74C\uB7C9"
+      - "G\u0142o\u015Bno\u015B\u0107"
+      - Volume
+      - "\u0413\u0440\u043E\u043C\u043A\u043E\u0441\u0442\u044C"
+      - "\u97F3\u91CF"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: WELCOME BACK!
+      TermType: 0
+      Description: 
+      Languages:
+      - 'WELCOME
+
+        BACK!'
+      - 'Accueillir
+
+        Dos!'
+      - 'Benvenuto
+
+        Indietro!'
+      - "Willkommen\nZur\xFCck!"
+      - "Bienvenido\n\xA1Atr\xE1s!"
+      - "\u3044\u3089\u3063\u3057\u3083\u3044\u307E\u305B\n\u623B\u308B\uFF01"
+      - "\uD658\uC601\n\uB4A4\uCABD\uC5D0!"
+      - 'Witamy
+
+        Z Powrotem!'
+      - 'Bem-Vindo
+
+        Voltar!'
+      - "\u0414\u043E\u0431\u0440\u043E \u041F\u043E\u0436\u0430\u043B\u043E\u0432\u0430\u0442\u044C\n\u041D\u0430\u0437\u0430\u0434!"
+      - "\u6B22\u8FCE\n\u540E\u9000\uFF01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Wishlist on steam!
+      TermType: 0
+      Description: 
+      Languages:
+      - Wishlist on steam!
+      - Liste de souhaits sur Steam !
+      - Lista dei desideri su Steam!
+      - Wunschliste auf Steam!
+      - "\xA1Lista de deseos en Steam!"
+      - "Steam\u306E\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\uFF01"
+      - "\uC2A4\uD300 \uC704\uC2DC\uB9AC\uC2A4\uD2B8!"
+      - "Dodaj do listy \u017Cycze\u0144 na Steamie!"
+      - Lista de desejos no Steam!
+      - "\u0421\u043F\u0438\u0441\u043E\u043A \u0436\u0435\u043B\u0430\u043D\u0438\u0439
+        \u0432 \u0441\u0442\u0438\u043C\u0435!"
+      - "steam\u613F\u671B\u6E05\u5355\uFF01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Would you like to ascend?
+      TermType: 0
+      Description: 
+      Languages:
+      - Would you like to ascend?
+      - Souhaitez-vous ascensionner ?
+      - Vuoi ascendere?
+      - "M\xF6chtest du aufsteigen?"
+      - "\xBFTe gustar\xEDa ascender?"
+      - "\u6607\u5929\u3057\u307E\u3059\u304B\uFF1F"
+      - "\uC2B9\uCC9C\uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+      - "Chcesz awansowa\u0107?"
+      - Gostaria de ascender?
+      - "\u0412\u044B \u0445\u043E\u0442\u0438\u0442\u0435 \u0432\u043E\u0437\u043D\u0435\u0441\u0442\u0438\u0441\u044C?"
+      - "\u4F60\u60F3\u5347\u534E\u5417\uFF1F"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: YES
+      TermType: 0
+      Description: 
+      Languages:
+      - YES
+      - OUI
+      - "S\xCC"
+      - JA
+      - "S\xED"
+      - "\u306F\u3044"
+      - "\uB124"
+      - TAK
+      - Sim
+      - "\u0414\u0410"
+      - "\u662F"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: You can hold down TAB to purchase maximum upgrades!
+      TermType: 0
+      Description: 
+      Languages:
+      - You can hold down TAB to purchase maximum upgrades!
+      - "Vous pouvez maintenir la touche TAB enfonc\xE9e pour acheter les am\xE9liorations
+        maximales !"
+      - Puoi tenere premuto TAB per acquistare il numero massimo di potenziamenti!
+      - "Du kannst TAB gedr\xFCckt halten, um die maximalen Upgrades zu kaufen!"
+      - "\xA1Puedes mantener presionada la tecla TAB para comprar todas las mejoras
+        posibles!"
+      - "TAB\u3092\u62BC\u3057\u7D9A\u3051\u3066\u3001\u6700\u5927\u9650\u306E\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3092\u8CFC\u5165\u3067\u304D\u307E\u3059\uFF01"
+      - "TAB \uD0A4\uB97C \uB20C\uB7EC \uCD5C\uB300 \uC5C5\uADF8\uB808\uC774\uB4DC\uB97C
+        \uAD6C\uB9E4\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4!"
+      - "Mo\u017Cesz przytrzyma\u0107 TAB, aby zakupi\u0107 maksymalne ulepszenia!"
+      - "Voc\xEA pode segurar TAB para comprar o m\xE1ximo de melhorias!"
+      - "\u0412\u044B \u043C\u043E\u0436\u0435\u0442\u0435 \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044C
+        TAB, \u0447\u0442\u043E\u0431\u044B \u043A\u0443\u043F\u0438\u0442\u044C
+        \u043C\u0430\u043A\u0441\u0438\u043C\u0443\u043C \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0439!"
+      - "\u4F60\u53EF\u4EE5\u6309\u4F4FTAB\u952E\u8D2D\u4E70\u6700\u591A\u7684\u5347\u7EA7\uFF01"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: 'You performed a lot of clicks while you were gone, giving you a total
+        of:'
+      TermType: 0
+      Description: 
+      Languages:
+      - 'You performed a lot of clicks while you were gone, giving you a total of:'
+      - "Vous avez effectu\xE9 de nombreux clics pendant votre absence, vous donnant
+        un total de :"
+      - 'Hai eseguito molti clic mentre eri via, dandoti un totale di:'
+      - "Du hast viele Klicks ausgef\xFChrt, w\xE4hrend du weg warst, und hast insgesamt
+        erhalten:"
+      - "Has realizado muchos clics mientras estabas ausente, d\xE1ndote un total
+        de:"
+      - "\u4E0D\u5728\u306E\u9593\u306B\u591A\u304F\u306E\u30AF\u30EA\u30C3\u30AF\u3092\u884C\u3044\u3001\u5408\u8A08\u306F\u6B21\u306E\u901A\u308A\u3067\u3059\uFF1A"
+      - "\uBD80\uC7AC \uC911\uC5D0 \uB9CE\uC740 \uD074\uB9AD\uC744 \uC218\uD589\uD558\uC5EC
+        \uCD1D \uD68D\uB4DD\uB7C9\uC740 \uB2E4\uC74C\uACFC \uAC19\uC2B5\uB2C8\uB2E4:"
+      - "Wykona\u0142e\u015B wiele klikni\u0119\u0107 podczas swojej nieobecno\u015Bci,
+        daj\u0105c ci \u0142\u0105cznie:"
+      - "Voc\xEA realizou muitos cliques enquanto estava ausente, dando a voc\xEA
+        um total de:"
+      - "\u0412\u044B \u0441\u0434\u0435\u043B\u0430\u043B\u0438 \u043C\u043D\u043E\u0433\u043E
+        \u043A\u043B\u0438\u043A\u043E\u0432, \u043F\u043E\u043A\u0430 \u0432\u0430\u0441
+        \u043D\u0435 \u0431\u044B\u043B\u043E, \u0438 \u043F\u043E\u043B\u0443\u0447\u0438\u043B\u0438
+        \u0432 \u043E\u0431\u0449\u0435\u0439 \u0441\u043B\u043E\u0436\u043D\u043E\u0441\u0442\u0438:"
+      - "\u4F60\u79BB\u5F00\u671F\u95F4\u8FDB\u884C\u4E86\u8BB8\u591A\u70B9\u51FB\uFF0C\u7ED9\u4F60\u5E26\u6765\u4E86\u603B\u8BA1:"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Check out more games from the developer!
+      TermType: 0
+      Description: 
+      Languages:
+      - Check out more games from the developer!
+      - "D\xE9couvrez plus de jeux du d\xE9veloppeur\_!"
+      - Scopri altri giochi dello sviluppatore!
+      - Schauen Sie sich weitere Spiele des Entwicklers an!
+      - "\xA1Mira m\xE1s juegos del desarrollador!"
+      - "\u3082\u3063\u3068\u30B2\u30FC\u30E0\u3092\u30C1\u30A7\u30C3\u30AF\u3057\u3066\u304F\u3060\u3055\u3044!"
+      - "\uAC1C\uBC1C\uC790\uAC00 \uC81C\uACF5\uD558\uB294 \uB354 \uB9CE\uC740 \uAC8C\uC784\uC744
+        \uD655\uC778\uD574 \uBCF4\uC138\uC694!"
+      - "Sprawd\u017A wi\u0119cej gier od dewelopera!"
+      - Confira mais jogos da desenvolvedora!
+      - "\u0412\u0441\u0442\u0440\u0435\u0447\u0430\u0439\u0442\u0435 \u0431\u043E\u043B\u044C\u0448\u0435
+        \u0438\u0433\u0440 \u043E\u0442 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430!"
+      - "\u67E5\u770B\u66F4\u591A\u6E38\u620F"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Auto
+      TermType: 0
+      Description: 
+      Languages:
+      - Auto
+      - Auto
+      - Auto
+      - Auto
+      - Auto
+      - "\u81EA\u52D5\u8CFC\u5165"
+      - "\uC790\uB3D9\uAD6C\uC785"
+      - Automatyczny
+      - Auto
+      - "\u0410\u0432\u0442\u043E"
+      - "\u81EA\u52A8\u8D2D\u4E70"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: French
+      Code: fr
+      Flags: 0
+    - Name: Italian
+      Code: it
+      Flags: 0
+    - Name: German
+      Code: de
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: Polish
+      Code: pl
+      Flags: 0
+    - Name: Portuguese
+      Code: pt
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: Chinese (Simplified)
+      Code: zh-CN
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbxmsWnET3SaGfEJLBInfNQi9oczXunSTB8tuogWjcyBNmnUCPBzAB9CHE-tpi33MK4r/exec
+    Google_SpreadsheetKey: 1belils2IMtNoA6IEGSpLgu9Rel88l-jbPqRqNotvZLo
+    Google_SpreadsheetName: I2Loc Clicker Clicker Clicker Localization
+    Google_LastUpdatedVersion: 1731929793257
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets:
+    - {fileID: 11400000, guid: ca247a3092b7b404dbaa6f4ab43e450c, type: 2}
+    - {fileID: 11400000, guid: e4c4029659edfb54691f29d2a1fa4a84, type: 2}
+    - {fileID: 11400000, guid: b8d9408d82d0bd74cb6543166b3b8fe1, type: 2}
+    - {fileID: 11400000, guid: 9ea5adbff8cbe7749a2d9a00353fe277, type: 2}
+    - {fileID: 11400000, guid: f073cf42e62c95641b63cf0ee645133c, type: 2}
+    - {fileID: 11400000, guid: 3dc0e5feb7d22fa419577fc1210d744c, type: 2}
+    - {fileID: 11400000, guid: 18c0c2f7ee6167e48976893cc10db688, type: 2}
+    - {fileID: 11400000, guid: 436947b7beafcf346858c4441ccbe15c, type: 2}
+    - {fileID: 11400000, guid: d108730db68bcb644a42eadc28fca900, type: 2}
+    - {fileID: 11400000, guid: 2637ae9c54bf4c643b1539b753181fda, type: 2}
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1

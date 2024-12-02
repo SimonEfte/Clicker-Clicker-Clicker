@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FallingCursorParent
+  - ProjectiveParent
+  - TextTag1
+  - TextTag2
+  - FallingCursor
+  - Boulder
+  - Spike
+  - Laser
+  - SpikeBall
+  - Boomerang
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ReturnFalling
+  - FallingCursor
+  - CursorAOE
+  - Projectile
+  - Walls
+  - GoldenFist
+  - AOE2
+  - AOE3
+  - AOE4
+  - AOE5
+  - AOE6
+  - Walls2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
