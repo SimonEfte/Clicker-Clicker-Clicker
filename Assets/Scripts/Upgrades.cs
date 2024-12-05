@@ -150,6 +150,8 @@ public class Upgrades : MonoBehaviour, IDataPersistence
 
         if(isAutoClick == true) { autoCheckmarkClick.SetActive(true); autoClickHighlight.SetActive(true); }
         else { autoCheckmarkClick.SetActive(false); }
+
+        if(critChance > 100) { critChance = 100; }
     }
 
     IEnumerator Wait()
@@ -299,15 +301,24 @@ public class Upgrades : MonoBehaviour, IDataPersistence
                     totalUpgradePriceclicker[i] *= clickerPriceIncrease;
                 }
 
-                if (maxUpgradeCountclicker[0] >= 1)
+
+                if (critChance >= 100)
                 {
-                    critChancePriceText.text = $"{ScaleNumbers.FormatPoints(clickerUpgradePriceTotal[0])}<size=14>X{maxUpgradeCountclicker[0]}";
-                    critChancePriceText.color = Color.green;
+                    critChancePriceText.color = Color.red;
+                    critChancePriceText.text = LocalizationStrings.max;
                 }
                 else
                 {
-                    critChancePriceText.text = $"{ScaleNumbers.FormatPoints(clickerUpgradePrice[0])}<size=14>X{0}";
-                    critChancePriceText.color = Color.red;
+                    if (maxUpgradeCountclicker[0] >= 1)
+                    {
+                        critChancePriceText.text = $"{ScaleNumbers.FormatPoints(clickerUpgradePriceTotal[0])}<size=14>X{maxUpgradeCountclicker[0]}";
+                        critChancePriceText.color = Color.green;
+                    }
+                    else
+                    {
+                        critChancePriceText.text = $"{ScaleNumbers.FormatPoints(clickerUpgradePrice[0])}<size=14>X{0}";
+                        critChancePriceText.color = Color.red;
+                    }
                 }
 
                 if (maxUpgradeCountclicker[1] >= 1)
@@ -367,12 +378,21 @@ public class Upgrades : MonoBehaviour, IDataPersistence
                     increment += 1;
                 }
 
-                critChancePriceText.text = $"{ScaleNumbers.FormatPoints(clickerUpgradePriceTotal[0])}<size=14>X{upgradeAmount}";
+                if (critChance >= 100)
+                {
+                    critChancePriceText.color = Color.red;
+                    critChancePriceText.text = LocalizationStrings.max;
+                }
+                else
+                {
+                    critChancePriceText.text = $"{ScaleNumbers.FormatPoints(clickerUpgradePriceTotal[0])}<size=14>X{upgradeAmount}";
+                    if (MainCursorClick.totalClickPoints >= clickerUpgradePriceTotal[0]) { critChancePriceText.color = Color.green; }
+                    else { critChancePriceText.color = Color.red; }
+                }
+
                 critIncreasePriceText.text = $"{ScaleNumbers.FormatPoints(clickerUpgradePriceTotal[1])}<size=14>X{upgradeAmount}";
                 AOEpriceText.text = $"{ScaleNumbers.FormatPoints(clickerUpgradePriceTotal[3])}<size=14>X{upgradeAmount}";
 
-                if (MainCursorClick.totalClickPoints >= clickerUpgradePriceTotal[0]) { critChancePriceText.color = Color.green; }
-                else { critChancePriceText.color = Color.red; }
                 if (MainCursorClick.totalClickPoints >= clickerUpgradePriceTotal[1]) { critIncreasePriceText.color = Color.green; }
                 else { critIncreasePriceText.color = Color.red; }
 
@@ -667,9 +687,12 @@ public class Upgrades : MonoBehaviour, IDataPersistence
         {
             if (clickAutoNumber == 0)
             {
-                if (MainCursorClick.totalClickPoints >= clickerUpgradePrice[0])
+                if(critChance < 100)
                 {
-                    UpgradeCrit(true);
+                    if (MainCursorClick.totalClickPoints >= clickerUpgradePrice[0])
+                    {
+                        UpgradeCrit(true);
+                    }
                 }
             }
             if (clickAutoNumber == 1)
@@ -774,8 +797,16 @@ public class Upgrades : MonoBehaviour, IDataPersistence
               
                 AOEpriceText.text = ScaleNumbers.FormatPoints(clickerUpgradePrice[3]);
 
-                if (MainCursorClick.totalClickPoints >= clickerUpgradePrice[0]) { critChancePriceText.color = Color.green; }
-                else { critChancePriceText.color = Color.red; }
+                if(critChance >= 100)
+                {
+                    critChancePriceText.color = Color.red;
+                    critChancePriceText.text = LocalizationStrings.max;
+                }
+                else
+                {
+                    if (MainCursorClick.totalClickPoints >= clickerUpgradePrice[0]) { critChancePriceText.color = Color.green; }
+                    else { critChancePriceText.color = Color.red; }
+                }
 
                 if (MainCursorClick.totalClickPoints >= clickerUpgradePrice[1]) { critIncreasePriceText.color = Color.green; }
                 else { critIncreasePriceText.color = Color.red; }
@@ -1541,6 +1572,13 @@ public class Upgrades : MonoBehaviour, IDataPersistence
 
     public void UpgradeCrit(bool isCritChance)
     {
+        if(isCritChance == true && critChance >= 100)
+        {
+            critChance = 100;
+            CantAfford();
+            return;
+        }
+
         bool isMaxor1X = false;
         bool is10or25x = false;
         int timesUpgrade = 1;

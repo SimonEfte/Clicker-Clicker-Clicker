@@ -12,10 +12,13 @@ public class DemoScript : MonoBehaviour
     public void Awake()
     {
         SkinScript.isSkinsDLC = false;
-        MobileScript.isMobile = false;
+
+        MobileScript.isMobile = true;
+
         MobileScript.isAppStoreOut = false;
-        MobileScript.isGooglePlayOut = true;
-        MobileScript.isThisAppStore = false;
+        MobileScript.isGooglePlayOut = false;
+
+        MobileScript.isThisAppStore = true;
         MobileScript.isThisGooglePlay = false;
         isDemo = false;
         isTesting = false;

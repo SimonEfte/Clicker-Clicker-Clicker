@@ -701,4 +701,9 @@ public class MobileScript : MonoBehaviour
     {
         Application.OpenURL("https://play.google.com/store/apps/developer?id=EagleEye+Games+Norway&hl=en");
     }
+
+    public void MoreGamesAPPSTORE()
+    {
+        Application.OpenURL("https://apps.apple.com/us/developer/simon-eftest%C3%B8l/id1782530055");
+    }
 }

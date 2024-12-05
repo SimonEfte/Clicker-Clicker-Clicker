@@ -195,7 +195,7 @@ public class SettingsAndUI : MonoBehaviour
 
             if (MobileScript.isGooglePlayOut == false && MobileScript.isAppStoreOut == false)
             {
-                if(MobileScript.isThisGooglePlay == false && MobileScript.isAppStoreOut == false)
+                if(MobileScript.isThisGooglePlay == false && MobileScript.isThisAppStore == false)
                 {
                     steamBtn.transform.localPosition = new Vector2(-446, -167);
                     discordBtn.transform.localPosition = new Vector2(-446, -292);

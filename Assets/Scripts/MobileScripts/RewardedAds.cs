@@ -60,6 +60,4 @@ public class RewardedAds : MonoBehaviour ,IUnityAdsLoadListener ,IUnityAdsShowLi
     }
     #endregion
 
- 
-
 }

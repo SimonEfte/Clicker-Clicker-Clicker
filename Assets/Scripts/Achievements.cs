@@ -343,11 +343,11 @@ public class Achievements : MonoBehaviour, IDataPersistence
 
     public void TriggerSteamAchTest(string achNAME)
     {
-        var ach = new Steamworks.Data.Achievement(achNAME);
-        if (ach.State == false)
-        {
-            ach.Trigger();
-        }
+        //  var ach = new Steamworks.Data.Achievement(achNAME);
+        //   if (ach.State == false)
+        //  {
+        //  ach.Trigger();
+        //  }
     }
 
     #region Trigger ach
@@ -357,11 +357,11 @@ public class Achievements : MonoBehaviour, IDataPersistence
 
         if (DemoScript.isDemo == false)
         {
-            var ach = new Steamworks.Data.Achievement(achNAME);
-            if (ach.State == false)
-            {
-            ach.Trigger();
-            }
+            //var ach = new Steamworks.Data.Achievement(achNAME);
+            // if (ach.State == false)
+            // {
+            //ach.Trigger();
+            //  }
 
             if (hideCompleted == true)
             {

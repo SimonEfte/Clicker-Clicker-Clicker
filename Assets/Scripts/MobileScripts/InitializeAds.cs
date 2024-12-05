@@ -12,7 +12,6 @@ public class InitializeAds : MonoBehaviour ,IUnityAdsInitializationListener
 
     private string gameId;
 
-
     private void Awake()
     {
         #if UNITY_IOS
