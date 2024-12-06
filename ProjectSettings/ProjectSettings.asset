@@ -163,6 +163,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.EagleEyeGames.ClickerClickerClicker
     Standalone: com.EagleEye-Games.Clicker-Clicker-Clicker
+    iPhone: com.EagleEye-Games.Clicker-Clicker-Clicker
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -288,7 +289,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 93d8aab19da1c3c4ab9ceb7c6cb35ab1, type: 3}
+      m_Icon: {fileID: 2800000, guid: 5ba1094e40c654fe2815de337d0fd247, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
