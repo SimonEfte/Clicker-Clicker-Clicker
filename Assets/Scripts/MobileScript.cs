@@ -124,7 +124,7 @@ public class MobileScript : MonoBehaviour
 
         isGoldReward = false;
 
-        if (firstTime == false) { firstTime = true; adChosen = 1; adWaitTime = 160; }
+        if (firstTime == false) { firstTime = true; adChosen = 1; adWaitTime = 170; }
         else 
         {
             if(adChosen == 1) { adChosen = 2; }
@@ -160,7 +160,7 @@ public class MobileScript : MonoBehaviour
 
         claimRewardFrame.SetActive(false);
 
-        if(isAdsRemoved == true) { StartCoroutine(SetAdBtn()); }
+        StartCoroutine(SetAdBtn());
     }
 
     public void OpenAdFrame()
