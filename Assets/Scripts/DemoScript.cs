@@ -18,8 +18,8 @@ public class DemoScript : MonoBehaviour
         MobileScript.isAppStoreOut = false;
         MobileScript.isGooglePlayOut = false;
 
-        MobileScript.isThisAppStore = true;
-        MobileScript.isThisGooglePlay = false;
+        MobileScript.isThisAppStore = false;
+        MobileScript.isThisGooglePlay = true;
         isDemo = false;
         isTesting = false;
         CheckDemoStuff();
