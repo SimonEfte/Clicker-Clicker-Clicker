@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using TMPro;
 using UnityEngine.Advertisements;
 using UnityEngine.Purchasing;
+using System;
 
 public class MobileScript : MonoBehaviour
 {
@@ -91,6 +92,7 @@ public class MobileScript : MonoBehaviour
     }
     #endregion
 
+    
 
     #region all AD stuff
     public GameObject cgAdBtn, clickscensionAdBtn, adFrame, plussGoldText, plussClickscensionText, claimRewardFrame, claimGoldText, claimClickscensionText;
@@ -101,7 +103,12 @@ public class MobileScript : MonoBehaviour
 
     public void Update()
     {
-        if(isRewarded == true)
+        if (Input.GetKeyDown(KeyCode.O))
+        {
+            ScreenCapture.CaptureScreenshot("screenshot-" + DateTime.Now.ToString("yyyy-mm-dd-hh-sss") + ".png", 1);
+        }
+
+        if (isRewarded == true)
         {
             isRewarded = false;
 
@@ -290,14 +297,15 @@ public class MobileScript : MonoBehaviour
         mainCursor.transform.localPosition = new Vector2(-30f, 52f);
         mainCursor.transform.localScale = new Vector2(7.6f, 7.6f);
 
-        activeBtn.transform.localPosition = new Vector2(-230f, -535f);
-        activeBtn.transform.localScale = new Vector2(1.25f, 1.25f);
+        activeBtn.transform.localPosition = new Vector2(-230f, -515f);
+        activeBtn.transform.localScale = new Vector2(1.20f, 1.20f);
 
-        passiveBtn.transform.localPosition = new Vector2(230f, -535f);
+        passiveBtn.transform.localPosition = new Vector2(230f, -515f);
+        passiveBtn.transform.localScale = new Vector2(1.25f, 1.25f);
         passiveBtn.transform.localScale = new Vector2(1.25f, 1.25f);
 
-        topTotalGold.transform.localPosition = new Vector2(0, 620);
-        topTotalGold.transform.localScale = new Vector2(1.25f, 1.25f);
+        topTotalGold.transform.localPosition = new Vector2(0, 585);
+        topTotalGold.transform.localScale = new Vector2(1.20f, 1.20f);
 
         clickscensionPlussText.transform.localPosition = new Vector2(-30, 620);
 
@@ -307,13 +315,12 @@ public class MobileScript : MonoBehaviour
         //statsBtn.transform.localPosition = new Vector2(170, -875);
         //achBtn.transform.localPosition = new Vector2(340, -875);
 
-        projectileBtn.transform.localScale = new Vector2(1.4f, 1.4f);
-        clickUpgradeBtn.transform.localScale = new Vector2(1.4f, 1.4f);
-        prestigeBtn.transform.localScale = new Vector2(1.4f, 1.4f);
-        statsBtn.transform.localScale = new Vector2(1.5f, 1.4f);
-        achBtn.transform.localScale = new Vector2(1.4f, 1.4f);
+        projectileBtn.transform.localScale = new Vector2(1.32f, 1.32f);
+        clickUpgradeBtn.transform.localScale = new Vector2(1.32f, 1.32f);
+        prestigeBtn.transform.localScale = new Vector2(1.32f, 1.32f);
+        statsBtn.transform.localScale = new Vector2(1.32f, 1.32f);
+        achBtn.transform.localScale = new Vector2(1.32f, 1.32f);
     }
-
     #endregion
 
     #region Set projectile frame
@@ -330,7 +337,7 @@ public class MobileScript : MonoBehaviour
         x25projectile.transform.localPosition = new Vector3(12f, -73.5f, 0f);
         maxProjectile.transform.localPosition = new Vector3(34f, -73.5f, 0f);
 
-        projectileFrame.transform.localScale = new Vector3(8.734f, 8.734f, 8.734f);
+        projectileFrame.transform.localScale = new Vector3(8.5f, 8.5f, 8.5f);
 
         projectileFrame.GetComponent<RectTransform>().sizeDelta = new Vector2(93, 190);
         projectileFrame2.GetComponent<RectTransform>().sizeDelta = new Vector2(93.5f, 191.3f);
@@ -483,7 +490,7 @@ public class MobileScript : MonoBehaviour
         statsText.transform.localPosition = new Vector2(0f, 802f);
         statsText.transform.localScale = new Vector2(1.86f, 1.86f);
 
-        statsFrame.transform.localScale = new Vector2(0.91f, 0.91f);
+        statsFrame.transform.localScale = new Vector2(0.87f, 0.87f);
         statsFrame.GetComponent<RectTransform>().sizeDelta = new Vector2(915, 1847);
 
         brownFrame.GetComponent<RectTransform>().sizeDelta = new Vector2(1014, 1876);
