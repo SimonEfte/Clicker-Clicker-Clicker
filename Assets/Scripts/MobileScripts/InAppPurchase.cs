@@ -14,7 +14,7 @@ public class InAppPurchase : MonoBehaviour, IDetailedStoreListener
 
     private void Start()
     {
-        if(MobileScript.isMobile == true)
+        if (MobileScript.isMobile == true && MobileScript.isThisAppStore == false)
         {
             SetupBuilder();
             isAdsRemovedPlayerprefs = PlayerPrefs.GetInt("isAdsRemoved");

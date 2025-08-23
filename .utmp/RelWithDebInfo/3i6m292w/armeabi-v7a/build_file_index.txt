@@ -1,0 +1,2 @@
+C:\Users\simon\OneDrive\Skrivebord\GitHubProjects\Clicker-Clicker-Clicker\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\simon\OneDrive\Skrivebord\GitHubProjects\Clicker-Clicker-Clicker\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt

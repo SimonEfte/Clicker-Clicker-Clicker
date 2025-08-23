@@ -15,9 +15,7 @@ public class RewardedAds : MonoBehaviour ,IUnityAdsLoadListener ,IUnityAdsShowLi
 
     private void Awake()
     {
-        #if UNITY_IOS
-                        adUnitId = iosAdUnitId;
-        #elif UNITY_ANDROID
+        #if UNITY_ANDROID
                 adUnitId = androidAdUnitId;
         #endif
     }

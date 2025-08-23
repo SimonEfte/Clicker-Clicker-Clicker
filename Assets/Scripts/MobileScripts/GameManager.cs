@@ -10,10 +10,7 @@ public class GameManager : MonoBehaviour
     public int score = 0;
     //public int gamePlayed = 1;
 
-
     //public bool isRewared = false;
-
-
 
     public static GameManager Instance { get; private set; }
 

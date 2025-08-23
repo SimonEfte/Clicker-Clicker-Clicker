@@ -70,7 +70,10 @@ public class MobileScript : MonoBehaviour
             closeSkinsBTN.transform.localPosition = new Vector2(0, -554);
             closeSkinsBTN.transform.localScale = new Vector2(9f, 9f);
 
-            StartCoroutine(SetAdBtn());
+            if(MobileScript.isThisAppStore == false)
+            {
+                StartCoroutine(SetAdBtn());
+            }
         }
         else
         {

@@ -13,7 +13,7 @@ public class AdsManager : MonoBehaviour
 
     private void Awake()
     {
-        if(MobileScript.isMobile == true)
+        if (MobileScript.isMobile == true && MobileScript.isThisAppStore == false)
         {
             if (Instance != null && Instance != this)
             {

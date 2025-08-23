@@ -13,7 +13,7 @@ public class DemoScript : MonoBehaviour
     {
         SkinScript.isSkinsDLC = false;
 
-        MobileScript.isMobile = true;
+        MobileScript.isMobile = true; //yop
 
         MobileScript.isAppStoreOut = false;
         MobileScript.isGooglePlayOut = false;

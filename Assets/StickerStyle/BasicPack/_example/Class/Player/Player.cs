@@ -55,7 +55,7 @@ namespace Alfish.StickerStyle_BasicPack_Example {
     float currentPenalty;
     void FixedUpdate() {
       //> Show speed
-      var v = body.velocity;
+      var v = body.linearVelocity;
       var speed = new Vector2(v.x, v.z).magnitude;
       g.speedIndicator.SetValue(speed / g.indicatorMaxSpeed);
       g.speedCounter.text = speed.ToString("N1") + " m/s";

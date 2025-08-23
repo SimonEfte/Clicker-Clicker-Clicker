@@ -1895,7 +1895,7 @@ public class Upgrades : MonoBehaviour, IDataPersistence
                 if (MobileScript.isMobile == false) { knifeSpeed = 12f; }
                 else { knifeSpeed = 6f; }
                
-                knife.GetComponent<Rigidbody2D>().velocity = randomDirection * knifeSpeed;
+                knife.GetComponent<Rigidbody2D>().linearVelocity = randomDirection * knifeSpeed;
 
                 float angle = Mathf.Atan2(randomDirection.y, randomDirection.x) * Mathf.Rad2Deg;
 
@@ -2001,7 +2001,7 @@ public class Upgrades : MonoBehaviour, IDataPersistence
                     Vector2 randomDirection2 = Random.insideUnitCircle.normalized;
 
                     float knifeSpeed = 7f;
-                    spike.GetComponent<Rigidbody2D>().velocity = randomDirection2 * knifeSpeed;
+                    spike.GetComponent<Rigidbody2D>().linearVelocity = randomDirection2 * knifeSpeed;
 
                     float angle2 = Mathf.Atan2(randomDirection2.y, randomDirection2.x) * Mathf.Rad2Deg;
 
@@ -2088,9 +2088,9 @@ public class Upgrades : MonoBehaviour, IDataPersistence
                 Vector2 leftDirection = Quaternion.Euler(0, 0, -5) * randomDirection1;
                 Vector2 rightDirection = Quaternion.Euler(0, 0, 5) * randomDirection1;
 
-                shuriken1.GetComponent<Rigidbody2D>().velocity = middleDirection.normalized * knifeSpeed;
-                shuriken2.GetComponent<Rigidbody2D>().velocity = leftDirection.normalized * knifeSpeed;
-                shuriken3.GetComponent<Rigidbody2D>().velocity = rightDirection.normalized * knifeSpeed;
+                shuriken1.GetComponent<Rigidbody2D>().linearVelocity = middleDirection.normalized * knifeSpeed;
+                shuriken2.GetComponent<Rigidbody2D>().linearVelocity = leftDirection.normalized * knifeSpeed;
+                shuriken3.GetComponent<Rigidbody2D>().linearVelocity = rightDirection.normalized * knifeSpeed;
 
                 float angle = Mathf.Atan2(randomDirection1.y, randomDirection1.x) * Mathf.Rad2Deg;
 
@@ -2173,7 +2173,7 @@ public class Upgrades : MonoBehaviour, IDataPersistence
                 if (MobileScript.isMobile == false) { spearSpeed = 12f; }
                 else { spearSpeed = 6f; }
 
-                spear.GetComponent<Rigidbody2D>().velocity = randomDirection * spearSpeed;
+                spear.GetComponent<Rigidbody2D>().linearVelocity = randomDirection * spearSpeed;
 
                 float angle = Mathf.Atan2(randomDirection.y, randomDirection.x) * Mathf.Rad2Deg;
 
@@ -2266,8 +2266,8 @@ public class Upgrades : MonoBehaviour, IDataPersistence
                     float angle = i * angleIncrement;
                     Vector2 direction = Quaternion.Euler(0, 0, angle) * Vector2.up; // Convert angle to direction
 
-                    if (MobileScript.isMobile == false) { rb.velocity = direction * 11; }
-                    else { rb.velocity = direction * 6; }
+                    if (MobileScript.isMobile == false) { rb.linearVelocity = direction * 11; }
+                    else { rb.linearVelocity = direction * 6; }
 
                     // Set individual rotation for each arrow
                     float arrowRotation = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;

@@ -54,7 +54,7 @@ public class BallShooter : MonoBehaviour
         if (bulletRb != null)
         {
             // Add force in the direction the GameObject is facing (based on its rotation)
-            bulletRb.velocity = transform.right * speed; // Assuming the bullet travels along the x-axis of the GameObject.
+            bulletRb.linearVelocity = transform.right * speed; // Assuming the bullet travels along the x-axis of the GameObject.
         }
         yield return new WaitForSeconds(0.1f);
 

@@ -374,6 +374,23 @@ MonoBehaviour:
       - "\u7BAD"
       Flags: 0000000000000000000000
       Languages_Touch: []
+    - Term: Auto
+      TermType: 0
+      Description: 
+      Languages:
+      - Auto
+      - Auto
+      - Auto
+      - Auto
+      - Auto
+      - "\u81EA\u52D5\u8CFC\u5165"
+      - "\uC790\uB3D9\uAD6C\uC785"
+      - Automatyczny
+      - Auto
+      - "\u0410\u0432\u0442\u043E"
+      - "\u81EA\u52A8\u8D2D\u4E70"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
     - Term: Auto Clicker
       TermType: 0
       Description: 
@@ -636,6 +653,25 @@ MonoBehaviour:
         \u0441\u043D\u0430\u0440\u044F\u0434\u043E\u0432 \u0432 \u0441\u0435\u043A\u0443\u043D\u0434\u0443."
       - " \u673A\u7387/\u70B9\u51FB = \u6BCF\u6B21\u4E3B\u5149\u6807\u70B9\u51FB\u751F\u6210\u5F39\u5C04\u7269\u7684\u673A\u4F1A\u3002\n\n\u673A\u7387/\u79D2
         = \u6BCF\u79D2\u751F\u6210\u5F39\u5C04\u7269\u7684\u673A\u4F1A\u3002"
+      Flags: 0000000000000000000000
+      Languages_Touch: []
+    - Term: Check out more games from the developer!
+      TermType: 0
+      Description: 
+      Languages:
+      - Check out more games from the developer!
+      - "D\xE9couvrez plus de jeux du d\xE9veloppeur\_!"
+      - Scopri altri giochi dello sviluppatore!
+      - Schauen Sie sich weitere Spiele des Entwicklers an!
+      - "\xA1Mira m\xE1s juegos del desarrollador!"
+      - "\u3082\u3063\u3068\u30B2\u30FC\u30E0\u3092\u30C1\u30A7\u30C3\u30AF\u3057\u3066\u304F\u3060\u3055\u3044!"
+      - "\uAC1C\uBC1C\uC790\uAC00 \uC81C\uACF5\uD558\uB294 \uB354 \uB9CE\uC740 \uAC8C\uC784\uC744
+        \uD655\uC778\uD574 \uBCF4\uC138\uC694!"
+      - "Sprawd\u017A wi\u0119cej gier od dewelopera!"
+      - Confira mais jogos da desenvolvedora!
+      - "\u0412\u0441\u0442\u0440\u0435\u0447\u0430\u0439\u0442\u0435 \u0431\u043E\u043B\u044C\u0448\u0435
+        \u0438\u0433\u0440 \u043E\u0442 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430!"
+      - "\u67E5\u770B\u66F4\u591A\u6E38\u620F"
       Flags: 0000000000000000000000
       Languages_Touch: []
     - Term: Chinese
@@ -3916,42 +3952,6 @@ MonoBehaviour:
       - "\u4F60\u79BB\u5F00\u671F\u95F4\u8FDB\u884C\u4E86\u8BB8\u591A\u70B9\u51FB\uFF0C\u7ED9\u4F60\u5E26\u6765\u4E86\u603B\u8BA1:"
       Flags: 0000000000000000000000
       Languages_Touch: []
-    - Term: Check out more games from the developer!
-      TermType: 0
-      Description: 
-      Languages:
-      - Check out more games from the developer!
-      - "D\xE9couvrez plus de jeux du d\xE9veloppeur\_!"
-      - Scopri altri giochi dello sviluppatore!
-      - Schauen Sie sich weitere Spiele des Entwicklers an!
-      - "\xA1Mira m\xE1s juegos del desarrollador!"
-      - "\u3082\u3063\u3068\u30B2\u30FC\u30E0\u3092\u30C1\u30A7\u30C3\u30AF\u3057\u3066\u304F\u3060\u3055\u3044!"
-      - "\uAC1C\uBC1C\uC790\uAC00 \uC81C\uACF5\uD558\uB294 \uB354 \uB9CE\uC740 \uAC8C\uC784\uC744
-        \uD655\uC778\uD574 \uBCF4\uC138\uC694!"
-      - "Sprawd\u017A wi\u0119cej gier od dewelopera!"
-      - Confira mais jogos da desenvolvedora!
-      - "\u0412\u0441\u0442\u0440\u0435\u0447\u0430\u0439\u0442\u0435 \u0431\u043E\u043B\u044C\u0448\u0435
-        \u0438\u0433\u0440 \u043E\u0442 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430!"
-      - "\u67E5\u770B\u66F4\u591A\u6E38\u620F"
-      Flags: 0000000000000000000000
-      Languages_Touch: []
-    - Term: Auto
-      TermType: 0
-      Description: 
-      Languages:
-      - Auto
-      - Auto
-      - Auto
-      - Auto
-      - Auto
-      - "\u81EA\u52D5\u8CFC\u5165"
-      - "\uC790\uB3D9\uAD6C\uC785"
-      - Automatyczny
-      - Auto
-      - "\u0410\u0432\u0442\u043E"
-      - "\u81EA\u52A8\u8D2D\u4E70"
-      Flags: 0000000000000000000000
-      Languages_Touch: []
     CaseInsensitiveTerms: 0
     OnMissingTranslation: 1
     mTerm_AppName: 
@@ -3992,7 +3992,7 @@ MonoBehaviour:
     IgnoreDeviceLanguage: 0
     _AllowUnloadingLanguages: 0
     Google_WebServiceURL: https://script.google.com/macros/s/AKfycbxmsWnET3SaGfEJLBInfNQi9oczXunSTB8tuogWjcyBNmnUCPBzAB9CHE-tpi33MK4r/exec
-    Google_SpreadsheetKey: 1belils2IMtNoA6IEGSpLgu9Rel88l-jbPqRqNotvZLo
+    Google_SpreadsheetKey: 1rnvXgbP2yGuCHEygbHxpcNm21xvDauapYjbmvcBW-vM
     Google_SpreadsheetName: I2Loc Clicker Clicker Clicker Localization
     Google_LastUpdatedVersion: 1731929793257
     Google_Password: change_this

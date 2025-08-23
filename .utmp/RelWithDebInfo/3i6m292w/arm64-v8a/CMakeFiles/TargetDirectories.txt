@@ -1,0 +1,5 @@
+C:/Users/simon/OneDrive/Skrivebord/GitHubProjects/Clicker-Clicker-Clicker/.utmp/RelWithDebInfo/3i6m292w/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/simon/OneDrive/Skrivebord/GitHubProjects/Clicker-Clicker-Clicker/.utmp/RelWithDebInfo/3i6m292w/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/simon/OneDrive/Skrivebord/GitHubProjects/Clicker-Clicker-Clicker/.utmp/RelWithDebInfo/3i6m292w/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/simon/OneDrive/Skrivebord/GitHubProjects/Clicker-Clicker-Clicker/.utmp/RelWithDebInfo/3i6m292w/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/simon/OneDrive/Skrivebord/GitHubProjects/Clicker-Clicker-Clicker/.utmp/RelWithDebInfo/3i6m292w/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

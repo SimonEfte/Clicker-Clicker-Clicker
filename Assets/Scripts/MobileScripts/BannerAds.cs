@@ -13,11 +13,10 @@ public class BannerAds : MonoBehaviour
 
     private void Awake()
     {
-        #if UNITY_IOS
-                adUnitId = iosAdUnitId;
-        #elif UNITY_ANDROID
+   
+#if UNITY_ANDROID
                 adUnitId = androidAdUnitId;
-        #endif
+#endif
         
         Advertisement.Banner.SetPosition(BannerPosition.BOTTOM_CENTER);
     }
@@ -51,22 +50,22 @@ public class BannerAds : MonoBehaviour
     }
 
 
-    #region Show Callbacks
+#region Show Callbacks
     private void BannerHidden()   {    }
 
     private void BannerClicked()   {    }
 
     private void BannerShown()    {    }
-    #endregion
+#endregion
 
-    #region Load Callbacks
+#region Load Callbacks
     private void BannerLoadedError(string message)    {    }
 
     private void BannerLoaded()
     {
         Debug.Log("Banner Ad Loaded");
     }
-    #endregion
+#endregion
 
 
 

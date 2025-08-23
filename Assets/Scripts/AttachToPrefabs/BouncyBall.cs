@@ -39,8 +39,8 @@ public class BouncyBall : MonoBehaviour
 
         rb.constraints = RigidbodyConstraints2D.FreezeAll;
 
-        if (isBouncy == true) { rb.velocity = rb.velocity.normalized * 0; }
-        if (isBigBouncy == true) { rb.velocity = rb.velocity.normalized * 0; }
+        if (isBouncy == true) { rb.linearVelocity = rb.linearVelocity.normalized * 0; }
+        if (isBigBouncy == true) { rb.linearVelocity = rb.linearVelocity.normalized * 0; }
         yield return new WaitForSeconds(1f);
 
         rb.constraints = RigidbodyConstraints2D.None;
@@ -82,17 +82,17 @@ public class BouncyBall : MonoBehaviour
         else if (gameObject.name == "ProjectileBall") { bounceSpeed = 9; isTurret = true; }
         else { bounceSpeed = Upgrades.projectileChance[4]; isBouncy = true; }
 
-        if (random == 0) { rb.velocity = new Vector2(-1, -1) * bounceSpeed; }
-        if (random == 1) { rb.velocity = new Vector2(1, 1) * bounceSpeed; }
-        if (random == 2) { rb.velocity = new Vector2(1, -1) * bounceSpeed; }
-        if (random == 3) { rb.velocity = new Vector2(-1, 1) * bounceSpeed; }
+        if (random == 0) { rb.linearVelocity = new Vector2(-1, -1) * bounceSpeed; }
+        if (random == 1) { rb.linearVelocity = new Vector2(1, 1) * bounceSpeed; }
+        if (random == 2) { rb.linearVelocity = new Vector2(1, -1) * bounceSpeed; }
+        if (random == 3) { rb.linearVelocity = new Vector2(-1, 1) * bounceSpeed; }
     }
 
     bool isSpeed;
 
     private void FixedUpdate()
     {
-        lastVelocity = rb.velocity;
+        lastVelocity = rb.linearVelocity;
 
         if(isSpeed == true)
         {
@@ -100,13 +100,13 @@ public class BouncyBall : MonoBehaviour
             {
                 float currentBounceSpeed = Upgrades.projectileChance[4];
 
-                rb.velocity = rb.velocity.normalized * currentBounceSpeed;
+                rb.linearVelocity = rb.linearVelocity.normalized * currentBounceSpeed;
             }
             if (isBigBouncy)
             {
                 float currentBounceSpeed = Upgrades.projectileChance[8];
 
-                rb.velocity = rb.velocity.normalized * currentBounceSpeed;
+                rb.linearVelocity = rb.linearVelocity.normalized * currentBounceSpeed;
             }
         }
     }
@@ -130,7 +130,7 @@ public class BouncyBall : MonoBehaviour
             var speed = lastVelocity.magnitude;
             var direction = Vector3.Reflect(lastVelocity.normalized, collision.contacts[0].normal);
 
-            rb.velocity = direction * Mathf.Max(speed, 0);
+            rb.linearVelocity = direction * Mathf.Max(speed, 0);
 
             if(isBouncy == true) { Stats.ballBounced += 1; }
             if (isBigBouncy == true) { Stats.bigBallBounced += 1; }

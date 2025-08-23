@@ -14,15 +14,14 @@ public class InitializeAds : MonoBehaviour ,IUnityAdsInitializationListener
 
     private void Awake()
     {
-        #if UNITY_IOS
-                gameId = iosGameId;
-        #elif UNITY_ANDROID
-                gameId = androidGameId;
-        #elif UNITY_EDITOR
-                gameId= androidGameId; // If you Havn't Switched the Platfrom...
-        #endif
 
-         if (!Advertisement.isInitialized && Advertisement.isSupported)
+#if UNITY_ANDROID
+                gameId = androidGameId;
+#elif UNITY_EDITOR
+        gameId = androidGameId; // If you Havn't Switched the Platfrom...
+#endif
+
+        if (!Advertisement.isInitialized && Advertisement.isSupported)
         {
             Advertisement.Initialize(gameId, isTesting, this);
         }
