@@ -70,7 +70,7 @@ public class MobileScript : MonoBehaviour
             closeSkinsBTN.transform.localPosition = new Vector2(0, -554);
             closeSkinsBTN.transform.localScale = new Vector2(9f, 9f);
 
-            if(MobileScript.isThisAppStore == false)
+            if(isThisAppStore == false)
             {
                 StartCoroutine(SetAdBtn());
             }
@@ -108,7 +108,7 @@ public class MobileScript : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.O))
         {
-            ScreenCapture.CaptureScreenshot("screenshot-" + DateTime.Now.ToString("yyyy-mm-dd-hh-sss") + ".png", 1);
+            //ScreenCapture.CaptureScreenshot("screenshot-" + DateTime.Now.ToString("yyyy-mm-dd-hh-sss") + ".png", 1);
         }
 
         if (isRewarded == true)
