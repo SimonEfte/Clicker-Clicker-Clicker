@@ -13,7 +13,7 @@ public class BannerAds : MonoBehaviour
 
     private void Awake()
     {
-   
+        Debug.Log("1");
 #if UNITY_ANDROID
                 adUnitId = androidAdUnitId;
 #endif
@@ -23,6 +23,7 @@ public class BannerAds : MonoBehaviour
 
     public void LoadBannerAd()
     {
+        Debug.Log("1");
         BannerLoadOptions options = new BannerLoadOptions
         {
             loadCallback = BannerLoaded,

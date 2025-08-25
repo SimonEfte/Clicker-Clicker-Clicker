@@ -74,6 +74,7 @@ public class MobileScript : MonoBehaviour
             {
                 StartCoroutine(SetAdBtn());
             }
+
         }
         else
         {
@@ -94,8 +95,6 @@ public class MobileScript : MonoBehaviour
         }
     }
     #endregion
-
-    
 
     #region all AD stuff
     public GameObject cgAdBtn, clickscensionAdBtn, adFrame, plussGoldText, plussClickscensionText, claimRewardFrame, claimGoldText, claimClickscensionText;

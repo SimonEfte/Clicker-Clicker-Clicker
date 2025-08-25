@@ -15,6 +15,7 @@ public class AdsManager : MonoBehaviour
     {
         if (MobileScript.isMobile == true && MobileScript.isThisAppStore == false)
         {
+            Debug.Log("1");
             if (Instance != null && Instance != this)
             {
                 Destroy(gameObject);

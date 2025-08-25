@@ -80,6 +80,7 @@ public class InAppPurchase : MonoBehaviour, IDetailedStoreListener
 
     public PurchaseProcessingResult ProcessPurchase(PurchaseEventArgs purchaseEvent)
     {
+        Debug.Log("33e");
         //Retrive the purchased product
         var product = purchaseEvent.purchasedProduct;
 
